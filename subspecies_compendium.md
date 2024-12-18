@@ -40,7 +40,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > *Add*{: .text-gamma .header-font }  
 > > The Pros – and Cons – that come with this subspecies, these are added onto the existing species.
 > >
-> > If a subspecies would add anything that the existing species already has, *only one*{: .underlined } instance of that trait is kept – typically the highest value, the worst Weakness or the highest Power.
+> > If a subspecies would add anything that the existing species already has, *only one*{: .underlined } instance of that trait is kept – typically the highest value or the worst Weakness.
 > >
 > > This can be subjective, so check with your GM if you're not sure.  
 > > This doesn't apply to anything with a + sign; if a subspecies adds +1 Defense, it adds on top of the base species' Defense.
@@ -489,7 +489,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > *+ Perform (Appeal)*{: .courage-color }  
 > > *+ Persuade (Charm)*{: .courage-color }  
 > > Immune (Poison)  
-> > Weakness (Sleep)  
+> > Weakness (Sleep, Fear)  
 > > *The Level and Duration of all statuses you suffer associated with sleep are doubled.*{: .mgl .fs-3 }  
 > > Weakness (Fear, Magic, Shock)  
 > > *If you're currently Intangible, you're wrenched back to a solid state with force, Dazing (1) you for a turn for each point of damage taken (minimum 1 turn).*{: .mgl .fs-3 }  
@@ -1064,7 +1064,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > Specialisations from the base species in *Athletics*{: .heart-color }, *Knowhow*{: .spirit-color }, *Trickery*{: .spirit-color }, *Cheer*{: .courage-color } and Perform; remove any remaining specialisations from the final species one at a time until you have at most 3
 > >
 > > Immune/Resist (Fire, Shock)  
-> > Weakness (Fear)  
+> > Weakness (Fire, Fear)  
 > >
 > > Aquatic  
 > > Clone  
@@ -1470,7 +1470,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > Immune (Aerial)  
 > > *This Immunity is negated if the attacker has Immune (Spikes).*{: .mgl .fs-3 }  
 > > Contact  
-> > *The attacker takes 1 Piercing DMG, and you make a **Steady**{: .courage-color } check; the attacker is stunned for 1 turn for each Grade of Success.
+> > *The attacker takes 1 Piercing DMG, and you make a **Steady**{: .courage-color } check; the attacker is Dazed (1) for 1 turn for each Grade of Success.
 > >
 >
 > {: .specie-inner-callout }
@@ -1524,6 +1524,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > Latent (Stone Cap)  
 > > *For **5 FP**{: .spirit-color }: Activate the effect of a Stone Cap, targeting yourself.*{: .mgl .fs-3 }  
 > > Mimicry  
+> > *If used without a visual aid or reference, you receive a -1 penalty to its Grade of Success.
 > > Weakness (Blast, Quake)  
 > > *This Weakness only applies while in a stone form.*{: .mgl .fs-3 }  
 > > *Your stone form is chipped, nullifying its effects and Dazing (1) you for a turn for each point of damage taken (minimum 1 turn).*{: .mgl .fs-3 }

@@ -197,7 +197,7 @@ This can be subjective though, and in some cases up to the character to decide, 
 > 
 > - *Nice!*{: .nice-color }: A familiar, ordinary creature that you can see, such as a Goomba, Koopa or Boo. Costs *1 FP*{: .spirit-color } per turn.
 > - *Good!*{: .good-color }: An ordinary creature. Costs *2 FP*{: .spirit-color } per turn.
-> - *Great!*{: .great-color }: An unusual or large target that you can see, such as a Piranha Plant, Chomp or Hothead, or an ordinary creature with copies of their equipment. Costs *3 FP*{: .spirit-color } per turn.
+> - *Great!*{: .great-color }: An unusual or large target that you can see, such as a Piranha Plant, Chomp or Hothead, or an ordinary creature with copies of their equipment. Requires a visual aid or reference. Costs *3 FP*{: .spirit-color } per turn.
 > - *Wonderful!*{: .wonderful-color }: An unusual or large target, or an ordinary creature with copies of their equipment. Costs *4 FP*{: .spirit-color } per turn.
 > - *Excellent!*{: .excellent-color }: An extremely unusual or large target that you can see, such as a dragon or giant Blooper. Costs *5 FP*{: .spirit-color } per turn.
 > - *Unbelievable!*{: .unbelievable-color }: A creature that you have no visual reference for, which may not even exist; it can even be extremely unusual or large. Costs *6 FP*{: .spirit-color } per turn.

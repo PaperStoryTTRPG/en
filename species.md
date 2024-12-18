@@ -204,7 +204,7 @@ A spooky backhand terrifies the foe, causing them to either flee or cower in fea
 > > {: .specie-inner-callout }  
 > > > *Outta Sight*{: .header-font } (*0 FP*{: .spirit-color })  
 Hides you and your allies away from attacks.  
-*Trickery (+Evade)*{: .spirit-color }:  
+*Trickery (+Dodge)*{: .spirit-color }:  
 *Nice!*{: .nice-color }: Become Secure for one turn.  
 *Secure, Allies, Harmless*{: .italic }
 > > >

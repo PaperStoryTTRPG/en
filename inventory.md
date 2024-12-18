@@ -1469,6 +1469,7 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 250 Coins
 > >
 > > Whenever you would spend *FP*{: .spirit-color }, you spend 1 less than normal. This Badge cannot reduce *FP*{: .spirit-color } cost for any Technique or action below 1.
+> > This effect can't be used multiple times on the same technique without stacking other copies of Flower Saver.
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/allornothing.png)
@@ -1681,6 +1682,7 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > >
 > > For *2 FP*{: .spirit-color }:  
 > > *Adds +1 Attack to a single-target attack.*{: .mgl .fs-3 }
+> > This effect can't be used multiple times on the same technique without stacking other copies of Power Smash.
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/piercingblow.png)
@@ -1839,7 +1841,7 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
 > >
 > > Bestows the use of the Double Dip (*4 FP*{: .spirit-color }) Technique. If you have multiple Double Dip Badges, you can use them together by spending *2 FP*{: .spirit-color } for each additional Badge.  
-> > Treat [X] as 1 + the number of additional Quake Slam Badges used.  
+> > Treat [X] as 1 + the number of additional Double Dip Badges used.  
 > > *Double Dip*{: .mgl .fs-3 .header-font }  
 > > *Allows you to act as if Hustled at Status Level [X] this turn, but all your Hustle actions must be to use consumable Items.*{: .mgl .fs-3 }  
 > > *You suffer no penalty on those actions for your Hustled Status.*{: .mgl .fs-3 }  
@@ -1854,7 +1856,7 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
 > >
 > > Bestows the use of the Fire Drive (*5 FP*{: .spirit-color }) Technique. If you have multiple Fire Drive Badges, you can use them together by spending *2 FP*{: .spirit-color } for each additional Badge.  
-> > Treat [X] as the number of additional Quake Slam Badges used.  
+> > Treat [X] as the number of additional Fire Drive Badges used.  
 > > *Fire Drive*{: .mgl .fs-3 .header-font }  
 > > *Flings a fireball at the target at range, then blazes a path past them to affect more grounded targets.*{: .mgl .fs-3 }  
 > > ***Aim**{: .heart-color } or **Magic**{: .spirit-color }:*{: .mgl .fs-3 }  

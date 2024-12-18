@@ -54,7 +54,7 @@ Sometimes though it's useful to have hard-and-fast rules for more complicated ef
 {: .content-callout }
 > ## *Coordination - Swapping*{: .heart-color }
 > 
-> In battle, you sometimes want – or need – to swap places with an ally. This action doesn't require any checks, but if both players make a *Coordination*{: .heart-color } check with at least a *Great*{: .great-color } result, this becomes a free action!
+> In battle, you sometimes want – or need – to swap places with an ally. Swapping only requires the initiating character to use their action. This action doesn't require any checks, but if both players make a *Coordination*{: .heart-color } check with at least a *Great*{: .great-color } result, this becomes a free action!
 
 {: .content-callout }
 > ## *Guard - Reducing Damage*{: .heart-color }
@@ -238,13 +238,13 @@ Sometimes though it's useful to have hard-and-fast rules for more complicated ef
 > These rules apply whenever you would cast a spell that's not already a key part of your repertoire, like a Technique, representing the challenging art of spontaneous casting.
 > 
 > Whatever kind of spell you cast, you choose beforehand how much of your *Magic*{: .spirit-color } dicepool to use; this includes dice you receive from your Skill, your relevant Specialisations and Boosts to your *Magic*{: .spirit-color } skill.  
-> It doesn't include situational bonuses, though, like the extra dice you'd get for someone's assistance.
+> It doesn't include situational bonuses, though, like the extra dice you'd get for someone's assistance. Spontaneous Spells also don't rely on Tech Defaults, including Optional or Required ones, and aren't impacted by Tutor.
 > 
 > For each die included in your pool, you pay *3 FP*{: .spirit-color }.  
 > If you have a relevant Specialisation, you pay *2 FP*{: .spirit-color } per die instead, and if you have a relevant Efficient trait, you only pay *1 FP*{: .spirit-color } per die.  
 > No matter the circumstances, you *always*{: .underlined } pay at least as much *FP*{: .spirit-color } as one die would cost.  
 > Regardless, the final roll is modified by your *Spirit*{: .spirit-color } as normal for a *Magic*{: .spirit-color } check.
-> 
+>
 > Keep in mind though that *no matter what*{: .underlined }, *Magic*{: .spirit-color } spells can't be used to gain or bestow *FP*{: .spirit-color } or *SP*{: .courage-color } ([Exceptional Results]({{ "/grades_of_success#exceptional-results" | absolute_url }}) aside).
 > 
 > - *Skill Substitution*{: .header-font }  
@@ -322,7 +322,7 @@ Sometimes though it's useful to have hard-and-fast rules for more complicated ef
 >   - Add *3 FP*{: .spirit-color } to the final Technique's effective cost.
 >   - Add a Grade of Success to the outcome of the Technique's Primary and/or Secondary Checks.
 > 
->   You can select up to your dicepool in positive Traits, and up to your dicepool in negative Traits, as long as the *FP cost*{: .spirit-color } for the combined Traits doesn't exceed the effective cost.  
+>   You can select up to your successes in positive Traits, as long as the *FP cost*{: .spirit-color } for the combined Traits doesn't exceed the effective cost.  
 > 
 >   Finally, you can add *Indirect*{: .positive-color }, *Ranged*{: .positive-color } and/or *Harmless*{: .negative-color } as bonus Traits for no additional cost; this is simply the nature of *Magic*{: .spirit-color }.  
 > 

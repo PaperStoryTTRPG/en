@@ -510,7 +510,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > {: .specie-inner-callout }  
 > > > *Outta Sight*{: .header-font } (*0 FP*{: .spirit-color })  
 > > > Hides you and your allies away from attacks.  
-> > > *Trickery (+Evade)*{: .spirit-color }:  
+> > > *Trickery (+Dodge)*{: .spirit-color }:  
 > > > *Nice!*{: .nice-color }: Become Secure for one turn.  
 > > > *Secure, Allies, Harmless*{: .italic }
 > > >
@@ -1080,8 +1080,8 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > > *Rolling Boulder*{: .header-font } (**4 FP**{: .spirit-color })  
 > > > Rolls into melee and bowls enemies over, one by one, hitting up to 4 targets. Strikes get weaker after each target.  
 > > > *Athletics (+ Brawn)*{: .heart-color }:  
-> > > *Good!*{: .good-color }: 3 DMG / 2 DMG / 1 DMG / 1 DMG  
-> > > *Great!*{: .great-color }: 6 DMG / 5 DMG / 4 DMG / 3 DMG  
+> > > *Good!*{: .good-color }: 4 DMG / 3 DMG / 2 DMG / 1 DMG  
+> > > *Great!*{: .great-color }: 8 DMG / 7 DMG / 6 DMG / 5 DMG  
 > > > *Strong x2, Strike-Through x3, Variant (**Athletics**{: .heart-color }), Unwieldy x2*{: .italic }
 > > >
 > >
@@ -1206,7 +1206,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 {: .specie-callout }
 > ## Cleft
 >
-> ![](assets/images/species/cleft)
+> ![](assets/images/species/cleft.png)
 > {: .float-right-desktop }
 > Clefts are truly stoic creatures, made almost entirely of solid stone and virtually indistinguishable from ordinary rocks. They're resilient in the face of most attacks, making them reliable defenders.
 >
@@ -3396,7 +3396,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > > *Good!*{: .good-color }: Disarm Tool (4) for 3 turns  
 > > > *Great!*{: .great-color }: Disarm Tool (5) for 3 turns  
 > > > *Wonderful!*{: .wonderful-color }: Disarm Tool (6) for 3 turns  
-> > > *Disarm (Tool) x6, Auto x2, Overrun, Harmless, Shorten x3*{: .italic }
+> > > *Disarm (Tool) x6, Empower x2, Overrun, Harmless, Shorten x3*{: .italic }
 > > >
 > >
 >
@@ -3483,7 +3483,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Disarm  
+> > Disarm x2  
 > > *Launch*{: .alt-grey-line }  
 > > Ranged  
 > > *Variant (**Trickery**{: .spirit-color })*{: .alt-grey-line }  
@@ -3822,6 +3822,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > Weakness (Shadow)  
 > > *You take double damage. If this Technique wouldn't usually deal damage, it deals 2 Piercing damage.*{: .mgl .fs-3 }  
 > > *Your Defense is Weakened (1) for a number of turns equal to the damage taken.*{: .mgl .fs-3 }
+> > Handless
 >
 > {: .specie-inner-callout }
 > > *Tech Defaults*{: .text-gamma .header-font }  
@@ -3887,7 +3888,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
 > > Weakness (Air)  
-> > *You must make a **Steady**{: .courage-color } check versus Disorientation, lasting a number of turns equal to the damage taken (mimimum 1 turn).*{: .mgl .fs-3 }  
+> > *You must make a **Steady**{: .courage-color } check versus Disorientation, lasting a number of turns equal to the damage taken (minimum 1 turn).*{: .mgl .fs-3 }  
 > > Weakness (Sudden Light)  
 > > *You are stunned by the light, Dazing you for a turn for each point of damage taken (minimum 1 turn).*{: .mgl .fs-3 }  
 > > Handless
@@ -4006,7 +4007,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > {: .float-right-desktop }
 > While the average Toad is passive to a fault, when driven to action they make for stalwart companions and devoted team players. Though as common as they are, the world is full of exceptions.
 >
-> ***+2 Courage**{: .courage-color }, **+1 Heart**{: .heart-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
+> ***+2 Courage**{: .courage-color }, or **+1 Heart**{: .heart-color } and **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
 >
 > {: .specie-pros-callout }
@@ -4445,7 +4446,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
 > > Weakness (Air)  
-> > *You must make a **Steady**{: .courage-color } check versus Disorientation, lasting a number of turns equal to the damage taken (mimimum 1 turn).*{: .mgl .fs-3 }  
+> > *You must make a **Steady**{: .courage-color } check versus Disorientation, lasting a number of turns equal to the damage taken (minimum 1 turn).*{: .mgl .fs-3 }  
 > > Handless
 >
 > {: .specie-inner-callout }
