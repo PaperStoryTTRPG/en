@@ -63,7 +63,7 @@ The same general rules apply to players – if you want to protect your teammate
 
 Eventually, you're bound to take damage in a fight – you may even drop down to *0 HP*{: .heart-color } and be knocked out!
 
-Whenever you would deal damage with an attack, if it has an apporpriate number of successes, it will always deal at least 1 damage.
+Whenever you would deal damage with an attack, if it has an appropriate number of successes, it will always deal at least 1 damage.
 This includes mult-target attacks, Sequential, Repeat, etc., and also if your attack is made with 0 Power.
 
 While you're at *0 HP*{: .heart-color } you're KO'd, and you can't really do anything; you can't block attackers from targeting allies behind you in melee, and you can't take actions on your turn.
