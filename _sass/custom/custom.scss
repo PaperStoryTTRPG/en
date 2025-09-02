@@ -34,6 +34,10 @@
   margin-top: 0 !important;
 }
 
+.content-callout h3 {
+  margin-top: 0 !important;
+}
+
 h1,
 h2,
 h3,
@@ -190,6 +194,10 @@ blockquote.item-inner-callout {
 
 .spirit-color {
   color: $spirit-color;
+}
+
+.mp-color {
+  color: $mp-color;
 }
 
 .positive-color {
