@@ -28,7 +28,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/mushroom.png)
 >
 > {: .item-inner-callout }
-> > *Mushroom*{: .fs-6 .header-font }  
+> > ### *Mushroom*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Curative*{: .label .curative .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 5 Coins
 > >
@@ -38,7 +39,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/supershroom.png)
 >
 > {: .item-inner-callout }
-> > *Super Shroom*{: .fs-6 .header-font }  
+> > ### *Super Shroom*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Curative*{: .label .curative .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 15 Coins
 > >
@@ -48,7 +50,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/ultrashroom.png)
 >
 > {: .item-inner-callout }
-> > *Ultra Shroom*{: .fs-6 .header-font }  
+> > ### *Ultra Shroom*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Curative*{: .label .curative .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 200 Coins
 > >
@@ -58,7 +61,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/slowshroom.png)
 >
 > {: .item-inner-callout }
-> > *Slow Shroom*{: .fs-6 .header-font }  
+> > ### *Slow Shroom*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Curative*{: .label .curative .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 15 Coins
 > >
@@ -68,7 +72,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/lifeshroom.png)
 >
 > {: .item-inner-callout }
-> > *Life Shroom*{: .fs-6 .header-font }  
+> > ### *Life Shroom*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Curative*{: .label .curative .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
 > >
@@ -79,7 +84,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/driedshroom.png)
 >
 > {: .item-inner-callout }
-> > *Dried Shroom*{: .fs-6 .header-font }  
+> > ### *Dried Shroom*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Curative*{: .label .curative .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 2 Coins
 > >
@@ -89,7 +95,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/honeysyrup.png)
 >
 > {: .item-inner-callout }
-> > *Honey Syrup*{: .fs-6 .header-font }  
+> > ### *Honey Syrup*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Curative*{: .label .curative .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 5 Coins
 > >
@@ -99,7 +106,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/maplesyrup.png)
 >
 > {: .item-inner-callout }
-> > *Maple Syrup*{: .fs-6 .header-font }  
+> > ### *Maple Syrup*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Curative*{: .label .curative .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 20 Coins
 > >
@@ -109,7 +117,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/jamminjelly.png)
 >
 > {: .item-inner-callout }
-> > *Jammin' Jelly*{: .fs-6 .header-font }  
+> > ### *Jammin' Jelly*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Curative*{: .label .curative .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 200 Coins
 > >
@@ -119,7 +128,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/gradualsyrup.png)
 >
 > {: .item-inner-callout }
-> > *Gradual Syrup*{: .fs-6 .header-font }  
+> > ### *Gradual Syrup*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Curative*{: .label .curative .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 15 Coins
 > >
@@ -129,7 +139,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/tastytonic.png)
 >
 > {: .item-inner-callout }
-> > *Tasty Tonic*{: .fs-6 .header-font }  
+> > ### *Tasty Tonic*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Curative*{: .label .curative .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 3 Coins
 > >
@@ -139,7 +150,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/hustledrink.png)
 >
 > {: .item-inner-callout }
-> > *Hustle Drink*{: .fs-6 .header-font }  
+> > ### *Hustle Drink*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Curative*{: .label .curative .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 40 Coins
 > >
@@ -149,7 +161,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/whackabump.png)
 >
 > {: .item-inner-callout }
-> > *Whacka Bump*{: .fs-6 .header-font }  
+> > ### *Whacka Bump*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Curative*{: .label .curative .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 200 Coins
 > >
@@ -159,7 +172,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/dustyhammer.png)
 >
 > {: .item-inner-callout }
-> > *Dusty Hammer*{: .fs-6 .header-font }  
+> > ### *Dusty Hammer*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Attack*{: .label .attack .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 2 Coins
 > >
@@ -169,7 +183,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/dustyboomerang.png)
 >
 > {: .item-inner-callout }
-> > *Dusty Boomerang*{: .fs-6 .header-font }  
+> > ### *Dusty Boomerang*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Attack*{: .label .attack .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 5 Coins
 > >
@@ -179,7 +194,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/powblock.png)
 >
 > {: .item-inner-callout }
-> > *POW Block*{: .fs-6 .header-font }  
+> > ### *POW Block*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Attack*{: .label .attack .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 5 Coins
 > >
@@ -189,7 +205,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/reflectcape.png)
 >
 > {: .item-inner-callout }
-> > *Reflect Cape*{: .fs-6 .header-font }  
+> > ### *Reflect Cape*{: .fs-6 .header-font }  
+> {: .no_toc }
 > > *Item*{: .label .item .header-font }*Attack*{: .label .attack .header-font }*Booster*{: .label .booster .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 10 Coins
 > >
@@ -199,7 +216,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/fireburst.png)
 >
 > {: .item-inner-callout }
-> > *Fire Burst*{: .fs-6 .header-font }  
+> > ### *Fire Burst*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Attack*{: .label .attack .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 10 Coins
 > >
@@ -209,7 +227,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/icestorm.png)
 >
 > {: .item-inner-callout }
-> > *Ice Storm*{: .fs-6 .header-font }  
+> > ### *Ice Storm*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Attack*{: .label .attack .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 15 Coins
 > >
@@ -219,7 +238,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/bubblewave.png)
 >
 > {: .item-inner-callout }
-> > *Bubble Wave*{: .fs-6 .header-font }  
+> > ### *Bubble Wave*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Attack*{: .label .attack .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 15 Coins
 > >
@@ -229,7 +249,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/hpdrain.png)
 >
 > {: .item-inner-callout }
-> > *HP Drain*{: .fs-6 .header-font }  
+> > ### *HP Drain*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Attack*{: .label .attack .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 10 Coins
 > >
@@ -239,7 +260,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/thunderbolt.png)
 >
 > {: .item-inner-callout }
-> > *Thunder Bolt*{: .fs-6 .header-font }  
+> > ### *Thunder Bolt*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Attack*{: .label .attack .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 10 Coins
 > >
@@ -249,7 +271,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/thunderrage.png)
 >
 > {: .item-inner-callout }
-> > *Thunder Rage*{: .fs-6 .header-font }  
+> > ### *Thunder Rage*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Attack*{: .label .attack .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 20 Coins
 > >
@@ -259,7 +282,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/earthquake.png)
 >
 > {: .item-inner-callout }
-> > *Earth Quake*{: .fs-6 .header-font }  
+> > ### *Earth Quake*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Attack*{: .label .attack .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 15 Coins
 > >
@@ -269,7 +293,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/shootingstar.png)
 >
 > {: .item-inner-callout }
-> > *Shooting Star*{: .fs-6 .header-font }  
+> > ### *Shooting Star*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Attack*{: .label .attack .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 30 Coins
 > >
@@ -279,7 +304,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/frightmask.png)
 >
 > {: .item-inner-callout }
-> > *Fright Mask*{: .fs-6 .header-font }  
+> > ### *Fright Mask*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Hazard*{: .label .hazard .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 5 Coins
 > >
@@ -289,7 +315,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/sleepysheep.png)
 >
 > {: .item-inner-callout }
-> > *Sleepy Sheep*{: .fs-6 .header-font }  
+> > ### *Sleepy Sheep*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Hazard*{: .label .hazard .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 8 Coins
 > >
@@ -299,7 +326,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/minimrmini.png)
 >
 > {: .item-inner-callout }
-> > *Mini Mr. Mini*{: .fs-6 .header-font }  
+> > ### *Mini Mr. Mini*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Hazard*{: .label .hazard .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 8 Coins
 > >
@@ -309,7 +337,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/mrsoftener.png)
 >
 > {: .item-inner-callout }
-> > *Mr. Softener*{: .fs-6 .header-font }  
+> > ### *Mr. Softener*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Hazard*{: .label .hazard .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 8 Coins
 > >
@@ -319,7 +348,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/dizzydial.png)
 >
 > {: .item-inner-callout }
-> > *Dizzy Dial*{: .fs-6 .header-font }  
+> > ### *Dizzy Dial*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Hazard*{: .label .hazard .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 12 Coins
 > >
@@ -329,7 +359,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/stopwatch.png)
 >
 > {: .item-inner-callout }
-> > *Stopwatch*{: .fs-6 .header-font }  
+> > ### *Stopwatch*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Hazard*{: .label .hazard .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 25 Coins
 > >
@@ -339,7 +370,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/ruinpowder.png)
 >
 > {: .item-inner-callout }
-> > *Ruin Powder*{: .fs-6 .header-font }  
+> > ### *Ruin Powder*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Hazard*{: .label .hazard .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 15 Coins
 > >
@@ -349,7 +381,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/powerpunch.png)
 >
 > {: .item-inner-callout }
-> > *Power Punch*{: .fs-6 .header-font }  
+> > ### *Power Punch*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Booster*{: .label .booster .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 15 Coins
 > >
@@ -359,7 +392,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/courageshell.png)
 >
 > {: .item-inner-callout }
-> > *Courage Shell*{: .fs-6 .header-font }  
+> > ### *Courage Shell*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Booster*{: .label .booster .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 5 Coins
 > >
@@ -369,7 +403,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/voltshroom.png)
 >
 > {: .item-inner-callout }
-> > *Volt Shroom*{: .fs-6 .header-font }  
+> > ### *Volt Shroom*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Booster*{: .label .booster .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 10 Coins
 > >
@@ -381,7 +416,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/spitepouch.png)
 >
 > {: .item-inner-callout }
-> > *Spite Pouch*{: .fs-6 .header-font }  
+> > ### *Spite Pouch*{: .fs-6 .header-font }  
+
 > > *Item*{: .label .item .header-font }*Booster*{: .label .booster .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 10 Coins
 > >
@@ -393,7 +429,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/repelcape.png)
 >
 > {: .item-inner-callout }
-> > *Repel Cape*{: .fs-6 .header-font }  
+> > ### *Repel Cape*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Booster*{: .label .booster .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 15 Coins
 > >
@@ -404,7 +441,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/boosheet.png)
 >
 > {: .item-inner-callout }
-> > *Boo's Sheet*{: .fs-6 .header-font }  
+> > ### *Boo's Sheet*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Booster*{: .label .booster .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 25 Coins
 > >
@@ -417,7 +455,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/stonecap.png)
 >
 > {: .item-inner-callout }
-> > *Stone Cap*{: .fs-6 .header-font }  
+> > ### *Stone Cap*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Booster*{: .label .booster .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 30 Coins
 > >
@@ -433,7 +472,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/carrycloud.png)
 >
 > {: .item-inner-callout }
-> > *Carry Cloud*{: .fs-6 .header-font }  
+> > ### *Carry Cloud*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Booster*{: .label .booster .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 30 Coins
 > >
@@ -444,7 +484,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/mysterybox.png)
 >
 > {: .item-inner-callout }
-> > *Mystery Box*{: .fs-6 .header-font }  
+> > ### *Mystery Box*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Quirk*{: .label .quirk .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 3 Coins
 > >
@@ -468,7 +509,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/pointswap.png)
 >
 > {: .item-inner-callout }
-> > *Point Swap*{: .fs-6 .header-font }  
+> > ### *Point Swap*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Quirk*{: .label .quirk .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 5 Coins
 > >
@@ -479,7 +521,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > ![](assets/images/items/poisonshroom.png)
 >
 > {: .item-inner-callout }
-> > *Poison Shroom*{: .fs-6 .header-font }  
+> > ### *Poison Shroom*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Quirk*{: .label .quirk .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
 > >
@@ -519,7 +562,8 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 > ![](assets/images/items/fireflower.png)
 >
 > {: .item-inner-callout }
-> > *Fire Flower*{: .fs-6 .header-font }  
+> > ### *Fire Flower*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Power-Up*{: .label .power-up .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
 > >
@@ -547,7 +591,8 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 > ![](assets/images/items/iceflower.png)
 >
 > {: .item-inner-callout }
-> > *Ice Flower*{: .fs-6 .header-font }  
+> > ### *Ice Flower*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Power-Up*{: .label .power-up .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
 > >
@@ -575,7 +620,8 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 > ![](assets/images/items/bubbleflower.png)
 >
 > {: .item-inner-callout }
-> > *Bubble Flower*{: .fs-6 .header-font }  
+> > ### *Bubble Flower*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Power-Up*{: .label .power-up .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
 > >
@@ -602,7 +648,8 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 > ![](assets/images/items/goldflower.png)
 >
 > {: .item-inner-callout }
-> > *Gold Flower*{: .fs-6 .header-font }  
+> > ### *Gold Flower*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Power-Up*{: .label .power-up .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
 > >
@@ -630,7 +677,8 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 > ![](assets/images/items/cloudflower.png)
 >
 > {: .item-inner-callout }
-> > *Cloud Flower*{: .fs-6 .header-font }  
+> > ### *Cloud Flower*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Power-Up*{: .label .power-up .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
 > >
@@ -662,7 +710,8 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 > ![](assets/images/items/ampshroom.png)
 >
 > {: .item-inner-callout }
-> > *Amp Shroom*{: .fs-6 .header-font }  
+> > ### *Amp Shroom*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Power-Up*{: .label .power-up .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
 > >
@@ -690,7 +739,8 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 > ![](assets/images/items/boomushroom.png)
 >
 > {: .item-inner-callout }
-> > *Boo Mushroom*{: .fs-6 .header-font }  
+> > ### *Boo Mushroom*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Power-Up*{: .label .power-up .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
 > >
@@ -716,7 +766,8 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 > ![](assets/images/items/rottenmushroom.png)
 >
 > {: .item-inner-callout }
-> > *Rotten Mushroom*{: .fs-6 .header-font }  
+> > ### *Rotten Mushroom*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Power-Up*{: .label .power-up .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
 > >
@@ -742,7 +793,8 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 > ![](assets/images/items/superleaf.png)
 >
 > {: .item-inner-callout }
-> > *Super Leaf*{: .fs-6 .header-font }  
+> > ### *Super Leaf*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Power-Up*{: .label .power-up .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
 > >
@@ -766,7 +818,8 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 > ![](assets/images/items/capefeather.png)
 >
 > {: .item-inner-callout }
-> > *Cape Feather*{: .fs-6 .header-font }  
+> > ### *Cape Feather*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Power-Up*{: .label .power-up .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
 > >
@@ -794,7 +847,8 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 > ![](assets/images/items/boomerangflower.png)
 >
 > {: .item-inner-callout }
-> > *Boomerang Flower*{: .fs-6 .header-font }  
+> > ### *Boomerang Flower*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Power-Up*{: .label .power-up .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
 > >
@@ -820,7 +874,8 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 > ![](assets/images/items/superbell.png)
 >
 > {: .item-inner-callout }
-> > *Super Bell*{: .fs-6 .header-font }  
+> > ### *Super Bell*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Power-Up*{: .label .power-up .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
 > >
@@ -840,7 +895,8 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 > ![](assets/images/items/rockmushroom.png)
 >
 > {: .item-inner-callout }
-> > *Rock Mushroom*{: .fs-6 .header-font }  
+> > ### *Rock Mushroom*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Power-Up*{: .label .power-up .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
 > >
@@ -872,7 +928,8 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 > ![](assets/images/items/minimushroom.png)
 >
 > {: .item-inner-callout }
-> > *Mini Mushroom*{: .fs-6 .header-font }  
+> > ### *Mini Mushroom*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Power-Up*{: .label .power-up .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 30 Coins
 > >
@@ -898,7 +955,8 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 > ![](assets/images/items/megamushroom.png)
 >
 > {: .item-inner-callout }
-> > *Mega Mushroom*{: .fs-6 .header-font }  
+> > ### *Mega Mushroom*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Power-Up*{: .label .power-up .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 200 Coins
 > >
@@ -936,7 +994,8 @@ If players request personalised Gear, [*Craft*{: .spirit-color }]({{ "/skills_in
 > ![](assets/images/gear/basicgear.png)
 >
 > {: .item-inner-callout }
-> > *Basic Gear*{: .fs-6 .header-font }  
+> > ### *Basic Gear*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • Costs 30 Coins
 > >
 > > - Doesn't provide bonuses to stats or checks.  
@@ -950,7 +1009,8 @@ If players request personalised Gear, [*Craft*{: .spirit-color }]({{ "/skills_in
 > ![](assets/images/gear/supergear.png)
 >
 > {: .item-inner-callout }
-> > *Super Gear*{: .fs-6 .header-font }  
+> > ### *Super Gear*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • Costs 400 Coins
 > >
 > > - Grants either +1 Power (when wielded as a Weapon), +1 Defense (when carried as a Shield or worn as Armour), or +1 to a Stat.
@@ -965,7 +1025,8 @@ If players request personalised Gear, [*Craft*{: .spirit-color }]({{ "/skills_in
 > ![](assets/images/gear/ultragear.png)
 >
 > {: .item-inner-callout }
-> > *Ultra Gear*{: .fs-6 .header-font }  
+> > ### *Ultra Gear*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • Costs 800 Coins
 > >
 > > - Grants either +2 Power (when wielded as a Weapon), +2 Defense (when carried as a Shield or worn as Armour), or +2 to a Stat.
@@ -982,7 +1043,8 @@ The following pieces of Gear are just a few examples of what can be found in the
 > ![](assets/images/gear/basicboots.png)
 >
 > {: .item-inner-callout }
-> > *Basic Boots*{: .fs-6 .header-font }  
+> > ### *Basic Boots*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Gear*{: .label .gear .header-font }*Basic*{: .label .gear .header-font }*Boots*{: .label .item .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 30 Coins
 > >
@@ -998,7 +1060,8 @@ The following pieces of Gear are just a few examples of what can be found in the
 > ![](assets/images/gear/basichammer.png)
 >
 > {: .item-inner-callout }
-> > *Basic Hammer*{: .fs-6 .header-font }  
+> > ### *Basic Hammer*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Gear*{: .label .gear .header-font }*Basic*{: .label .gear .header-font }*Weapon*{: .label .item .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 30 Coins
 > >
@@ -1014,7 +1077,8 @@ The following pieces of Gear are just a few examples of what can be found in the
 > ![](assets/images/gear/spinyhat.png)
 >
 > {: .item-inner-callout }
-> > *Spiny Hat*{: .fs-6 .header-font }  
+> > ### *Spiny Hat*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Gear*{: .label .gear .header-font }*Basic*{: .label .gear .header-font }*Headgear*{: .label .item .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
 > >
@@ -1036,7 +1100,8 @@ The following pieces of Gear are just a few examples of what can be found in the
 > ![](assets/images/gear/spinyspear.png)
 >
 > {: .item-inner-callout }
-> > *Spiny Spear*{: .fs-6 .header-font }  
+> > ### *Spiny Spear*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Gear*{: .label .gear .header-font }*Basic*{: .label .gear .header-font }*Weapon*{: .label .item .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
 > >
@@ -1058,7 +1123,8 @@ The following pieces of Gear are just a few examples of what can be found in the
 > ![](assets/images/gear/superboots.png)
 >
 > {: .item-inner-callout }
-> > *Super Boots*{: .fs-6 .header-font }  
+> > ### *Super Boots*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Gear*{: .label .gear .header-font }*Super*{: .label .super-gear .header-font }*Boots*{: .label .item .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 400 Coins
 > >
@@ -1075,7 +1141,8 @@ The following pieces of Gear are just a few examples of what can be found in the
 > ![](assets/images/gear/superhammer.png)
 >
 > {: .item-inner-callout }
-> > *Super Hammer*{: .fs-6 .header-font }  
+> > ### *Super Hammer*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Gear*{: .label .gear .header-font }*Super*{: .label .super-gear .header-font }*Weapon*{: .label .item .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 400 Coins
 > >
@@ -1094,7 +1161,8 @@ The following pieces of Gear are just a few examples of what can be found in the
 > ![](assets/images/gear/ultraboots.png)
 >
 > {: .item-inner-callout }
-> > *Ultra Boots*{: .fs-6 .header-font }  
+> > ### *Ultra Boots*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Gear*{: .label .gear .header-font }*Ultra*{: .label .ultra-gear .header-font }*Boots*{: .label .item .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 800 Coins
 > >
@@ -1117,7 +1185,8 @@ The following pieces of Gear are just a few examples of what can be found in the
 > ![](assets/images/gear/ultrahammer.png)
 >
 > {: .item-inner-callout }
-> > *Ultra Hammer*{: .fs-6 .header-font }  
+> > ### *Ultra Hammer*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Gear*{: .label .gear .header-font }*Ultra*{: .label .ultra-gear .header-font }*Weapon*{: .label .item .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 800 Coins
 > >
@@ -1142,7 +1211,8 @@ The following pieces of Gear are just a few examples of what can be found in the
 > ![](assets/images/gear/legendarycookbook.png)
 >
 > {: .item-inner-callout }
-> > *Legendary Cookbook*{: .fs-6 .header-font }  
+> > ### *Legendary Cookbook*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Gear*{: .label .gear .header-font }*Unique*{: .label .unique-gear .header-font }*Book*{: .label .item .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 500 Coins
 > >
@@ -1154,7 +1224,8 @@ The following pieces of Gear are just a few examples of what can be found in the
 > ![](assets/images/gear/strangesack.png)
 >
 > {: .item-inner-callout }
-> > *Strange Sack*{: .fs-6 .header-font }  
+> > ### *Strange Sack*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Gear*{: .label .gear .header-font }*Unique*{: .label .unique-gear .header-font } *Container*{: .label .item .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 500 Coins
 > >
@@ -1178,7 +1249,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/heartplus.png)
 >
 > {: .item-inner-callout }
-> > *Heart Plus*{: .fs-6 .header-font }  
+> > ### *Heart Plus*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Stats*{: .label .stats-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 3 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
@@ -1189,7 +1261,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/spiritplus.png)
 >
 > {: .item-inner-callout }
-> > *Spirit Plus*{: .fs-6 .header-font }  
+> > ### *Spirit Plus*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Stats*{: .label .stats-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 3 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
@@ -1200,7 +1273,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/courageplus.png)
 >
 > {: .item-inner-callout }
-> > *Courage Plus*{: .fs-6 .header-font }  
+> > ### *Courage Plus*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Stats*{: .label .stats-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 3 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
@@ -1211,7 +1285,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/ispy.png)
 >
 > {: .item-inner-callout }
-> > *I Spy*{: .fs-6 .header-font }  
+> > ### *I Spy*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Skills*{: .label .skills-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
@@ -1222,7 +1297,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/superappeal.png)
 >
 > {: .item-inner-callout }
-> > *Super Appeal*{: .fs-6 .header-font }  
+> > ### *Super Appeal*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Skills*{: .label .skills-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
@@ -1233,7 +1309,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/timingtutor.png)
 >
 > {: .item-inner-callout }
-> > *Timing Tutor*{: .fs-6 .header-font }  
+> > ### *Timing Tutor*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Skills*{: .label .skills-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
@@ -1244,7 +1321,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/chillout.png)
 >
 > {: .item-inner-callout }
-> > *Chill Out*{: .fs-6 .header-font }  
+> > ### *Chill Out*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Skills*{: .label .skills-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
@@ -1255,7 +1333,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/emblemmask.png)
 >
 > {: .item-inner-callout }
-> > *Emblem Mask*{: .fs-6 .header-font }  
+> > ### *Emblem Mask*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Skills*{: .label .skills-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 300 Coins
@@ -1268,7 +1347,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/peekaboo.png)
 >
 > {: .item-inner-callout }
-> > *Peekaboo*{: .fs-6 .header-font }  
+> > ### *Peekaboo*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Skills*{: .label .skills-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
@@ -1280,7 +1360,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/medicineman.png)
 >
 > {: .item-inner-callout }
-> > *Medicine Man*{: .fs-6 .header-font }  
+> > ### *Medicine Man*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Skills*{: .label .skills-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
@@ -1291,7 +1372,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/powerrush.png)
 >
 > {: .item-inner-callout }
-> > *Power Rush*{: .fs-6 .header-font }  
+> > ### *Power Rush*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
@@ -1302,7 +1384,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/megarush.png)
 >
 > {: .item-inner-callout }
-> > *Mega Rush*{: .fs-6 .header-font }  
+> > ### *Mega Rush*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
@@ -1313,7 +1396,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/simplifier.png)
 >
 > {: .item-inner-callout }
-> > *Simplifier*{: .fs-6 .header-font }  
+> > ### *Simplifier*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
@@ -1324,7 +1408,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/unsimplifier.png)
 >
 > {: .item-inner-callout }
-> > *Unsimplifier*{: .fs-6 .header-font }  
+> > ### *Unsimplifier*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
@@ -1335,7 +1420,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/icepower.png)
 >
 > {: .item-inner-callout }
-> > *Ice Power*{: .fs-6 .header-font }  
+> > ### *Ice Power*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
@@ -1347,7 +1433,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/earthpower.png)
 >
 > {: .item-inner-callout }
-> > *Earth Power*{: .fs-6 .header-font }  
+> > ### *Earth Power*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
@@ -1359,7 +1446,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/firepower.png)
 >
 > {: .item-inner-callout }
-> > *Fire Power*{: .fs-6 .header-font }  
+> > ### *Fire Power*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
@@ -1371,7 +1459,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/hpdrain.png)
 >
 > {: .item-inner-callout }
-> > *HP Drain*{: .fs-6 .header-font }  
+> > ### *HP Drain*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
@@ -1382,7 +1471,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/fpdrain.png)
 >
 > {: .item-inner-callout }
-> > *FP Drain*{: .fs-6 .header-font }  
+> > ### *FP Drain*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
@@ -1393,7 +1483,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/firstattack.png)
 >
 > {: .item-inner-callout }
-> > *First Attack*{: .fs-6 .header-font }  
+> > ### *First Attack*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
@@ -1404,7 +1495,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/pupddown.png)
 >
 > {: .item-inner-callout }
-> > *P-Up, D-Down*{: .fs-6 .header-font }  
+> > ### *P-Up, D-Down*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
@@ -1415,7 +1507,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/jumpman.png)
 >
 > {: .item-inner-callout }
-> > *Jumpman*{: .fs-6 .header-font }  
+> > ### *Jumpman*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
@@ -1427,7 +1520,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/weaponman.png)
 >
 > {: .item-inner-callout }
-> > *Weaponman*{: .fs-6 .header-font }  
+> > ### *Weaponman*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
@@ -1439,7 +1533,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/handyman.png)
 >
 > {: .item-inner-callout }
-> > *Handyman*{: .fs-6 .header-font }  
+> > ### *Handyman*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
@@ -1451,7 +1546,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/marksman.png)
 >
 > {: .item-inner-callout }
-> > *Marksman*{: .fs-6 .header-font }  
+> > ### *Marksman*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
@@ -1463,7 +1559,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/flowersaver.png)
 >
 > {: .item-inner-callout }
-> > *Flower Saver*{: .fs-6 .header-font }  
+> > ### *Flower Saver*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 4 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 250 Coins
@@ -1475,7 +1572,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/allornothing.png)
 >
 > {: .item-inner-callout }
-> > *All or Nothing*{: .fs-6 .header-font }  
+> > ### *All or Nothing*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 4 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
@@ -1486,7 +1584,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/bumpattack.png)
 >
 > {: .item-inner-callout }
-> > *Bump Attack*{: .fs-6 .header-font }  
+> > ### *Bump Attack*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 5 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 300 Coins
@@ -1497,7 +1596,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/powerplus.png)
 >
 > {: .item-inner-callout }
-> > *Power Plus*{: .fs-6 .header-font }  
+> > ### *Power Plus*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Attack*{: .label .attack-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 6 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 400 Coins
@@ -1508,7 +1608,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/laststand.png)
 >
 > {: .item-inner-callout }
-> > *Last Stand*{: .fs-6 .header-font }  
+> > ### *Last Stand*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Defense*{: .label .defense-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
@@ -1519,7 +1620,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/closecall.png)
 >
 > {: .item-inner-callout }
-> > *Close Call*{: .fs-6 .header-font }  
+> > ### *Close Call*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Defense*{: .label .defense-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
@@ -1530,7 +1632,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/damagedodge.png)
 >
 > {: .item-inner-callout }
-> > *Damage Dodge*{: .fs-6 .header-font }  
+> > ### *Damage Dodge*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Defense*{: .label .defense-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
@@ -1541,7 +1644,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/pdowndup.png)
 >
 > {: .item-inner-callout }
-> > *P-Down, D-Up*{: .fs-6 .header-font }  
+> > ### *P-Down, D-Up*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Defense*{: .label .defense-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
@@ -1552,7 +1656,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/prettylucky.png)
 >
 > {: .item-inner-callout }
-> > *Pretty Lucky*{: .fs-6 .header-font }  
+> > ### *Pretty Lucky*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Defense*{: .label .defense-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
@@ -1563,7 +1668,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/luckyday.png)
 >
 > {: .item-inner-callout }
-> > *Lucky Day*{: .fs-6 .header-font }  
+> > ### *Lucky Day*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Skills*{: .label .skills-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 7 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 500 Coins
@@ -1575,7 +1681,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/spikeshield.png)
 >
 > {: .item-inner-callout }
-> > *Spike Shield*{: .fs-6 .header-font }  
+> > ### *Spike Shield*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Defense*{: .label .defense-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 3 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
@@ -1586,7 +1693,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/zaptap.png)
 >
 > {: .item-inner-callout }
-> > *Zap Tap*{: .fs-6 .header-font }  
+> > ### *Zap Tap*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Defense*{: .label .defense-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 3 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 200 Coins
@@ -1598,7 +1706,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/feelingfine.png)
 >
 > {: .item-inner-callout }
-> > *Feeling Fine*{: .fs-6 .header-font }  
+> > ### *Feeling Fine*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Defense*{: .label .defense-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 4 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
@@ -1609,7 +1718,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/defendplus.png)
 >
 > {: .item-inner-callout }
-> > *Defend Plus*{: .fs-6 .header-font }  
+> > ### *Defend Plus*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Defense*{: .label .defense-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 5 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 300 Coins
@@ -1620,7 +1730,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/returnpostage.png)
 >
 > {: .item-inner-callout }
-> > *Return Postage*{: .fs-6 .header-font }  
+> > ### *Return Postage*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Defense*{: .label .defense-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 7 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 1000 Coins
@@ -1632,7 +1743,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/multibounce.png)
 >
 > {: .item-inner-callout }
-> > *Multibounce*{: .fs-6 .header-font }  
+> > ### *Multibounce*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
@@ -1647,7 +1759,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/weaponthrow.png)
 >
 > {: .item-inner-callout }
-> > *Weapon Throw*{: .fs-6 .header-font }  
+> > ### *Weapon Throw*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
@@ -1663,7 +1776,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/spinsmash.png)
 >
 > {: .item-inner-callout }
-> > *Spin Smash*{: .fs-6 .header-font }  
+> > ### *Spin Smash*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
@@ -1675,7 +1789,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/powersmash.png)
 >
 > {: .item-inner-callout }
-> > *Power Smash*{: .fs-6 .header-font }  
+> > ### *Power Smash*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
@@ -1688,7 +1803,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/piercingblow.png)
 >
 > {: .item-inner-callout }
-> > *Piercing Blow*{: .fs-6 .header-font }  
+> > ### *Piercing Blow*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
@@ -1700,7 +1816,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/icesmash.png)
 >
 > {: .item-inner-callout }
-> > *Ice Smash*{: .fs-6 .header-font }  
+> > ### *Ice Smash*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
@@ -1711,7 +1828,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/shrinkslam.png)
 >
 > {: .item-inner-callout }
-> > *Shrink Slam*{: .fs-6 .header-font }  
+> > ### *Shrink Slam*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
@@ -1722,7 +1840,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/softslam.png)
 >
 > {: .item-inner-callout }
-> > *Soft Slam*{: .fs-6 .header-font }  
+> > ### *Soft Slam*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
@@ -1733,7 +1852,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/sleepyslam.png)
 >
 > {: .item-inner-callout }
-> > *Sleepy Slam*{: .fs-6 .header-font }  
+> > ### *Sleepy Slam*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
@@ -1744,7 +1864,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/dizzyattack.png)
 >
 > {: .item-inner-callout }
-> > *Dizzy Attack*{: .fs-6 .header-font }  
+> > ### *Dizzy Attack*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
@@ -1755,7 +1876,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/poisontouch.png)
 >
 > {: .item-inner-callout }
-> > *Poison Touch*{: .fs-6 .header-font }  
+> > ### *Poison Touch*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
@@ -1766,7 +1888,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/disarmingslam.png)
 >
 > {: .item-inner-callout }
-> > *Disarming Slam*{: .fs-6 .header-font }  
+> > ### *Disarming Slam*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
@@ -1777,7 +1900,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/headrattle.png)
 >
 > {: .item-inner-callout }
-> > *Head Rattle*{: .fs-6 .header-font }  
+> > ### *Head Rattle*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
@@ -1788,7 +1912,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/charge.png)
 >
 > {: .item-inner-callout }
-> > *Charge*{: .fs-6 .header-font }  
+> > ### *Charge*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
@@ -1801,7 +1926,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/tornadojump.png)
 >
 > {: .item-inner-callout }
-> > *Tornado Jump*{: .fs-6 .header-font }  
+> > ### *Tornado Jump*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
@@ -1819,7 +1945,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/quakeslam.png)
 >
 > {: .item-inner-callout }
-> > *Quake Slam*{: .fs-6 .header-font }  
+> > ### *Quake Slam*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
@@ -1835,7 +1962,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/doubledip.png)
 >
 > {: .item-inner-callout }
-> > *Double Dip*{: .fs-6 .header-font }  
+> > ### *Double Dip*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 3 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
@@ -1850,7 +1978,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/firedrive.png)
 >
 > {: .item-inner-callout }
-> > *Fire Drive*{: .fs-6 .header-font }  
+> > ### *Fire Drive*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 3 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
@@ -1871,7 +2000,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/powerbounce.png)
 >
 > {: .item-inner-callout }
-> > *Power Bounce*{: .fs-6 .header-font }  
+> > ### *Power Bounce*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Technique*{: .label .technique-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 3 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
@@ -1882,7 +2012,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/refund.png)
 >
 > {: .item-inner-callout }
-> > *Refund*{: .fs-6 .header-font }  
+> > ### *Refund*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Boon*{: .label .boon-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
@@ -1894,7 +2025,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/happyheart.png)
 >
 > {: .item-inner-callout }
-> > *Happy Heart*{: .fs-6 .header-font }  
+> > ### *Happy Heart*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Boon*{: .label .boon-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
@@ -1905,7 +2037,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/happyflower.png)
 >
 > {: .item-inner-callout }
-> > *Happy Flower*{: .fs-6 .header-font }  
+> > ### *Happy Flower*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Boon*{: .label .boon-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
@@ -1916,7 +2049,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/pityflower.png)
 >
 > {: .item-inner-callout }
-> > *Pity Flower*{: .fs-6 .header-font }  
+> > ### *Pity Flower*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Boon*{: .label .boon-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 3 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 200 Coins
@@ -1928,7 +2062,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/heartfinder.png)
 >
 > {: .item-inner-callout }
-> > *Heart Finder*{: .fs-6 .header-font }  
+> > ### *Heart Finder*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Boon*{: .label .boon-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 3 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
@@ -1939,7 +2074,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/flowerfinder.png)
 >
 > {: .item-inner-callout }
-> > *Flower Finder*{: .fs-6 .header-font }  
+> > ### *Flower Finder*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Boon*{: .label .boon-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 3 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
@@ -1950,7 +2086,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/itemhog.png)
 >
 > {: .item-inner-callout }
-> > *Item Hog*{: .fs-6 .header-font }  
+> > ### *Item Hog*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Boon*{: .label .boon-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 3 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
@@ -1962,7 +2099,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/luckystart.png)
 >
 > {: .item-inner-callout }
-> > *Lucky Start*{: .fs-6 .header-font }  
+> > ### *Lucky Start*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Boon*{: .label .boon-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 4 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
@@ -1980,7 +2118,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/quickchange.png)
 >
 > {: .item-inner-callout }
-> > *Quick Change*{: .fs-6 .header-font }  
+> > ### *Quick Change*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Boon*{: .label .boon-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 4 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 500 Coins
@@ -1993,7 +2132,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/moneymoney.png)
 >
 > {: .item-inner-callout }
-> > *Money Money*{: .fs-6 .header-font }  
+> > ### *Money Money*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Boon*{: .label .boon-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 5 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 350 Coins
@@ -2006,7 +2146,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/berserker.png)
 >
 > {: .item-inner-callout }
-> > *Berserker*{: .fs-6 .header-font }  
+> > ### *Berserker*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Boon*{: .label .boon-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 4 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
@@ -2018,7 +2159,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/doublepain.png)
 >
 > {: .item-inner-callout }
-> > *Double Pain*{: .fs-6 .header-font }  
+> > ### *Double Pain*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Negative*{: .label .negative-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 0 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 30 Coins
@@ -2029,7 +2171,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > ![](assets/images/badges/slowgo.png)
 >
 > {: .item-inner-callout }
-> > *Slow Go*{: .fs-6 .header-font }  
+> > ### *Slow Go*{: .fs-6 .header-font }  
+> > {: .no_toc }
 > > *Badge*{: .label .item .header-font }*Negative*{: .label .negative-badge .header-font }  
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 0 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 10 Coins
