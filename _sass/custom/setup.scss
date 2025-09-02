@@ -43,10 +43,6 @@ $quirk-color: #5e5e5e;
 
 $power-up-color: #4d4fe0;
 
-$gear-color: #4A2000;
-$super-color: #007ABB;
-$ultra-color: #BD0000;
-
 $heart-color: #C00000;
 $courage-color: #E36C0A;
 $spirit-color: #00B050;
@@ -58,5 +54,11 @@ $great-color: $courage-color;
 $wonderful-color: $heart-color;
 $excellent-color: #4BACC6;
 $unbelievable-color: #8064A2;
+
+$gear-color: #4A2000;
+$super-color: #007ABB;
+$ultra-color: $spirit-color;
+$miracle-color: $courage-color;
+$max-color: #dd00dd;
 
 $mp-color: $unbelievable-color;

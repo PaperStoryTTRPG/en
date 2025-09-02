@@ -870,10 +870,14 @@ table.last-line-head tr:last-child {
   margin-left: 0 !important;
 }
 
+.miracle-gear {
+  background-color: $miracle-color !important;
+  margin-left: 0 !important;
+}
+
 .max-gear {
-  color: $grey-dk-200;
-  background: -webkit-linear-gradient(top, #8f6B29, #FDE08D, #DF9F28);
-  background: linear-gradient(top, #8f6B29, #FDE08D, #DF9F28);
+  background-color: $max-color !important;
+  margin-left: 0 !important;
 }
 
 .unique-gear {
