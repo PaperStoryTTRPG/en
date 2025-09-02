@@ -206,7 +206,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 >
 > {: .item-inner-callout }
 > > ### *Reflect Cape*{: .fs-6 .header-font }  
-> {: .no_toc }
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Attack*{: .label .attack .header-font }*Booster*{: .label .booster .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 10 Coins
 > >
@@ -417,7 +417,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 >
 > {: .item-inner-callout }
 > > ### *Spite Pouch*{: .fs-6 .header-font }  
-
+> > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Booster*{: .label .booster .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 10 Coins
 > >
