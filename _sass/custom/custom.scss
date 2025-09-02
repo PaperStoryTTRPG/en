@@ -129,7 +129,15 @@ blockquote.item-inner-callout {
   padding-right: .8em !important;
 }
 
-.item-inner-callout h3 {
+.item-inner-callout h2,
+.item-inner-callout h3,
+.item-inner-callout h4 {
+  margin-top: 0 !important;
+}
+
+.terrain-callout h2,
+.terrain-callout h3,
+.terrain-callout h4 {
   margin-top: 0 !important;
 }
 
