@@ -286,8 +286,11 @@ body {
   background-attachment: fixed;
   color: $grey-dk-300;
   cursor: url('../images/cursor.png'), auto;
-  cursor: url('../images/cursor_link.cur'), pointer;
   min-height: 100%;
+}
+
+a:hover {
+  cursor: url('../images/cursor_link.png'), pointer;
 }
 
 div.side-bar {
