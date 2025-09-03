@@ -275,6 +275,10 @@ a.nav-list-link {
     1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
 }
 
+html {
+  height: 100%;
+}
+
 body {
   background-image: url("../images/background/pm-textbox-light.jpg");
   background-repeat: repeat;
@@ -282,6 +286,8 @@ body {
   background-attachment: fixed;
   color: $grey-dk-300;
   cursor: url('../images/cursor.png'), auto;
+  cursor: url('../images/cursor_link.cur'), pointer;
+  min-height: 100%;
 }
 
 div.side-bar {
