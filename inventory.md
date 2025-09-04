@@ -1031,7 +1031,7 @@ If players request personalised Gear, [*Craft*{: .spirit-color }]({{ "/skills_in
 > >
 > > - Grants either +2 Power (when wielded as a Weapon), +2 Defense (when carried as a Shield or worn as Armour), or +2 to a Stat.
 > > - Adds +2d6 to appropriate checks.
-> > - Grants the user txo new Techniques using the Gear.  
+> > - Grants the user two new Techniques using the Gear.  
 > > These Techniques can include one Trait as a Tech Default, based on the Gear's primary use (e.g. Tool for weapons, or Aerial for boots).  
 > > Regardless of the user's level, only 4 Traits can be used to reduce the Technique's *FP cost*{: .spirit-color }.
 - Personal Traits can be added for a further 50 Coins each, with their numerical values values (e.g. Resist, HP healed with Immune, Contact damage) beginning at 1.  
