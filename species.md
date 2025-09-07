@@ -130,7 +130,8 @@ For some of the rarer Species, or those less inclined to adventure – from Toad
 > > Ranged  
 > > *Scaling*{: .alt-grey-line }
 > > 
-> > *Optional*{: .underlined }: Element (Blast) on attacks, or Element (Blast) and Variant (*Athletics*{: .heart-color}) on Indirect attacks.
+> > *Optional*{: .underlined }: Element (Blast) on attacks,  
+> > ***or**{: .underlined } Element (Blast) and Variant (*Athletics*{: .heart-color}) on Indirect attacks.*{: .mgl }
 >
 > {: .specie-inverted-callout }
 > > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
@@ -176,11 +177,11 @@ For some of the rarer Species, or those less inclined to adventure – from Toad
 > > Immune (Shadow)  
 > > *You recover **HP**{: .heart-color } equal to the attack's raw damage (minimum **1 HP**{: .heart-color }).*{: .mgl .fs-3 }  
 > > *If there's any excess **HP**{: .heart-color }, your Attack is Boosted (1) for a number of turns equal to the excess **HP**{: .heart-color }.*{: .mgl .fs-3 }  
-> > Clone (Illusions)  
 > > Hover  
 > > Fly  
 > > Intangibility  
 > > Invisibility  
+> > Mirage  
 > > Undead (Lifelike)
 >
 > {: .specie-cons-callout }
@@ -248,7 +249,7 @@ For some of the rarer Species, or those less inclined to adventure – from Toad
 > > *+ Cheer (FP)*{: .courage-color }  
 > > *+ Perform (Sing)*{: .courage-color }  
 > > Immune (Water)  
-> > *You heal **5 HP**{: .heart-color } instead.*{: .mgl .fs-3 }  
+> > *You heal **+5 HP**{: .heart-color } instead.*{: .mgl .fs-3 }  
 > > 1 Resist (Earth, Shock)
 >
 > {: .specie-cons-callout }

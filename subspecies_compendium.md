@@ -303,8 +303,8 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > *Remove*{: .text-gamma .header-font }  
 > > Specialisations from the base species in *Guard*{: .heart-color }, *Heal*{: .heart-color }, *Knowhow*{: .notice-color } and *Steady*{: .courage-color }; remove any remaining specialisations from the final species one at a time until you have at most 3  
 > >
-> > ***Base**{: .underlined .bold } species Power is reduced to 1 (if it's more than 1)  
-> > ***Base**{: .underlined .bold } species Defense is reduced to 0  
+> > *Base*{: .underlined .bold } species Power is reduced to 1 (if it's more than 1)  
+> > *Base*{: .underlined .bold } species Defense is reduced to 0  
 > >
 > > State (Berserk)  
 > > Weakness (Charm, Confuse, Provoke)  

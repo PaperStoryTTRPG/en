@@ -24,7 +24,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 
 {: .specie-callout }
 > ## Species Name
-> {: no_toc }
+> {: .no_toc }
 >
 > ![](assets/images/icons/tipguy.png)
 > {: .float-right-desktop }
@@ -192,10 +192,10 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > > *Athletics*{: .heart-color }:  
 > > > *Nice!*{: .nice-color }: 1 DMG  
 > > > *Good!*{: .good-color }: 2 DMG  
-> > > *Cheer (+ Comedy)*{: .courage-color }:  
+> > > *Cheer (+Comedy)*{: .courage-color }:  
 > > > *Nice!*{: .nice-color }: *+1 FP*{: .spirit-color }  
 > > > *Good!*{: .good-color }: *+2 FP*{: .spirit-color }  
-> > > *Variant (**Athletics**{: .heart-color }, Unwieldy*{: .italic .fs-3 }  
+> > > *Variant (**Athletics**{: .heart-color }), Unwieldy*{: .italic .fs-3 }  
 > > > *+ Split Slot (Flowery x2, Self)*{: .mgl .italic .fs-3 }
 > > >
 > >
@@ -253,7 +253,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > {: .specie-inner-callout }  
 > > > *Egg Shot*{: .header-font } (**0 FP**{: .spirit-color })  
 > > > Blasts an enemy with an explosive egg attack.  
-> > > *Aim (+ Shoot)*{: .heart-color }:  
+> > > *Aim (+Shoot)*{: .heart-color }:  
 > > > Auto: 1 Blast DMG  
 > > > *Nice!*{: .nice-color }: 2 Blast DMG  
 > > > *Ranged, Element (Blast)*{: .italic .fs-3 }
@@ -262,7 +262,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > {: .specie-inner-callout }  
 > > > *Snout Shooter*{: .header-font } (**5 FP**{: .spirit-color })  
 > > > Swallow an enemy in melee, then spit them out at another target at range. Both targets take damage.  
-> > > *Aim (+ Shoot)*{: .heart-color }:  
+> > > *Aim (+Shoot)*{: .heart-color }:  
 > > > Auto: 1 DMG  
 > > > *Nice!*{: .nice-color }: 2 DMG  
 > > > *Good!*{: .good-color }: 4 DMG  
@@ -394,7 +394,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > {: .specie-inner-callout }  
 > > > *Snowball Lob*{: .header-font } (**0 FP**{: .spirit-color })  
 > > > Lobs a snowball in an overhead arc.  
-> > > *Aim (+ Throw)*{: .heart-color }:  
+> > > *Aim (+Throw)*{: .heart-color }:  
 > > > Auto: 1 Ice DMG  
 > > > *Nice!*{: .nice-color }: 2 Ice DMG  
 > > > *Element (Ice), Ranged*{: .italic .fs-3 }
@@ -468,7 +468,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > >
 > > {: .specie-inner-callout }  
 > > > *Electric Sheen*{: .header-font } (**3 FP**{: .spirit-color })  
-> > > You generate static electricity, punishing melee attackers.
+> > > You generate static electricity, punishing melee attackers.  
 > > > *Steady*{: .courage-color }:  
 > > > Bestows the below on the user as a Contact Trait.  
 > > > Persists for 1 full round.  
@@ -522,7 +522,8 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > Ranged  
 > > *Scaling*{: .alt-grey-line }
 > > 
-> > *Optional*{: .underlined }: Element (Blast) on attacks, or Element (Blast) and Variant (*Athletics*{: .heart-color}) on Indirect attacks.
+> > *Optional*{: .underlined }: Element (Blast) on attacks,  
+> > ***or**{: .underlined } Element (Blast) and Variant (*Athletics*{: .heart-color}) on Indirect attacks.*{: .mgl }
 >
 > {: .specie-inverted-callout }
 > > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
@@ -568,11 +569,11 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > Immune (Shadow)  
 > > *You recover **HP**{: .heart-color } equal to the attack's raw damage (minimum **1 HP**{: .heart-color }).*{: .mgl .fs-3 }  
 > > *If there's any excess **HP**{: .heart-color }, your Attack is Boosted (1) for a number of turns equal to the excess **HP**{: .heart-color }.*{: .mgl .fs-3 }  
-> > Clone (Illusions)  
 > > Hover  
 > > Fly  
 > > Intangibility  
 > > Invisibility  
+> > Mirage  
 > > Undead (Lifelike)
 >
 > {: .specie-cons-callout }
@@ -751,7 +752,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > > Rushes the enemy while spinning their fists.  
 > > > *Coordination*{: .heart-color }:  
 > > > *Good!*{: .good-color }: 2 DMG  
-> > > Attacks 1 more target behind the first, and +1 target after that for each additional Grade of Success.
+> > > Attacks 1 more target behind the first, and +1 target after that for each additional Grade of Success.  
 > > > *Sequential, Strong, Unwieldy*{: .italic .fs-3 }
 > > >
 > >
@@ -760,7 +761,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > > Winds up a punch, then smacks the foe; Attack is boosted afterwards from the workout, but cools down quickly.  
 > > > *Coordination*{: .heart-color }:  
 > > > *Good!*{: .good-color }: 6 DMG  
-> > > *Athletics (+ Brawn)*{: .heart-color }:  
+> > > *Athletics (+Brawn)*{: .heart-color }:  
 > > > *Nice!*{: .nice-color }: +1 Attack for 1 turn  
 > > > *Good!*{: .good-color }: +2 Attack for 1 turn  
 > > > *Great!*{: .great-color }: +3 Attack for 1 turn  
@@ -833,7 +834,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > > *Coordination*{: .heart-color }:  
 > > > Auto: 1 Fire DMG  
 > > > *Nice!*{: .nice-color }: 2 Fire DMG  
-> > > *Magic (+ Fire)*{: .spirit-color }:  
+> > > *Magic (+Fire)*{: .spirit-color }:  
 > > > *Nice!*{: .nice-color }: Lingering (1) for 2 turns  
 > > > *Good!*{: .good-color }: Lingering (2) for 2 turns  
 > > > *Lingering x2, Element (Fire)*{: .italic .fs-3 }
@@ -842,7 +843,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > {: .specie-inner-callout }  
 > > > *Dread Mirage*{: .header-font } (**3 FP**{: .spirit-color })  
 > > > Conjures a terrifying visage to scare off a group of foes, causing them to either flee or cower in fear.  
-> > > *Magic (+ Illusion)*{: .spirit-color }:  
+> > > *Magic (+Illusion)*{: .spirit-color }:  
 > > > The target chooses to attempt to flee, or one of the below Statuses.  
 > > > *Nice!*{: .nice-color }: Stun (1) or -1 Attack for 2 turns  
 > > > *Good!*{: .good-color }: Stun (2) or -2 Attack for 2 turns  
@@ -904,7 +905,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > > *Coordination*{: .heart-color }:  
 > > > *Nice!*{: .nice-color }: 1 Earth DMG  
 > > > *Good!*{: .good-color }: 2 Earth DMG  
-> > > *Cheer (+ FP)*{: .courage-color }:  
+> > > *Cheer (+FP)*{: .courage-color }:  
 > > > *Nice!*{: .nice-color }: *+1 FP*{: .spirit-color }  
 > > > *Good!*{: .good-color }: *+2 FP*{: .spirit-color }  
 > > > *Element (Earth), Reach, Unwieldy*{: .italic .fs-3 }  
@@ -915,7 +916,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > > *Hedge Hammer*{: .header-font } (**5 FP**{: .spirit-color })  
 > > > Causes a large hedge to pop up from the ground, striking everyone in the enemy group from underneath and splitting them into two groups.  
 > > > Fails against hovering or flying enemies.  
-> > > *Crafts (+ Gardening)*{: .spirit-color }:  
+> > > *Crafts (+Gardening)*{: .spirit-color }:  
 > > > *Good!*{: .good-color }: 4 Earth DMG  
 > > > *Trickery*{: .spirit-color }:  
 > > > *Good!*{: .good-color }: Splits affected enemies into two groups for the next 2 rounds.  
@@ -970,7 +971,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > {: .specie-inner-callout }  
 > > > *Bombard*{: .header-font } (**0 FP**{: .spirit-color })  
 > > > Crash into the enemy from above like a mortar.  
-> > > *Athletics (+ Flight)*{: .heart-color }:  
+> > > *Athletics (+Flight)*{: .heart-color }:  
 > > > *Nice!*{: .nice-color }: 3 Blast DMG  
 > > > *Good!*{: .good-color }: 6 Blast DMG  
 > > > Can only be used while flying. You stop flying afterwards.  
@@ -981,7 +982,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > > *Wrecking Calibre*{: .header-font } (**1 FP**{: .spirit-color })  
 > > > Smashes into the enemy with a wreckless explosion.  
 > > > You lose HP equal to ½ this attack's DMG.  
-> > > *Athletics (+ Flight)*{: .heart-color }:  
+> > > *Athletics (+Flight)*{: .heart-color }:  
 > > > *Nice!*{: .nice-color }: 4 Blast DMG  
 > > > *Good!*{: .good-color }: 8 Blast DMG  
 > > > Deals +2 DMG for each extra Grade  
@@ -1166,7 +1167,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > {: .specie-inner-callout }  
 > > > *Shell Spin*{: .header-font } (**0 FP**{: .spirit-color })  
 > > > Hits one target in melee with a shell strike.  
-> > > *Athletics (+ Shells)*{: .heart-color }:  
+> > > *Athletics (+Shells)*{: .heart-color }:  
 > > > Auto: 1 DMG  
 > > > *Nice!*{: .nice-color }: 2 DMG  
 > > > *Indirect, Variant (**Athletics**{: .heart-color })*{: .italic .fs-3 }
@@ -1709,7 +1710,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > *+ Cheer (FP)*{: .courage-color }  
 > > *+ Perform (Sing)*{: .courage-color }  
 > > Immune (Water)  
-> > *You heal **5 HP**{: .heart-color } instead.*{: .mgl .fs-3 }  
+> > *You heal **+5 HP**{: .heart-color } instead.*{: .mgl .fs-3 }  
 > > 1 Resist (Earth, Shock)
 >
 > {: .specie-cons-callout }
@@ -1910,7 +1911,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > *Pros*{: .text-gamma .header-font }  
 > > *+ Magic (Shape-Change)*{: .spirit-color }  
 > > *or **+ Trickery (Disguise)**{: .spirit-color }*{: .mgl }  
-> > *or **+ Steady (Shape-Change)**{: .courage-color }*{: .mgl }
+> > *or **+ Steady (Shape-Change)**{: .courage-color }*{: .mgl }  
 > > *+ Notice (Lies)*{: .spirit-color }  
 > > *+ Trickery (Stealth)*{: .spirit-color }    
 > > Invisibility  
@@ -3443,7 +3444,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > *Terrain (Weather)*{: .alt-grey-line }  
 > >
 > > *Optional*{: .underlined }: Element (Air/Water) on Indirect or Ranged Techniques  
-> > ***or**{: .underlined } Element (Shock) on Stun Techniques
+> > ***or**{: .underlined } Element (Shock) on Stun Techniques*{: .mgl }
 >
 > {: .specie-inverted-callout }
 > > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
@@ -4668,7 +4669,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > {: .specie-inner-callout }  
 > > > *Readied Domino*{: .header-font } (**3 FP**{: .spirit-color })  
 > > > Rocks back and forth, getting ready to SLAM onto enemies that attack in melee.  
-> > > *Steady (+ Poise)*{: .courage-color }:  
+> > > *Steady (+Poise)*{: .courage-color }:  
 > > > Bestows the below on the user as a Contact Trait.  
 > > > Persists for 1 full round.
 > > > Auto: 3 DMG  
@@ -4853,7 +4854,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > Variant (*Knowhow*{: .spirit-color })  
 > >
 > > *Optional*{: .underlined }: Variant (*Crafts*{: .spirit-color }) on Boost/Weaken Techniques  
-> > ***or**{: .underlined } Variant (*Knowhow*{: .spirit-color }) on Boost/Weaken Techniques*{: .mgl }  
+> > ***or**{: .underlined } Variant (**Knowhow**{: .spirit-color }) on Boost/Weaken Techniques*{: .mgl }  
 >
 > {: .specie-inverted-callout }
 > > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
