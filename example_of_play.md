@@ -8,7 +8,9 @@ nav_order: 18
 # Example of Play
 {: .no_toc }
 
-Now if we put it all together, we can present an example of how a session works in Paper Story. For this example we'll be following the adventures of a group of three – *Kelly the Koopa*{: .heart-color }, *Buster the Bob-Omb*{: .spirit-color } and *Squinch the Squeek*{: .courage-color }.
+Now if we put it all together, we can present an example of how a session works in Paper Story.  
+
+For this example we'll be following the adventures of a group of three – *Kelly the Koopa*{: .heart-color }, *Buster the Bob-Omb*{: .spirit-color } and *Squinch the Squeek*{: .courage-color }.
 
 {: .example-play-callout }
 > *GM: Okay gang, when we last left off you were lost in the wild jungle of Keelhaul Key. The sun is starting to set and your rations are just about gone. Any bright ideas?*
@@ -69,14 +71,23 @@ The GM adds three small figurines to the table to represent the enemies. While t
 > *SQUINCH: Yeah that's right. I've got 4, so **Great**{: .great-color }!*{: .courage-color }  
 >  
 > *BUSTER: Uhh, this isn't good. No successes from me.*{: .spirit-color }  
+>
+> *KELLY: It's okay! We'll get the drop on these guys. It'd be either me or Squinch who can attack now, right?*{: .heart-color }  
 >  
-> *GM: Okay, so Squinch bursts out from another, smaller bush and gets his surprise attack!*  
+> *GM: Yep, you can attack on your own. Squinch could technically attack with an ally, but you'd need to have rolled a **Great**{: .great-color } as well.*  
+> 
+> *KELLY: Ah, nuts. Well I don't know what these guys can do, do you want to take point?*{: .heart-color }  
+>
+> *SQUINCH: Sure, I'll lead off with my Sneak Attack.*{: .courage-color }  
 >
 
-Squinch attacks the lead plant with his basic attack, Sneak Attack. It has *Piercing*{: .positive-color }, *Strong*{: .positive-color } and *Unwieldy*{: .negative-color }, so it deals 2 DMG on a *Nice*{: .nice-color } result, and 4 DMG on a *Good*{: .good-color } result. If the plants had Defense, he'd be able to bypass that with *Piercing*{: .positive-color }, too.
+Squinch chekcs his notes for Sneak Attack.  
+It has *Piercing*{: .positive-color }, *Strong*{: .positive-color } and *Unwieldy*{: .negative-color }, so it deals 2 DMG on a *Nice*{: .nice-color } result, and 4 DMG on a *Good*{: .good-color } result.  
+If the plants had Defense, he'd be able to bypass that with *Piercing*{: .positive-color }, too.  
+Since he already rolled a *Great*{: .great-color } on his Initiative, that result carries forwards to his Sneak Attack.
 
 {: .example-play-callout }
-> *SQUINCH: Alright, my **Coordination**{: .heart-color } was 3 Successes – so **Good**{: .good-color }, for 4 damage.*{: .courage-color }  
+> *SQUINCH: Alright, well my Initiative was **Great**{: .great-color }, so... 4 damage.*{: .courage-color }  
 >  
 > *GM: That's a respectable hit, the plant reels in shock! However his buddy sees an opportunity to bite down, hard, on Buster!*  
 >  
@@ -112,7 +123,8 @@ The players arrange their own figurines in a row on the table, and the GM moves 
 >
 
 Kelly moves her figurine up in front of the enemy while she rolls to act out an attack – this isn't really necessary, but it helps her visualise the action.  
-Savage Slicer is Kelly's strongest attack, costing *4 FP*{: .spirit-color }, which Kelly marks off her sheet before she rolls. The Technique has *Indirect*{: .positive-color } (representing Kelly's scaly armoured claws), *Strong x2*{: .positive-color }, *Weaken (Defense) x2*{: .positive-color }, *Commitment (Primary)*{: .negative-color } and *Unwieldy*{: .negative-color }.  
+Savage Slicer is Kelly's strongest attack, costing *4 FP*{: .spirit-color }, which Kelly marks off her sheet before she rolls.  
+The Technique has *Indirect*{: .positive-color } (representing Kelly's scaly armoured claws), *Strong x2*{: .positive-color }, *Weaken (Defense) x2*{: .positive-color }, *Commitment (Primary)*{: .negative-color } and *Unwieldy*{: .negative-color }.  
 Adding it all together with Kelly's 1 Power, this gives her a Technique with 3 Power, that requires a *Good*{: .good-color } *Coordination*{: .heart-color } check to deal damage, and can shake up enemy defenses with a secondary *Bully*{: .courage-color } check. Kelly's chosen to split the damage into two 3 DMG strikes, for 6 in total.
 
 {: .example-play-callout }
@@ -151,35 +163,30 @@ The GM takes the figurine for the defeated plant off the table.
 > *BUSTER: Fee, fi, fo, fum... Heh heh, I think the basic Boombast should do it here.*{: .spirit-color }  
 >
 
-Boombast is Buster's basic explosive attack, with *Scaling*{: .positive-color }, *Indirect*{: .positive-color }, *Element (Blast)*{: .positive-color }, *Variant (Athletics)*{: .positive-color }, *Burst*{: .positive-color }, *Strong*{: .positive-color } and *Exhausting*{: .negative-color }, *Unwieldy*{: .negative-color }. Because most of the FP cost is covered by his Bob-Omb Tech Defaults, he's able to reduce it down to 0 FP, but can't act during the next turn.  
-The end result is an explosive attack that can hit both plants, dealing 4 DMG with a *Nice*{: .nice-color }, 6 DMG with a *Good*{: .good-color } and 8 DMG with a *Great*{: .great-color }.
+Boombast is Buster's basic explosive attack, with *Scaling*{: .positive-color }, *Indirect*{: .positive-color }, *Element (Blast)*{: .positive-color }, *Variant (Athletics)*{: .positive-color }, *Burst*{: .positive-color }, *Strong*{: .positive-color } and *Exhausting*{: .negative-color }, *Unwieldy*{: .negative-color }.  
+Because most of the *FP cost*{: .spirit-color } is covered by his Bob-Omb Tech Defaults, he's able to reduce it down to *0 FP*{: .spirit-color }, but can't act during the next turn.  
+The end result is an explosive attack that can hit both plants, dealing 2 DMG with a *Nice*{: .nice-color }, 4 DMG and a Solid Hit with a *Good*{: .good-color } and +2 Raw Damage with each additional Grade of Success.
 
 {: .example-play-callout }
-> *BUSTER: Come on, Athletics... No! That's just a **Good**{: .spirit-color }. So 6 DMG.*{: .spirit-color }  
+> *BUSTER: Come on, **Athletics**{: .heart-color }... No! That's only **Nice**{: .nice-color }. So 2 DMG, darn. I can't boost it up with **SP**{: .courage-color } if we've just started!*{: .spirit-color }  
 >  
-> *SQUINCH: +1 from your Attack.*{: .courage-color }  
+> *SQUINCH: +2 Attack though, right? From the Punch.*{: .courage-color }  
 >  
-> *BUSTER: Yeah, thanks, that wasn't including the Attack boost, but I don't think 7 damage is going to cut it... I'd boost that up to a **Great**{: .great-color } with **SP**{: .courage-color }, if I had any.*{: .spirit-color }  
+> *BUSTER: Oh right, yeah. It's not a Solid Hit so it's just 4 DMG.*{: .spirit-color }  
 >  
-> *GM: Yeah, unfortunately not – it's quite a powerful attack, though. The super-sized Buster explodes right in front of them! You deal 7 damage to the front plant, then 6 to the one behind it.*  
+> *GM: Okay, the super-sized Buster explodes, but unfortunately he detonates a little early! The edge of the blast deals 4 DMG to the front plant, and burts a little further for 3 DMG to its ally.*  
+> *Moving on, they're covered in soot and badly shaken up, but these Piranhas are still aggressive and can see that Buster hasn't got another attack in him.*  
+> *So while the front one lashes out at Kelly in melee, the other burrows under and pops out behind her, chomping down on Buster! That's 3 damage to both of you – plus the poison, for Kelly.*
 >  
-> *BUSTER: Ah, I forgot about the **Burst**{: .positive-color } penalty too.*{: .spirit-color }  
+> *KELLY: I've got Defense, so I'll Guard. That's a **Great**{: .great-color }! So it goes down to 2 from my Defense, then I reduce it twice, so I won't take any poison. And I have an extra Grade of Success... Oh! I can Superguard, right?*{: .heart-color }  
 >  
-> *GM: That's okay. So, the Putrid Piranhas are covered in soot and badly shaken up, but they're still aggressive and can see that Buster hasn't got another attack in him. So while the front one lashes out at Kelly in melee, the other burrows under and pops out behind her, chomping down on Buster! That's 3 damage to both of you – plus the poison, for Kelly.*  
->  
-> *KELLY: I've got Defense too, so I'll Guard. That's a **Great**{: .great-color }! So it goes down to 2 from my Defense, then I reduce it twice with blocking, so I won't take any poison. And I have an extra Grade of Success. Oh! I can Superguard, right?*{: .heart-color }  
->  
-> *GM: Yep, you're able to defend and pirouette into a shell strike. Their fangs bounce off your tough shell and they recoil in pain! You deal 1 more damage to the Putrid Piranha, and it slumps over, KO'd!*  
+> *GM: Yep, you're able to defend and pirouette into a shell strike. Their fangs bounce off your tough shell and they recoil in pain! You deal 1 more damage to the Putrid Piranha, and it recoils in pain!*  
 >
-
-The GM takes another figurine off the table, leaving just one enemy.
-
-{: .example-play-callout }
-> *KELLY: Guys, they've got 8 HP! So the last one is barely standing.*{: .heart-color }  
+> *KELLY: Hm, so somewhere between 6 and 10 HP... Well, whatever, I'll take 'em out next turn!*{: .heart-color }  
 >  
-> *BUSTER: Yeah, I can't do much about it now though. I **Guarded**{: .heart-color } as well, but got nothing.*{: .spirit-color }  
+> *BUSTER: Yeah, that's super. I **Guarded**{: .heart-color } as well, but got nothing. I have some Defense too, right?*{: .spirit-color }  
 >  
-> *GM: So your metal hide is a bit tougher, but the Piranha's desperate bite crunches down with force, dealing 2 damage to you. So, there's just one more enemy to fight, but it's looking pretty frightened. Next round, it's Kelly from the top, what do you do?*  
+> *GM: Yep. So your metal hide is a bit tougher than they're used to, and you can't be poisoned, but the Piranha's vicious bite still crunches down with force to deal 2 damage. They're still raring to go. Next round, it's Kelly from the top, what do you do?*  
 >
 
 And that's the basics of play in Paper Story!

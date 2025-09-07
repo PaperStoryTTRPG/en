@@ -51,6 +51,10 @@ h6 {
   font-family: marioSolidV3;
 }
 
+.normal-font {
+  font-family: pmPopjoy;
+}
+
 .underlined {
   text-decoration: underline;
 }
@@ -246,6 +250,10 @@ blockquote.item-inner-callout {
 
 .float-right {
   float: right;
+}
+
+.fifteen-percent-size {
+  width: 15%;
 }
 
 // // Clearfix for float-icon

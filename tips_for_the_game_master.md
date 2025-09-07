@@ -17,10 +17,10 @@ nav_order: 24
 {:toc}
 </details>
 
-As you may have noticed, Paper Story is designed to act the way you'd expect the original games to – at least as far as combat goes. I've tried to include as many fun ideas as possible, and keep closely to the original spirit of *Paper Mario*{: .italic }.
+Paper Story is designed to act the way you'd expect the original games to – at least as far as combat goes. I've tried to include as many fun ideas as possible, and keep closely to the original spirit of *Paper Mario*{: .italic }.
 
 Your players are bound to have all sorts of crazy ideas, either to solve problems in inventive new ways, to skirt around the limitations of their Techniques or to play wacky species not covered here.  
-I strongly recommend you work together with them on that, to the extent that your game is comfortable with it.  
+I *strongly*{: .underlined } recommend you work together with them on that, to the extent that your game is comfortable with it.  
 The Items, Species, Techniques and Traits presented in this book are just a starting point. Don't be afraid to draft new content for your players, or design Techniques by hand. Creating an imaginative solution that suits your game and your players will always be better than forcing players into a mould they're not interested in.
 
 The rest of this book is devoted to resources for you to use at your own table, and suggestions for how to tweak the provided rules for your players.
@@ -34,11 +34,16 @@ NPC's only have very basic stats – *HP*{: .heart-color } and Defense is usuall
 
 Essentially, NPC actions automatically succeed, and the players are the ones that have to respond to those actions. They represent the flow of the narrative for your game, so you just have to direct them as you see fit.  
 They don't make attack checks, they don't contest player's actions, and they don't waste your time.  
+
 In a combat scenario, all you need for an NPC is to track their key stats and the outcome of their attacks – which is usually just the number of strikes, the damage dealt and any Statuses they can dish out.  
-You can give them *FP*{: .spirit-color }, too, if you want the players to wear them down over time; usually though I'd recommend just spacing out their best attacks by a turn or two. If their *FP*{: .spirit-color } total comes up (such as through a Point Swap), it's rare enough that it's easier to just come up with something on the fly.  
 By design, all of this is simple enough to mock up on the spot, but it can be really helpful to look at how the games have used enemies in battles and build off of that.
 
-If an NPC really poses a challenge (out-swimming a Cheep Cheep, or *Bullying*{: .courage-color } a mighty dragon), your players still make their rolls as normal, but you might want to warn them they'll need more Grades of Success. Boss fights in particular can get away with some resistance to Statuses.
+You can give them *FP*{: .spirit-color }, too, if you want the players to wear them down over time; usually though I'd recommend just spacing out their best attacks by a turn or two. If their *FP*{: .spirit-color } total comes up (such as through a Point Swap), it's rare enough that it's easier to just come up with something on the fly.  
+
+Statuses can be trickier, since it's easy for players to acquire powerful effects like Daze and Stun which can invalidate a lot of fights, especially boss fights.  
+The easiest solution to make more resilient enemies is to take a couple levels off the status, or shorten the duration by a few turns, so that your players still get the satisfaction of using their status effects without de facto solving the encounter.
+
+If an NPC really poses a challenge (out-swimming a Cheep Cheep, or *Bullying*{: .courage-color } a mighty dragon), your players still make their rolls as normal, but you might want to warn them they'll need more Grades of Success.
 
 If you're not familiar with this style of play it can take some getting used to – I highly recommend *Dungeon World*{: .italic } and other *Powered By The Apocalypse*{: .italic } systems if you're interested in seeing that concept taken further, as it was a big inspiration for this system.
 
@@ -50,7 +55,8 @@ The important thing to remember is this will make the players' lives a lot harde
 
 ## Star Power Techniques
 
-In a long-form campaign, players may acquire certain powers that rely on Star Power to function, from artifacts, powerful beings or whatever else fits within your campaign. With these boons comes an increase in *maximum SP*{: .courage-color }, improving *SP*{: .courage-color } limits by 10 with each ability.
+In a long-form campaign, players may acquire certain powers that rely on Star Power to function, from artifacts, powerful beings or whatever else fits within your campaign.  
+With these boons comes an increase in *maximum SP*{: .courage-color }, improving *SP*{: .courage-color } limits by 10 with each ability.
 
 In the context of Paper Story, these are basically just Techniques which cost *SP*{: .courage-color } instead of *FP*{: .spirit-color }, as defined by the GM. As these are more potent than regular Techniques and run on a less reliable power source, GM's are encouraged to set *SP*{: .courage-color } costs as they see fit, and homebrew effects as necessary.
 
@@ -71,8 +77,8 @@ Keep in mind these are rough estimates, as many Star Power Techniques don't fit 
 > > *10 SP*{: .courage-color }
 > >
 > > Restore all allies' *HP*{: .heart-color } and *FP*{: .spirit-color } by 5, and cures all status conditions. Affects the user, too.  
-> > *Allies, Hearty x3, Flowery x3, Dismiss, Harmless*{: .fs-3 .italic }  
-> > *Equivalent: **11 FP**{: .spirit-color }*{: .fs-3 .italic }
+> > *Allies, Dismiss, Flowery x5, Hearty x3, Shared, Harmless*{: .fs-3 .italic }  
+> > *Equivalent: **10 FP**{: .spirit-color }*{: .fs-3 .italic }
 
 {: .item-callout .item-left }
 > ![](assets/images/stars/mamar.png)
@@ -112,7 +118,7 @@ Keep in mind these are rough estimates, as many Star Power Techniques don't fit 
 > >
 > > Reduces the Attack of all targets outside the user's group by -3, for 3 turns.  
 > > *All, Safe, Weaken (Attack) x3, Harmless*{: .fs-3 .italic }  
-> > *Equivalent: **7 FP**{: .spirit-color }*{: .fs-3 .italic }
+> > *Equivalent: **8 FP**{: .spirit-color }*{: .fs-3 .italic }
 
 {: .item-callout .item-left }
 > ![](assets/images/stars/misstar.png)
@@ -136,10 +142,10 @@ Keep in mind these are rough estimates, as many Star Power Techniques don't fit 
 > > 
 > > *20 SP*{: .courage-color }
 > >
-> > Attempts to freeze all targets outside the user's group in time, Stunning them at Status Level 5.  
+> > Attempts to freeze all targets outside the user's group in time, Stunning them at Status Level 6.  
 > > The user makes a *Magic*{: .spirit-color } or *Cheer*{: .courage-color } check; for each Grade of Success, targets are completely Stunned (6) for a turn, to a maximum of 5 turns.  
-> > *All, Safe, Stun x5 (Stronger Variant), Harmless*{: .fs-3 .italic }  
-> > *Equivalent: **12 FP**{: .spirit-color }*{: .fs-3 .italic }
+> > *All, Lengthen x2, Safe, Stun x3, Harmless*{: .fs-3 .italic }  
+> > *Equivalent: **10 FP**{: .spirit-color }*{: .fs-3 .italic }
 
 {: .item-callout .item-left }
 > ![](assets/images/stars/kalmar.png)
@@ -168,7 +174,14 @@ Keep in mind these are rough estimates, as many Star Power Techniques don't fit 
 > >
 > > The user can remove all positive conditions (e.g. Boost, Counter, Secure) and magic effects (e.g. Invisibility, Flight) from all combatants in the target group.  
 > > *Group, Harmless, Dismiss*{: .fs-3 .italic }  
-> > *Equivalent: **3 FP**{: .spirit-color }*{: .fs-3 .italic }
+> > *Equivalent: **4 FP**{: .spirit-color }*{: .fs-3 .italic }
+
+![](assets/images/scenes/gm-tips-01.png)
+{: .center-img }
+
+{: .tip-callout }
+> *The power of the stars can take all sorts of forms. Try to come up with interesting mechanics that fit your campaign, and don't worry too much about following Technique rules; the whole point of these special trinkets is to bestow power beyond your players' wildest dreams!* ![](assets/images/icons/tipguy.png)
+> {: .icon-right }
 
 ## Simplified Rules
 
@@ -181,9 +194,9 @@ That's okay! These are just meant to be a starting point for players. If you'd p
     - Quirks can be Big or Small, and either Positive or Negative.  
     Big Quirks are twice as valuable as Small Quirks; think of Small Quirks as +/- 1, and Big Quirks as +/- 2. The final species should have a total Quirk value of (roughly) 0.
     - Big Quirks impact important stats like Power or Defense, or provide significant advantages, like Immunity or Weakness to certain attacks.
-    - Small Quirks are more situational advantages and flaws, like points in Resistance, Flight or the Aquatic Trait.
+    - Small Quirks are more situational advantages and flaws, like points in Resistance, Flight or the Adapted Trait.
 
-- To make a Simple Technique, start from a simple damage-dealing attack using *Coordination*{: .heart-color }. It deals up to the character's Power in damage with no successes, and up to twice that with a Nice result.  
+- To make a Simple Technique, start from a simple damage-dealing attack using *Coordination*{: .heart-color }. It deals up to the character's Power in damage with no successes, and up to twice that with a *Nice*{: .nice-color } result.  
     To expand on that, you can summarise all of a Technique's effects as Quirks.
     - Like with Species, Quirks can be Big or Small, and either Positive or Negative.  
     Big Quirks are twice as valuable as Small Quirks; think of Small Quirks as +/- 1, and Big Quirks as +/- 2.  
@@ -197,6 +210,7 @@ Keep in mind though that these simplified systems aren't balanced the same way a
 
 Generally, navigating around the world can be handled on a scene-by-scene basis, with the GM describing the players' surroundings and the players asking clarifying questions or making actions to engage with the world.  
 However, sometimes you want to move the exploration along a bit, or have the players carry out some exciting acrobatic feats deserving of a Mario game.  
+
 These rules can be used to quickly navigate an area, abstracting a dungeon, "level" or other explorable area into a couple of rolls.  
 Make sure you still describe their actions and the area they're exploring!  
 Otherwise it's easy to feel like you're just making dice rolls.
@@ -210,9 +224,19 @@ Otherwise it's easy to feel like you're just making dice rolls.
     - This can be up to the player, but usually as the GM you'll want to present them with a choice between two things to do, or two routes they can go down.
     - The easiest thing to ask for here is a *Notice*{: .spirit-color } check, giving players a chance to find Items or Coins. This is a good way to get small things to players that they might not have otherwise considered, like Mushrooms or crafting materials.
     - Another fun option can be *Perform*{: .courage-color }, giving players a chance to revel in their athleticism. This is basically an Appeal for *SP*{: .courage-color }.
-    - Alternate, more difficult, paths could use *Athletics*{: .heart-color }, *Coordination*{: .heart-color } or *Steady*{: .courage-color } to traverse safely. These paths can lead to more rewards, bypass some enemies, or get to the end faster.
+    - Alternate, more difficult, paths could use *Athletics*{: .heart-color }, *Coordination*{: .heart-color } or *Steady*{: .courage-color } to traverse safely.  
+    These paths can lead to more rewards, bypass some enemies, or get to the end faster.
 
 Usually, that's enough to get through an area. But if players are lagging behind, or the area is particularly long or dangerous, you can consider asking for another check to navigate the area.
+
+![](assets/images/scenes/gm-tips-02.png)
+{: .center-img }
+
+{: .tip-callout }
+> *There's a whole wide world out there! If your players are eager to explore it, try to take time to paint a vivid picture and encourage them to stop and smell the roses.  
+Though of course, if they're more keen to hustle through to the next deadly encounter, there's nothing wrong with streamlining their movements.
+* ![](assets/images/icons/tipguy.png)
+> {: .icon-right }
 
 ## Partner System
 
@@ -220,19 +244,22 @@ As an alternative to standard Paper Story, you may want to create a diverse cast
 This may better suit a campaign where players control a variety of characters, or where many players may drop in and out, centred around one main figure.
 
 In the Partner System, in addition to ordinary characters (like Mario), there are simplified partner characters.  
-Whenever a partner takes any amount of damage from an enemy, they act as if KO'd and sit out of the fight; unlike ordinary status effects, this cannot be reduced by *Steady*{: .courage-color }.  
-Instead, at the start of each turn they restore *1 HP*{: .heart-color }, and become active again when they're fully healed.  
-If for whatever reason a partner takes enough damage to reduce their HP to 0, then as normal, they are rendered completely inactive, can't take any further actions and don't passively heal.  
-Partners can't be attacked while in this state, though they may still take damage through other effects.
+Whenever a partner takes any amount of damage from an enemy, they act as if KO'd and sit out of the fight.  
 
-While in this state, partners can take certain actions to help them recover faster. This still counts as their action for the turn.
+At the start of each turn they restore *1 HP*{: .heart-color }, and become active again when they're fully healed.  
+If for whatever reason a partner takes enough damage to reduce their *HP*{: .heart-color } to *0*{: .heart-color }, then as normal, they are rendered completely inactive, can't take any further actions and don't passively heal.  
+Patners can't be attacked while in this state, though they may still take damage through other effects.
+
+While in this state, partners can take certain actions to help them recover faster.  
+This still counts as their action for the turn.
 - Using Items on themselves.
 - Making *Heal*{: .heart-color } checks on themselves.
 - Getting a [Second Wind]({{ "/star_power#second-wind" | absolute_url }}) with their *SP*{: .courage-color }.
 
 Under this system, a number of Badges change when used by partners, as noted on the following page.
 
-This system works well for a large number of partners, which may make things take longer and unbalance games. If this is a concern, you may want to restrict combat actions to one partner at a time (as in the games), or have a large group of partners in a loosely assembled formation behind their leader.
+This system works well for a large number of partners, which may make things take longer and unbalance games.  
+If this is a concern, you may want to restrict combat actions to one partner at a time (as in the games), or have a large group of partners in a loosely assembled formation behind their leader.
 
 In any case, it's not as flexible as standard play, and is only recommended for games focused on a central protagonist.
 
@@ -267,8 +294,7 @@ In any case, it's not as flexible as standard play, and is only recommended for 
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
 > >
-> > -1 Attack.  
-> > When your attacks deal damage, you can restore *1 HP*{: .heart-color } for yourself or an ally.
+> > Bestows -1 Attack, but when a strike you make would deal damage to one or more targets, you can restore *1 HP*{: .heart-color } to yourself or an ally.
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/laststand.png)
@@ -279,7 +305,8 @@ In any case, it's not as flexible as standard play, and is only recommended for 
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
 > >
-> > You can still act until you lose *6 or more HP*{: .heart-color }.
+> > You can still act while injured, up until you lose *6 or more HP*{: .heart-color }.  
+> > While injured, incoming attacks deal 1/2 as much Raw Damage.
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/closecall.png)
@@ -290,7 +317,7 @@ In any case, it's not as flexible as standard play, and is only recommended for 
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
 > >
-> > While suffering from damage, you can attempt to *Dodge*{: .spirit-color } before you *Block*{: .heart-color }, and you have +1d6 to *Dodge*{: .spirit-color } checks.
+> > While suffering from damage, you can attempt to *Dodge*{: .spirit-color } before you *Guard*{: .heart-color }, and you have +1d6 to *Dodge*{: .spirit-color } checks.
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/heartfinder.png)
@@ -301,21 +328,30 @@ In any case, it's not as flexible as standard play, and is only recommended for 
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 3 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
 > >
-> > When an ally takes damage, you can make a *Heal*{: .heart-color } check targeting them as a free action.
+> > When an ally takes damage, you can make a *First Aid*{: .heart-color } check targeting them as a free action.
 
 ## True and Honest Paper Mario
 
 Paper Story adds a lot of options that aren't covered in the original games.  
 And you might feel some kind of way about that. That's fair! Sometimes I feel like elements are a bit too much, too.  
+
 But the important thing is that you can pick and choose what works for you and your group. Whether that's some of the new Badges, the Power-Up system or entire Technique Traits, feel free to split off the parts that you don't want to deal with.  
+
 Always remember; the GM gets the final say.
 
 ## Darker and Edgier
 
 Sometimes you want to take the kid's gloves off, and delve into some darker themes. It's a vibe that doesn't really align with the Mario world, so it's largely absent from Paper Story, but it's a fair enough thought process.  
 The original games certainly dance a thin line here; death and other adult themes are certainly *present*{: .italic } in this world, if not a focal point, and sometimes you need to highlight the danger your players are in.  
-Sometimes, being KO'd in the field of battle is a very real possibility – you should make sure players understand the risks, and try not to be too flippant with it. It's probably okay for a lengthy poison to drain someone's life away, or a particularly devastating attack to end their game – not so much a Goomba's headbonk.  
-Even in these cases, it's best not to be too graphic, and let players form their own mental pictures to the level they're comfortable with. It's enough to explain that the dragon has eaten someone whole – you don't need to go into grisly detail about *how*{: .italic } it's playing out.  
-And of course, the most important thing is to set the expectation with your players. As long as everyone knows what they're signing up for, it can providea different kind of fun.
 
+Sometimes, being KO'd in the field of battle is a very real possibility – you should make sure players understand the risks, and try not to be too flippant with it.  
+It's probably okay for a lengthy poison to drain someone's life away, or a particularly devastating attack to end their game – not so much a Goomba's headbonk.  
 
+Even in these cases, it's best not to be too graphic, and let players form their own mental pictures to the level they're comfortable with.  
+It's enough to explain that the dragon has eaten someone whole – you don't need to go into grisly detail about *how*{: .italic } it's playing out.  
+
+And of course, the most important thing is to set the expectation with your players.  
+As long as everyone knows what they're signing up for, it can providea different kind of fun.
+
+![](assets/images/scenes/gm-tips-03.png)
+{: .center-img }

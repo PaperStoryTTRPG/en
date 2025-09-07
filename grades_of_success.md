@@ -17,7 +17,7 @@ nav_order: 7
 {:toc}
 </details>
 
-The number of Successes needed for any action is reduced to a shorthand, representing how impressive your actions are. These are referred to as Grades of Success, or just Grades, and vary based on your overall Successes.
+The number of Successes needed for any action is reduced to a shorthand, representing how impressive your actions are. These are referred to as Grades of Success, or just Grades *(You may sometimes see them abbreviated as GoS in the community)*{: .fs-3 }, and vary based on your overall Successes.
 
 - *0 Successes:*{: .header-font } Nothing; unless the action can work automatically, it fails.
 - *1 Successes:*{: .header-font } *Nice! 1 Grade of Success.*{: .nice-color }
@@ -35,6 +35,8 @@ As a general rule, *Nice*{: .nice-color } or *Good*{: .good-color } results are 
 
 And *Wonderful*{: .wonderful-color } or greater results are often exceptional, possibly exceeding your expectations.
 
+If needed, you can pull your punches – treating your result as a lower Grade than your earned. 
+
 ## Opposed Checks
 
 In the event of an opposed check, success is determined by comparing all competing players' rolls. The winner of the check is the player with the most Successes. 
@@ -43,6 +45,20 @@ In the event of a tie, compare the relevant Stat for each tied player and the hi
 
 ## Exceptional Results
 
-High rolls are always worthwhile, as the Stars bestow their blessing on exceptional individuals. As long as your check succeeds, *Great*{: .great-color } results earn *1 SP*{: .courage-color }, *Wonderful*{: .wonderful-color } results earn *2 SP*{: .courage-color }, *Excellent*{: .excellent-color } results earn *5 SP*{: .courage-color } and *Unbelievable*{: .unbielevable-color } results earn a whopping *10 SP*{: .courage-color }!
+High rolls are always worthwhile, as the Stars bestow their blessing on exceptional individuals. Even if you chose to take a lower result, you gerate *SP*{: .courage-color } based on the total Grades of Success you rolled.  
 
-Be mindful though that if you spend, earn or restore any *SP*{: .courage-color } during the check, you can't earn any more *SP*{: .courage-color } in the process.
+This *SP*{: .courage-color } can be added to your pool immediately, or spent immediately to fuel [*Exceptional Techniques*{: .courage-color .underlined }]({{ "/exceptional_techniques" | absolute_url }}).
+
+Be mindful though that if you spend any *SP*{: .courage-color } during the check – such as to [Try Again]({{ "/star_power#try-again" | absolute_url }}) – you can't generate any *SP*{: .courage-color } for your result.
+
+Otherwise, as long as your rolled dice for your check, and your action is successful:
+- *Great*{: .great-color } results generate *1 SP*{: .courage-color }!
+- *Wonderful*{: .wonderful-color } results generate *2 SP*{: .courage-color }!
+- *Excellent*{: .excellent-color } results generate *5 SP*{: .courage-color }!
+- *Unbelievable*{: .unbelievable-color } results generate a whopping *10 SP*{: .courage-color }!
+
+![](assets/images/scenes/00.png)
+{: .center-img }
+
+{: .tip-callout }
+> *Every check is a chance to roll the dice and generate SP! Even if your action doesn't benefit from a higher result, it's better to go for broke and try to rack up some SP for you and your allies. ![](assets/images/icons/tipguy.png)*{: .icon-right }

@@ -8,6 +8,8 @@ nav_order: 2
 # Version History
 {: .no_toc }
 
+The changelogs for the most recent versions of Paper Story can be found as downloads on the itch.io page of the game.
+
 • **v1.0** (11/7/20)  
 • **v1.0.1** (12/7/20)  
 • **v1.1** (15/11/20)  
@@ -22,3 +24,4 @@ nav_order: 2
 • **v1.5** (10/3/23)  
 • **v1.6** (26/11/23)  
 • **v1.6.1** (30/11/23)  
+• **v1.6.2** (6/9/25)

@@ -22,7 +22,8 @@ Regardless of the size or number of things being carried, all players begin play
 
 ## Items
 
-Items are single-use consumables with a wide variety of effects. Generally, Items require an action to use and are consumed immediately. You don't need to make any special checks, though you can get more out of your Items using [*Aim*{: .heart-color }]({{ "/skills_in_detail#aim---item-attacks" | absolute_url }}), [*Heal*{: .heart-color }]({{ "/skills_in_detail#heal---recovery" | absolute_url }}) and [*Crafts*{: .spirit-color }]({{ "/skills_in_detail#crafts---enhancing-and-mixing" | absolute_url }}).
+Items are single-use consumables with a wide variety of effects. Generally, Items require an action to use and are consumed immediately.  
+You don't need to make any special checks, though you can get more out of your Items using *[Aim]({{ "/skills_in_detail#aim---item-attacks" | absolute_url }})*{: .heart-color .underlined }, *[Heal]({{ "/skills_in_detail#heal---recovery" | absolute_url }})*{: .heart-color .underlined } and *[Crafts]({{ "/skills_in_detail#crafts---enhancing-and-mixing" | absolute_url }})*{: .spirit-color .underlined }.
 
 {: .item-callout .item-left }
 > ![](assets/images/items/mushroom.png)
@@ -230,7 +231,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > > ### *Ice Storm*{: .fs-6 .header-font }  
 > > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Attack*{: .label .attack .header-font }  
-> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 15 Coins
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 10 Coins
 > >
 > > Deals 3 Piercing Ice damage to all enemies in target group – targets are frozen, Dazing (1) them for 1 turn.
 
@@ -241,7 +242,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > > ### *Bubble Wave*{: .fs-6 .header-font }  
 > > {: .no_toc }
 > > *Item*{: .label .item .header-font }*Attack*{: .label .attack .header-font }  
-> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 15 Coins
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 10 Coins
 > >
 > > Deals 3 Piercing Water damage to all enemies in target group – targets are encased in bubbles, Dazing (1) them for 1 turn.
 
@@ -331,7 +332,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > > *Item*{: .label .item .header-font }*Hazard*{: .label .hazard .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 8 Coins
 > >
-> > All enemies in target group are shrunken, Weakening (1) Attack for 3 turns.
+> > All enemies in target group are shrunken, Weakening (2) Attack for 3 turns.
 
 {: .item-callout .item-left }
 > ![](assets/images/items/mrsoftener.png)
@@ -342,7 +343,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > > *Item*{: .label .item .header-font }*Hazard*{: .label .hazard .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 8 Coins
 > >
-> > All enemies in target group are softened up, Weakening (1) Defense for 3 turns.
+> > All enemies in target group are softened up, Weakening (3) Defense for 3 turns.
 
 {: .item-callout .item-left }
 > ![](assets/images/items/dizzydial.png)
@@ -386,7 +387,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > > *Item*{: .label .item .header-font }*Booster*{: .label .booster .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 15 Coins
 > >
-> > Enlarges a willing target, Boosting (1) Attack for 3 turns.
+> > Enlarges a willing target, greatly Boosting (2) Attack for 3 turns.
 
 {: .item-callout .item-left }
 > ![](assets/images/items/courageshell.png)
@@ -397,7 +398,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > > *Item*{: .label .item .header-font }*Booster*{: .label .booster .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 5 Coins
 > >
-> > Toughens a willing target's body, Boosting (1) Defense for 3 turns.
+> > Toughens a willing target's body, sharply Boosting (3) Defense for 3 turns.
 
 {: .item-callout .item-left }
 > ![](assets/images/items/voltshroom.png)
@@ -435,7 +436,7 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 15 Coins
 > >
 > > Makes a willing target dodgier; for the next 3 turns, their *Dodge*{: .spirit-color } checks are Boosted (1).  
-> > While this Boost lasts, they can attempt to *Dodge*{: .spirit-color } before they *Block*{: .heart-color }.
+> > While this Boost lasts, they can attempt to *Dodge*{: .spirit-color } before they *Guard*{: .heart-color }.
 
 {: .item-callout .item-left }
 > ![](assets/images/items/boosheet.png)
@@ -463,9 +464,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > > Turns a willing target into a solid stone statue for 3 turns, preventing them from taking any action, but making them immune to all attacks, hazards, Statuses and similar effects.  
 > > If used while airborne, the user can crash into a single target from above, dealing 6 Earth DMG with an Aerial attack!  
 > > In any case, the user is grounded for the duration, ignoring their Fly or Hover Traits.  
-> > Also bestows the following Weakness:  
-> > *Weakness (Blast, Quake)*{: .mgl }  
-> > *This weakness overrules any existing immunity or resistance.*{: .mgl-big .fs-3 }  
+> > Your existing Immunities, Weaknesses and Resistances are replaced with this Weakness for the duration:  
+> > *Weakness (Blast, Quake)*{: .mgl }    
 > > *Your stone form is chipped, ending your invulnerability and Dazing (1) you for a turn for each point of damage taken (minimum 1 turn).*{: .mgl-big .fs-3 }
 
 {: .item-callout .item-left }
@@ -528,8 +528,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 > >
 > > When fed to a willing target, they roll 1d6:
 > > - On 1-5, if the user is immune to poison or similar statuses, they heal 10 HP.  
-> > Otherwise they're afflicted with a Lingering (1) poison for 3 turns; if they're unable to shrug it off with Steady outright, their current HP is also halved.
-> > - On 6, their HP is completely restored, and their status ailments (e.g. Lingering, Stun) are cured.
+> > Otherwise they're afflicted with a Lingering (1) poison for 3 turns; if they're unable to shrug it off with *Steady*{: .courage-color } outright, their current *HP*{: .heart-color } is also halved.
+> > - On 6, their *HP*{: .heart-color } is completely restored, and their status ailments (e.g. Lingering, Stun) are cured.
 
 ![](assets/images/scenes/20.png)
 {: .center-img }
@@ -543,8 +543,8 @@ Items are single-use consumables with a wide variety of effects. Generally, Item
 Power-Ups are particularly special kinds of consumable Items which provide ongoing effects for a single willing target, similar to Statuses caused by Booster Items.  
 A character can have one Power-Up active at a time, with new Power-Ups replacing existing Power-Ups immediately.
 
-Power-Ups provide a variety of passive benefits, and can grant modifiers to Techniques or give the user access to entirely new Techniques.  
-These Technique benefits can't be used simultaneously; you can't use a Power-Up Technique while the Power-Up enhances it, and you can't enhance your Techniques with more than one Power-Up effect.
+Power-Ups provide a variety of passive benefits, and can grant modifiers to Innate Techniques or give the user access to entirely new Techniques.  
+These Technique benefits can't be used simultaneously; you can't enhance your Techniques with more than one Power-Up effect at a time, for instance.
 
 The magic of a Power-Up doesn't last long! It takes special care to preserve them for future use, requiring a *Crafts*{: .spirit-color }, *Magic*{: .spirit-color } or similar check to keep them safe. Typically this requires at least a *Great*{: .great-color } result, though as always, you may be able to get by with less.  
 Otherwise if they aren't used, a Power-Up will wilt or expire within a few minutes of acquiring it. Some of their magic will last, though, allowing them to be used as ordinary Items.  
@@ -744,6 +744,8 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 > > *Power-Up*{: .label .power-up .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
 > >
+> > *Artist: [@ladyluck](https://ladyluck.itch.io/)*{: .fs-3 .italic }
+> > 
 > > Turns the user ghostly and pale; they may even take on an uncanny resemblance to a Boo!  
 > > When wilted, can be eaten to produce a similar effect to a Boo's Sheet.  
 > > For *5 FP*{: .spirit-color }:  
@@ -756,11 +758,12 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 > > Adds:  
 > > *Immune (Fear, Shadow)*{: .mgl .fs-3 }  
 > > *Weakness (Sudden Light)*{: .mgl .fs-3 }  
-> > *This weakness overrules any existing immunity or resistance.*{: .mgl-big .fs-3 }  
 > > *You are stunned by the light, Dazing (1) you for a turn for each point of damage taken (minimum 1 turn).*{: .mgl-big .fs-3 }  
-> > *Hover*{: .mgl .fs-3 }
-> > *Intangibilit*{: .mgl .fs-3 }
-> > *Invisibility*{: .mgl .fs-3 }
+> > *Hover*{: .mgl .fs-3 }  
+> > *Intangibilit*{: .mgl .fs-3 }  
+> > *Invisibility*{: .mgl .fs-3 }  
+> > Removes:  
+> > *Immunities and Resistances to Light*{: .mgl .fs-3 }
 
 {: .item-callout .item-left }
 > ![](assets/images/items/rottenmushroom.png)
@@ -771,6 +774,8 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 > > *Power-Up*{: .label .power-up .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
 > >
+> > *Artist: [@ladyluck](https://ladyluck.itch.io/)*{: .fs-3 .italic }
+> > 
 > > Floods the user's body with poison; if they're not immune to poison or similar statuses, they have to make a *Steady*{: .courage-color } check to resist a Lingering (1) poison lasting 3 turns; if they can't prevent the poison outright, their current *HP*{: .heart-color } is halved, and the Power-Up fails.  
 > > When wilted, can be eaten (by the brave and the foolish) for an effect similar to a Poison Shroom.  
 > > For *5 FP*{: .spirit-color }:  
@@ -844,6 +849,48 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 > > Grants the user +1d6 to checks where their cape provides a clear advantage, such as *Athletics*{: .heart-color } checks to fly with a running start, or *Guard*{: .heart-color } checks to deflect projectiles.
 
 {: .item-callout .item-left }
+> ![](assets/images/items/blimpfruit.png)
+>
+> {: .item-inner-callout }
+> > ### *Blimp Fruit*{: .fs-6 .header-font }  
+> > {: .no_toc }
+> > *Power-Up*{: .label .power-up .header-font }  
+> > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
+> >
+> > *Original design: **@lucydndprincess**{: .courage-color }*{: .fs-3 .italic }  
+> > *Artist: **@meineeds.rest**{: .courage-color }*{: .fs-3 .italic }
+> > 
+> > Helps the target blow themselves up just like a balloon.  
+> > When wilted, can be eaten for an effect similar to a Honey Syrup.  
+> > For *0 FP*{: .spirit-color }:  
+> > *Balloon Bounce*{: .mgl .fs-3 .header-font }  
+> > *The user puffs themselves up quickly to fling themselves around quickly and dive towards an enemy.*{: .mgl .fs-3 }  
+> > *Can be used to jump from the ground, or to plummet from above (causing the user to ground themselves after attacking).*{: .mgl .fs-3 }  
+> > ***Athletics**{: .heart-color }:*{: .mgl .fs-3 }  
+> > *If not plummeting:*{: .mgl .fs-3 }  
+> > *Auto: [Power] DMG*{: .mgl-big .fs-3 }  
+> > ***Nice!**{: .nice-color }: [2x Power] DMG*{: .mgl-big .fs-3 }  
+> > *If plummeting:*{: .mgl .fs-3 }  
+> > ***Nice!**{: .nice-color }: [Power + 1] DMG*{: .mgl-big .fs-3 }  
+> > ***Good!**{: .good-color }: [2 x [Power + 1]] DMG*{: .mgl-big .fs-3 }  
+> > For *5 FP*{: .spirit-color }:  
+> > *Blowout*{: .mgl .fs-3 .header-font }  
+> > *The user unleashes a torrent of air from within, blowing all their foes back into each other.*{: .mgl .fs-3 }  
+> > ***Athletics**{: .heart-color }:*{: .mgl .fs-3 }  
+> > ***Nice!**{: .nice-color }: : [Power] Piecing Air DMG*{: .mgl .fs-3 }  
+> > ***Good!**{: .good-color }: : [Power x 2] Piercing Air DMG*{: .mgl .fs-3 }  
+> > ***Athletics**{: .heart-color } or **Bully**{: .courage-color }:*{: .mgl .fs-3 }  
+> > *For each Grade of Success, all affected targets are struck by a launched foe in front of them.*{: .mgl .fs-3 }  
+> > *Each of these strikes deals [Power] DMG*{: .mgl .fs-3 }  
+> > Adds:  
+> > *Hover*{: .mgl .fs-3 }  
+> > *Fly*{: .mgl .fs-3 }  
+> > *Weakness (Sharp Objects, Spikes)*{: .mgl .fs-3 }  
+> > *You are popped and stunned; you take +2 damage, this Power-Up is dismissed and you're Dazed (1) for a turn for each point of damage taken.*{: .mgl-big .fs-3 }  
+> > Grants the user +1d6 to checks where their bouncy form provides a clear advantage, such as *Athletics*{: .heart-color } checks to bounce around, or *Guard*{: .heart-color } checks to deflect attacks.  
+> > However, checks where the user's weightlessness is an hindrance, such as holding their ground with *Steady*{: .courage-color }, require a higher Grade of Success than usual.
+
+{: .item-callout .item-left }
 > ![](assets/images/items/boomerangflower.png)
 >
 > {: .item-inner-callout }
@@ -866,9 +913,6 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 > > *Hits all targets in a straight line, twice.*{: .mgl .fs-3 }  
 > > ***Aim**{: .heart-color }:*{: .mgl .fs-3 }  
 > > ***Good!**{: .good-color }: : [Power + 1] DMG x2*{: .mgl .fs-3 }  
-> > Adds:  
-> > *Fly*{: .mgl .fs-3 }  
-> > Grants the user +1d6 to checks where their cape provides a clear advantage, such as *Athletics*{: .heart-color } checks to fly with a running start, or *Guard*{: .heart-color } checks to deflect projectiles.
 
 {: .item-callout .item-left }
 > ![](assets/images/items/superbell.png)
@@ -906,7 +950,9 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 > > *Adds +1 Attack, Indirect and Element (Earth) to an attack.*{: .mgl .fs-3 }  
 > > For *5 FP*{: .spirit-color }:  
 > > *Rolling Rock*{: .mgl .fs-3 .header-font }  
-> > *Forms a boulder around the user, then bowls through enemies – hitting indirectly. The user can bowl over the target to strike targets behind them. Each new target slows them down, dealing 1 less damage (to a minimum of 1).*{: .mgl .fs-3 }  
+> > *Forms a boulder around the user, then bowls through enemies – hitting indirectly.*{: .mgl .fs-3 }  
+> > *The user can bowl over the target to strike targets behind them.*{: .mgl .fs-3 }  
+> > *Each new target slows them down, dealing 1 less damage (to a minimum of 1).*{: .mgl .fs-3 }  
 > > *The sheer force of the blow can leave each target reeling.*{: .mgl .fs-3 }  
 > > ***Athletics**{: .heart-color }:*{: .mgl .fs-3 }  
 > > ***Good!**{: .good-color }: [2 x (Power + 1)] Earth DMG*{: .mgl .fs-3 }  
@@ -918,9 +964,9 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 > > *+1 Defense*{: .mgl .fs-3 }  
 > > *+1 Resist (Shock)*{: .mgl .fs-3 }  
 > > *Weakness (Blast, Quake)*{: .mgl .fs-3 }  
-> > *This weakness overrules any existing immunity or resistance.*{: .mgl-big .fs-3 }
-> > *Your stone form is chipped, nullifying this Power-Up's Defense and Resist boosts for a turn for each point of damage taken (minimum 1 turn), as well as Dazing (1) you for the same duration.*{: .mgl-big .fs-3 }
+> > *Your stone form is chipped, nullifying this Power-Up's Defense and Resist boosts for a turn for each point of damage taken (minimum 1 turn), as well as Dazing (1) you for the same duration.*{: .mgl-big .fs-3 }  
 > > Removes:  
+> > *Immunities and Resistances to Blast and Quake*{: .mgl-big .fs-3 }  
 > > *Hover*{: .mgl .fs-3 }  
 > > *Fly*{: .mgl .fs-3 }
 
@@ -943,7 +989,7 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 > > ***Trickery**{: .spirit-color }:*{: .mgl .fs-3 }  
 > > ***Nice!**{: .nice-color }: Become Secure of 1 turn*{: .mgl .fs-3 }  
 > > Adds:  
-> > *-2 Power*{: .mgl .fs-3 }  
+> > *-2 Attack*{: .mgl .fs-3 }  
 > > *Homing and Selective to **all**{: .underlined } Techniques*{: .mgl .fs-3 }  
 > > *Weakness (Air, Crushing)*{: .mgl .fs-3 }  
 > > *Crushing attacks can't bypass your Secure status from Under-Foot.*{: .mgl-big .fs-3 }  
@@ -959,6 +1005,8 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 > > {: .no_toc }
 > > *Power-Up*{: .label .power-up .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 200 Coins
+> >
+> > *Artist: [@ladyluck](https://ladyluck.itch.io/)*{: .fs-3 .italic }
 > >
 > > Causes the user to grow to a tremendous size.  
 > > When wilted, can be consumed for an effect similar to a Power Punch.  
@@ -976,7 +1024,7 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 > > Adds:  
 > > *+3 Power*{: .mgl .fs-3 }  
 > > Grants the user +2d6 to checks where their large size provides them a clear advantage, such as blocking attacks with *Guard*{: .heart-color }, or standing their ground with *Steady*{: .courage-color }.  
-> > Checks where the user's size is a hindrance, such as *Coordination*{: .heart-color }, require two more Grades of Success than usual; in the case of this Power-Up's Megaton Charge and Megaton Stomp, this is already factored in.
+> > Checks where the user's size is a hindrance, such as *Coordination*{: .heart-color }, require two more Grades of Success than usual; in the case of this Power-Up's *Megaton Charge*{: .bold } and *Megaton Stomp*{: .bold }, this is already factored in.
 
 ![](assets/images/scenes/22.png)
 {: .center-img }
@@ -988,7 +1036,9 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 ## Gear
 
 Gear are specialised pieces of equipment that provide the user with new Techniques and other significant advantages, both in the field and in combat.  
-If players request personalised Gear, [*Craft*{: .spirit-color }]({{ "/skills_in_detail#crafts---working-from-scratch" | absolute_url }}) it themselves or (in the case of Basic Gear) begin play with a Tool Technique, they can even design their own!
+If players request personalised Gear, *[Craft]({{ "/skills_in_detail#crafts---working-from-scratch" | absolute_url }})*{: .spirit-color .underlined } it themselves or (in the case of Basic Gear) begin play with a Tool Technique, they can even design their own!
+
+No matter the type of Gear, any ammunition they required isn't tracked; if any Gear is represented by a large number of disposable equipment (such as throwing weapons), one piece of Gear is enough to represent an entire supply.
 
 {: .item-callout .item-left }
 > ![](assets/images/gear/basicgear.png)
@@ -1003,7 +1053,7 @@ If players request personalised Gear, [*Craft*{: .spirit-color }]({{ "/skills_in
 > > - Otherwise, this Gear provides the user with a new Technique.  
 > > This Technique must cost *0 FP*{: .spirit-color }, and can include one Trait as a Tech Default, based on the Gear's primary use (e.g. Tool for weapons, or Aerial for boots).  
 > > Regardless of the user's level, only 1 Trait can be used to reduce the Technique's *FP cost*{: .spirit-color }.
-> > - Personal Traits can be added for a cost of 10 Coins each, but checks using those Traits (e.g. Fly) can only score up to a Nice result, and their numerical values (e.g. Resist, *HP*{: .heart-color } healed with Immune, Contact damage) are limited to 1.
+> > - Personal Traits can be added for a cost of 10 Coins each, but checks using those Traits (e.g. Fly) can only score up to a Nice result, the Trait can't cost *FP*{: .spirit-color } and their numerical values (e.g. Resist, *HP*{: .heart-color } healed with Immune, Contact damage) are limited to 1.
 
 {: .item-callout .item-left }
 > ![](assets/images/gear/supergear.png)
@@ -1013,12 +1063,12 @@ If players request personalised Gear, [*Craft*{: .spirit-color }]({{ "/skills_in
 > > {: .no_toc }
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • Costs 400 Coins
 > >
-> > - Grants either +1 Power (when wielded as a Weapon), +1 Defense (when carried as a Shield or worn as Armour), or +1 to a Stat.
+> > - Grants either +1 Power (when wielded as a Weapon), +1 Defense (when carried as a Shield or worn as Armour), or +1 to a Stat (but typically doesn't affect *HP*{: .heart-color }, *FP*{: .spirit-color } or *BP*{: .courage-color }).
 > > - Adds +1d6 to appropriate checks.
 > > - Grants the user a new Technique using the Gear.  
 > > This Technique can include one Trait as a Tech Default, based on the Gear's primary use (e.g. Tool for weapons, or Aerial for boots).  
-> > Regardless of the user's level, only 2 Traits can be used to reduce the Technique's *FP cost*{: .spirit-color }.
-- Personal Traits can be added for a cost of 25 Coins each, with their numerical values beginning at 1. Checks using those Traits can score up to a *Great*{: .great-color } result, but no higher.  
+> > Regardless of the user's level, only 3 Traits can be used to reduce the Technique's *FP cost*{: .spirit-color }.
+- Personal Traits can be added for a cost of 25 Coins each, with their numerical values (e.g. Resist, *HP*{: .heart-color } healed with Immune, Contact damage) beginning at 1. Checks using those Traits can score up to a *Great*{: .great-color } result, but no higher.  
 > > Each numerical effect of a Trait can be enhanced to 2 for another 25 Coins, but no further.
 
 {: .item-callout .item-left }
@@ -1029,12 +1079,12 @@ If players request personalised Gear, [*Craft*{: .spirit-color }]({{ "/skills_in
 > > {: .no_toc }
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • Costs 800 Coins
 > >
-> > - Grants either +2 Power (when wielded as a Weapon), +2 Defense (when carried as a Shield or worn as Armour), or +2 to a Stat.
+> > - Grants either +2 Power (when wielded as a Weapon), +2 Defense (when carried as a Shield or worn as Armour), or +2 to a Stat (but typically doesn't affect *HP*{: .heart-color }, *FP*{: .spirit-color } or *BP*{: .courage-color }).
 > > - Adds +2d6 to appropriate checks.
 > > - Grants the user two new Techniques using the Gear.  
 > > These Techniques can include one Trait as a Tech Default, based on the Gear's primary use (e.g. Tool for weapons, or Aerial for boots).  
-> > Regardless of the user's level, only 4 Traits can be used to reduce the Technique's *FP cost*{: .spirit-color }.
-- Personal Traits can be added for a further 50 Coins each, with their numerical values values (e.g. Resist, HP healed with Immune, Contact damage) beginning at 1.  
+> > Regardless of the user's level, only 6 Traits can be used to reduce the Technique's *FP cost*{: .spirit-color }.
+- Personal Traits can be added for a further 50 Coins each, with their numerical values values (e.g. Resist, *HP*{: .heart-color } healed with Immune, Contact damage) beginning at 1.  
 > > Each numerical effect of a Trait can be increased, 1 point at a time, for another 50 Coins.
 
 The following pieces of Gear are just a few examples of what can be found in the world, either following these rules or as unique examples.
@@ -1088,7 +1138,7 @@ The following pieces of Gear are just a few examples of what can be found in the
 > > *Immune (Aerial)*{: .mgl .fs-3 }  
 > > *This Immunity is negated if the attacker has Immune (Spikes).*{: .mgl-big .fs-3 }  
 > > *Contact*{: .mgl .fs-3 }  
-> > *The attacker takes 1 Piercing DMG, and you make a **Steady**{: .courage-color } check; with a Nice result, the attacker is Dazed for 1 turn.*{: .mgl-big .fs-3 }
+> > *The attacker takes 1 Piercing DMG, and you make a **Steady**{: .courage-color } check; with a **Nice**{: .nice-color } result, the attacker is Dazed for 1 turn.*{: .mgl-big .fs-3 }
 > > For *0 FP*{: .spirit-color }:  
 > > *Pointed Headbonk*{: .mgl .fs-3 .header-font }  
 > > *The user leaps onto the foe's head, skewering them with their own spiky head.*{: .mgl .fs-3 }  
@@ -1105,12 +1155,13 @@ The following pieces of Gear are just a few examples of what can be found in the
 > > *Gear*{: .label .gear .header-font }*Basic*{: .label .gear .header-font }*Weapon*{: .label .item .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
 > >
-> > A stick with a pointed spike attached at the end. While it's intended as a weapon, just carrying it around helps protect against jump attacks.  
+> > A stick with a pointed spike attached at the end.  
+> > While it's intended as a weapon, just carrying it around helps protect against jump attacks.  
 > > Adds:  
 > > *Immune (Aerial)*{: .mgl .fs-3 }  
 > > *This Immunity is negated if the attacker has Immune (Spikes).*{: .mgl-big .fs-3 }  
 > > *Contact*{: .mgl .fs-3 }  
-> > *The attacker takes 1 Piercing DMG, and you make a **Steady**{: .courage-color } check; with a Nice result, the attacker is Dazed for 1 turn.*{: .mgl-big .fs-3 }
+> > *The attacker takes 1 Piercing DMG, and you make a **Steady**{: .courage-color } check; with a **Nice**{: .nice-color } result, the attacker is Dazed for 1 turn.*{: .mgl-big .fs-3 }
 > > For *0 FP*{: .spirit-color }:  
 > > *Spear Strike*{: .mgl .fs-3 .header-font }  
 > > *The user stabs from afar with their spear. This attack has reach, allowing it to hit airborne enemies.*{: .mgl .fs-3 }  
@@ -1216,7 +1267,9 @@ The following pieces of Gear are just a few examples of what can be found in the
 > > *Gear*{: .label .gear .header-font }*Unique*{: .label .unique-gear .header-font }*Book*{: .label .item .header-font }  
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 500 Coins
 > >
-> > A master chef's cookbook. Their legendary instruction can help any chef master the art of combining ingredients.  
+> > A master chef's cookbook.  
+> > Their legendary instruction can help any chef master the art of combining ingredients.  
+> >
 > > It has no Techniques, but when the holder consults this book while cooking, they can make *Crafts*{: .spirit-color } checks with *+2 Spirit*{: .spirit-color }.  
 > > Checks made to combine two ingredients are especially effective, receiving +2d6.
 
@@ -1230,9 +1283,12 @@ The following pieces of Gear are just a few examples of what can be found in the
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 500 Coins
 > >
 > > An exceptionally roomy pack, equivalent in value and rarity to Ultra Gear.  
+> >
 > > It has no Techniques, but provides an additional 10 Inventory slots for the holder to use, without occupying an Inventory slot itself.  
 > > Items are still relatively easy to locate, even when the sack is full, as they seem to rise up to the top whenever they're needed.
 
+![](assets/images/scenes/inventory-01.png)
+{: .center-img }
 
 {: .tip-callout }
 > *Gear is rare and expensive, but well worth the effort to track down. A good piece of Gear can either supplement your existing skillset or make you more reliable in different fields, giving you more options to work with.* ![](assets/images/icons/tipguy.png)
@@ -1242,8 +1298,11 @@ The following pieces of Gear are just a few examples of what can be found in the
 
 Badges are a special piece of equipment that take up no space in the inventory.  
 Instead, a character equips a number of their owned Badges at once. You can equip any number of Badges, but their *BP*{: .courage-color } total must be equal to or less than your maximum *BP*{: .courage-color }.  
-Badges enhance your abilities in a variety of ways, often subverting the rules of standard checks and Techniques.
-Generally you can change your equipped Badges at-will, but during combat and other stressful situations, you're unable to change your equipped Badges – at least, not without a concentrated effort, and how much you can actually change at a time will depend on the circumstances.
+
+Badges enhance your abilities in a variety of ways, often subverting the rules of standard checks and Techniques, providing Badge Techniques or unlocking entirely new abilities.  
+It's important to remember though that Badges only add onto a character's standard actions; whenever a Badge would add traits to a Technique, they can *only*{: .bold .underlined } be added to an Innate or Gear Technique.
+
+No matter what, the effect of any Badge can only be added once for each copy of that Badge equipped; you couldn't pay Power Smash's FP cost twice, unless you had two copies of Power Smash equipped.
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/heartplus.png)
@@ -1354,7 +1413,7 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
 > >
 > > Once per turn, you can make a *Notice*{: .spirit-color } check as a free action.  
-> > For each Grade of Success, you can find out how much *HP*{: .heart-color } one enemy has.
+> > For each Grade of Success, you can choose one enemy and learn their current and max *HP*{: .heart-color }.
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/medicineman.png)
@@ -1378,7 +1437,7 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
 > >
-> > When you have *5 or less HP*{: .heart-color }, you have +2 Attack.
+> > When you have *5 or less HP*{: .heart-color }, bestows +2 Attack.
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/megarush.png)
@@ -1402,7 +1461,7 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
 > >
-> > All Techniques have Simple, but you can't gain *SP*{: .courage-color } from Exceptional Results when using them.
+> > Innate Techniques have Simple on their Primary and Secondary Checks, but you can't generate *SP*{: .courage-color } from *Exceptional Results*{: .courage-color } when using them.
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/unsimplifier.png)
@@ -1414,7 +1473,7 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
 > >
-> > All Techniques have Unwieldy, but they earn *SP*{: .courage-color } from Exceptional Results as if they had one more Grade of Success on each check.
+> > Innate Techniques have Unwieldy on their Primary and Secondary Checks, but they generate *SP*{: .courage-color } from *Exceptional Results*{: .courage-color } as if they had one more Grade of Success on each check.
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/icepower.png)
@@ -1427,7 +1486,7 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
 > >
 > > You ignore Contact traits that deal Fire damage, and have +1 Resist (Fire).  
-> > All of your attacks have Element (Ice).
+> > All of your Innate and Gear attacks without an Element have Element (Ice).
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/earthpower.png)
@@ -1440,7 +1499,7 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
 > >
 > > You ignore Contact traits that deal Shock damage, and have +1 Resist (Shock).  
-> > All of your attacks have Element (Earth).
+> > All of your Innate and Gear attacks without an Element have Element (Earth).
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/firepower.png)
@@ -1452,8 +1511,10 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
 > >
+> > *Artist: [@ladyluck](https://ladyluck.itch.io/)*{: .fs-3 .italic }
+> > 
 > > You ignore Contact traits that deal Ice damage, and have +1 Resist (Ice).  
-> > All of your attacks have Element (Fire).
+> > All of your Innate and Gear attacks without an Element have Element (Fire).
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/hpdrain.png)
@@ -1513,8 +1574,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
 > >
-> > Your Aerial Techniques have +1 Attack.  
-> > You cannot use attacks that don't have Aerial.
+> > All of your Innate and Gear Techniques with Aerial have +1 Attack.  
+> > You cannot use attacks that don't have Aerial, but you can use non-damaging Techniques.
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/weaponman.png)
@@ -1526,8 +1587,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
 > >
-> > Your Tool (Indirect) Techniques have +1 Attack.  
-> > You cannot use attacks that don't have Tool (Indirect).
+> > All of your Innate and Gear Techniques with Tool (Indirect) have +1 Attack.  
+> > You cannot use attacks that don't have Tool (Indirect), but you can use non-damaging Techniques.
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/handyman.png)
@@ -1539,8 +1600,11 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
 > >
-> > Your Techniques that make contact with an enemy and don't have Aerial have +1 Attack.  
-> > You cannot use attacks that don't make contact with an enemy or that have Aerial.
+> > *Original Artist: [@ladyluck](https://ladyluck.itch.io/)*{: .fs-3 .italic }  
+> > *Concept: **@landsharkrawr**{: .courage-color }*{: .fs-3 .italic }
+> >
+> > All of your Innate and Gear that make contact with an enemy and don't have Aerial have +1 Attack.  
+> > You cannot use attacks that don't make contact with an enemy or that have Aerial, but you can use non-damaging Techniques.
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/marksman.png)
@@ -1552,8 +1616,10 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
 > >
-> > Your Techniques with either Tool (Ranged) or Ranged have +1 Attack.  
-> > You cannot use attacks that don't have Tool (Ranged) or Ranged.
+> > *Original Artist: [@ladyluck](https://ladyluck.itch.io/)*{: .fs-3 .italic }  
+> > 
+> > All of your Innate and Gear Techniques with either Tool (Ranged) or Ranged have +1 Attack.  
+> > You cannot use attacks that don't have Tool (Ranged) or Ranged, but you can use non-damaging Techniques.
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/flowersaver.png)
@@ -1565,8 +1631,7 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 4 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 250 Coins
 > >
-> > Whenever you would spend *FP*{: .spirit-color }, you spend 1 less than normal. This Badge cannot reduce *FP*{: .spirit-color } cost for any Technique or action below 1.
-> > This effect can't be used multiple times on the same technique without stacking other copies of Flower Saver.
+> > Whenever you would spend *FP*{: .spirit-color }, you spend *1 less FP*{: .spirit-color } than normal. This Badge cannot reduce *FP cost*{: .spirit-color } for any Technique or action below *1 FP*{: .spirit-color }.
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/allornothing.png)
@@ -1578,7 +1643,7 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 4 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
 > >
-> > Bestows +1 Attack, but all Primary Checks gain Commitment (if applicable) and Unwieldy.
+> > All of your Innate and Gear Techniques have +1 Attack, as well as Commitment (Primary) and Unwieldy (Primary).
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/bumpattack.png)
@@ -1614,7 +1679,7 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
 > >
-> > When you have *5 or less HP*{: .heart-color }, incoming attacks have their damage halved (before you react).
+> > When you have *5 or less HP*{: .heart-color }, incoming attacks deals 1/2 as much Raw Damage.
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/closecall.png)
@@ -1626,7 +1691,7 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
 > >
-> > When you have *5 or less HP*{: .heart-color }, you can attempt to *Dodge*{: .spirit-color } before you *Block*{: .heart-color }, and you have +1d6 to *Dodge*{: .spirit-color } checks.
+> > When you have *5 or less HP*{: .heart-color }, you can attempt to *Dodge*{: .spirit-color } before you *Guard*{: .heart-color }, and you have +1d6 to *Dodge*{: .spirit-color } checks.
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/damagedodge.png)
@@ -1638,7 +1703,7 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
 > >
-> > +2d6 to *Guard*{: .heart-color } checks.
+> > +2d6 to *Guard*{: .heart-color } checks when *Defending Actively*{: .heart-color } or *Guarding Reactively*{: .heart-color }.
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/pdowndup.png)
@@ -1662,7 +1727,7 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
 > >
-> > When attacked, you can attempt to *Dodge*{: .spirit-color } before you *Block*{: .heart-color }.
+> > When attacked, you can attempt to *Dodge*{: .spirit-color } before you *Guard*{: .heart-color }.
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/luckyday.png)
@@ -1674,7 +1739,7 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 7 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 500 Coins
 > >
-> > When attacked, you can attempt to *Dodge*{: .spirit-color } before you *Block*{: .heart-color }.  
+> > When attacked, you can attempt to *Dodge*{: .spirit-color } before you *Guard*{: .heart-color }.  
 > > +2d6 to *Dodge*{: .spirit-color } checks.
 
 {: .item-callout .item-left }
@@ -1687,7 +1752,7 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 3 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
 > >
-> > Bestows Immunity (Spikes).
+> > Bestows Immune (Spikes).
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/zaptap.png)
@@ -1712,7 +1777,7 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 4 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 150 Coins
 > >
-> > Bestows Immune (Negative Status).
+> > Bestows Immune (Poison), and adds +2d6 to *Steady*{: .courage-color } checks made to resist or recover from Statuses.
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/defendplus.png)
@@ -1737,7 +1802,7 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 1000 Coins
 > >
 > > Bestows the following Contact Trait:  
-> > *The attacker takes damage equal to half the damage dealt to you.*{: .mgl .fs-3 }
+> > *The attacker takes Piercing damage equal to half the damage dealt to you.*{: .mgl .fs-3 }
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/multibounce.png)
@@ -1768,6 +1833,7 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > For *1 FP*{: .spirit-color } while wielding a melee weapon:  
 > > *Weapon Throw*{: .mgl .fs-3 .header-font }  
 > > *The user throws their held weapon as an impromptu ranged attack.*{: .mgl .fs-3 }  
+> > *They can (usually) get it back shortly afterwards.*{: .mgl .fs-3 }  
 > > ***Aim**{: .heart-color }:*{: .mgl .fs-3 }  
 > > *Auto: [Power] DMG*{: .mgl .fs-3 }  
 > > ***Nice!**{: .nice-color }: [2x Power] DMG*{: .mgl .fs-3 }
@@ -1782,8 +1848,9 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
 > >
-> > By spending *2 FP*{: .spirit-color }, you can treat a single-target Technique as if it has Launch.  
-> > If it already had Launch, add another instance of Launch.
+> > For *2 FP*{: .spirit-color }:  
+> > *Adds Launch to an Innate single-target attack.*{: .mgl .fs-3 }  
+> > *Roll either **Athletics**{: .heart-color } or **Bully**{: .courage-color } to resolve the Secondary Check, regardless of its usuall required skill.*{: .mgl .fs-3 }
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/powersmash.png)
@@ -1796,8 +1863,7 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
 > >
 > > For *2 FP*{: .spirit-color }:  
-> > *Adds +1 Attack to a single-target attack.*{: .mgl .fs-3 }
-> > This effect can't be used multiple times on the same technique without stacking other copies of Power Smash.
+> > *Adds +1 Attack to an Innate or Gear single-target attack.*{: .mgl .fs-3 }
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/piercingblow.png)
@@ -1810,7 +1876,7 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
 > >
 > > For *2 FP*{: .spirit-color }:  
-> > *Adds Piercing to a single-target attack.*{: .mgl .fs-3 }
+> > *Adds Piercing to an Innate or Gear single-target attack.*{: .mgl .fs-3 }
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/icesmash.png)
@@ -1822,7 +1888,9 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
 > >
-> > By spending *3 FP*{: .spirit-color }, you can treat a single-target Technique as if it has Element (Ice) and Daze x3 – the Secondary Check defaults to *Magic*{: .spirit-color }.
+> > For *3 FP*{: .spirit-color }:  
+> > *Adds Element (Ice) and Daze x3 to an Innate or Gear single-target attack.*{: .mgl .fs-3 }  
+> > *Roll either **Bully**{: .courage-color }, **Magic**{: .spirit-color } or **Trickery**{: .spirit-color } to resolve the Secondary Check, regardless of its usual required skill.*{: .mgl .fs-3 }
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/shrinkslam.png)
@@ -1834,7 +1902,9 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
 > >
-> > By spending *2 FP*{: .spirit-color }, you can treat a single-target Technique as if it has Weaken (Attack) x3 – the Secondary Check defaults to *Magic*{: .spirit-color }.
+> > For *2 FP*{: .spirit-color }:
+> > *Adds Weaken (Attack) x3 to an Innate or Gear single-target attack.*{: .mgl .fs-3 }  
+> > *Roll either **Bully**{: .courage-color }, **Magic**{: .spirit-color } or **Trickery**{: .spirit-color } to resolve the Secondary Check, regardless of its usual required skill.*{: .mgl .fs-3 }
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/softslam.png)
@@ -1846,7 +1916,9 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
 > >
-> > By spending *2 FP*{: .spirit-color }, you can treat a single-target Technique as if it has Weaken (Defense) x3 – the Secondary Check defaults to *Magic*{: .spirit-color }.
+> > For *2 FP*{: .spirit-color }:
+> > *Adds Weaken (Defense) x3 to an Innate or Gear single-target attack.*{: .mgl .fs-3 }  
+> > *Roll either **Bully**{: .courage-color }, **Magic**{: .spirit-color } or **Trickery**{: .spirit-color } to resolve the Secondary Check, regardless of its usual required skill.*{: .mgl .fs-3 }
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/sleepyslam.png)
@@ -1858,7 +1930,9 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
 > >
-> > By spending *2 FP*{: .spirit-color }, you can treat a single-target Technique as if it has Daze x3 – the Secondary Check defaults to *Bully*{: .courage-color } or *Magic*{: .spirit-color }.
+> > For *2 FP*{: .spirit-color }:
+> > *Adds Daze x3 to an Innate or Gear single-target attack.*{: .mgl .fs-3 }  
+> > *Roll either **Bully**{: .courage-color }, **Magic**{: .spirit-color } or **Trickery**{: .spirit-color } to resolve the Secondary Check, regardless of its usual required skill.*{: .mgl .fs-3 }
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/dizzyattack.png)
@@ -1870,7 +1944,9 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
 > >
-> > By spending *2 FP*{: .spirit-color }, you can treat a single-target Technique as if it has Disorient x3 – the Secondary Check defaults to *Magic*{: .spirit-color } or *Trickery*{: .spirit-color }.
+> > For *2 FP*{: .spirit-color }:
+> > *Adds Disorient x3 to an Innate or Gear single-target attack.*{: .mgl .fs-3 }  
+> > *Roll either **Bully**{: .courage-color }, **Magic**{: .spirit-color } or **Trickery**{: .spirit-color } to resolve the Secondary Check, regardless of its usual required skill.*{: .mgl .fs-3 }
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/poisontouch.png)
@@ -1882,7 +1958,9 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
 > >
-> > By spending *2 FP*{: .spirit-color }, you can treat a single-target Technique as if it has Lingering x3 – the Secondary Check defaults to *Magic*{: .spirit-color }.
+> > For *2 FP*{: .spirit-color }:
+> > *Adds Element (Poison) and Lingering x3 to an Innate or Gear single-target attack.*{: .mgl .fs-3 }  
+> > *Roll either **Bully**{: .courage-color }, **Magic**{: .spirit-color } or **Trickery**{: .spirit-color } to resolve the Secondary Check, regardless of its usual required skill.*{: .mgl .fs-3 }
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/disarmingslam.png)
@@ -1894,7 +1972,9 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
 > >
-> > By spending *2 FP*{: .spirit-color }, you can treat a single-target Technique as if it has Disarm x3 (Tool) – the Secondary Check defaults to *Bully*{: .courage-color } or *Magic*{: .spirit-color }.
+> > For *2 FP*{: .spirit-color }:
+> > *Adds Disarm (Tool) x3 to an Innate or Gear single-target attack.*{: .mgl .fs-3 }  
+> > *Roll either **Bully**{: .courage-color }, **Magic**{: .spirit-color } or **Trickery**{: .spirit-color } to resolve the Secondary Check, regardless of its usual required skill.*{: .mgl .fs-3 }
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/headrattle.png)
@@ -1906,7 +1986,9 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
 > >
-> > By spending *2 FP*{: .spirit-color }, you can treat a single-target Technique as if it has Confuse x3 – the Secondary Check defaults to *Bully*{: .courage-color } or *Magic*{: .spirit-color }.
+> > > > For *2 FP*{: .spirit-color }:
+> > *Adds Confuse x3 to an Innate or Gear single-target attack.*{: .mgl .fs-3 }  
+> > *Roll either **Bully**{: .courage-color }, **Magic**{: .spirit-color } or **Trickery**{: .spirit-color } to resolve the Secondary Check, regardless of its usual required skill.*{: .mgl .fs-3 }
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/charge.png)
@@ -1938,7 +2020,7 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > *Stomps on an enemy, then generates a burst of wind around them.*{: .mgl .fs-3 }  
 > > ***Athletics**{: .heart-color }:*{: .mgl .fs-3 }  
 > > ***Nice!**{: .nice-color }: [Power] DMG*{: .mgl .fs-3 }  
-> > ***Good!**{: .good-color }: [Power] DMG, [XX] Piercing Air DMG*{: .mgl .fs-3 }  
+> > ***Good!**{: .good-color }: [Power] DMG, [X+X] Piercing Air DMG*{: .mgl .fs-3 }  
 > > *The extra Air damage is Indirect, and affects all other airborne enemies in the group (but not the first target).*{:.mgl .fs-3 }
 
 {: .item-callout .item-left }
@@ -1951,12 +2033,12 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 2 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
 > >
-> > Bestows the use of the Quake Slam (*3 FP*{: .spirit-color }) Technique. If you have multiple Quake Slam Badges, you can use them together by spending *1 FP*{: .spirit-color } for each additional Badge.  
-> > Treat [X] as the number of additional Quake Slam Badges used.  
+> > Bestows the use of the Quake Slam (*3 FP*{: .spirit-color }) Technique. If you have multiple Quake Slam Badges, you can use them together by spending *2 FP*{: .spirit-color } for each additional Badge.  
+> > Treat [X] as the number of *additional*{: .bold .underlined } Quake Slam Badges used (after the first).  
 > > *Quake Slam*{: .mgl .fs-3 .header-font }  
 > > *Pounds the ground to produce a localised tremor, affecting everyone in target group in contact with the ground, wall or ceiling.*{: .mgl .fs-3 }  
 > > ***Athletics**{: .heart-color }:*{: .mgl .fs-3 }  
-> > ***Good!**{: .good-color }: [(2x Power) + (2 x [X])] Piercing Earth Quake DMG*{: .mgl .fs-3 }  
+> > ***Good!**{: .good-color }: [(2 x Power) + [X+X]] Piercing Earth Quake DMG*{: .mgl .fs-3 }  
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/doubledip.png)
@@ -1988,8 +2070,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > Treat [X] as the number of additional Fire Drive Badges used.  
 > > *Fire Drive*{: .mgl .fs-3 .header-font }  
 > > *Flings a fireball at the target at range, then blazes a path past them to affect more grounded targets.*{: .mgl .fs-3 }  
-> > ***Aim**{: .heart-color } or **Magic**{: .spirit-color }:*{: .mgl .fs-3 }  
-> > ***Good!**{: .good-color }: [(2x Power) + [XX]] Piercing Fire DMG*{: .mgl .fs-3 }  
+> > ***Aim**{: .heart-color }, **Coordination**{: .heart-color } or **Magic**{: .spirit-color }:*{: .mgl .fs-3 }  
+> > ***Good!**{: .good-color }: [(2 x Power) + [X+X]] Piercing Fire DMG*{: .mgl .fs-3 }  
 > > *Repeats on as many grounded targets as possible behind the target, dealing -1 damage each time.*{:.mgl .fs-3 }  
 > > ***Bully**{: .courage-color } or **Magic**{: .spirit-color }:*{: .mgl .fs-3 }  
 > > ***Nice!**{: .nice-color }: Lingering (1) burn for 3 turns*{: .mgl .fs-3 }  
@@ -2006,7 +2088,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 3 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
 > >
-> > By spending *3 FP*{: .spirit-color }, you can treat a single-target Technique as if it has Repeat.
+> > For *3 FP*{: .spirit-color }:  
+> > *Adds Aerial and Repeat to an Innate or Gear single-target attack.*{: .mgl .fs-3 }
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/refund.png)
@@ -2018,7 +2101,7 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 50 Coins
 > >
-> > You receive ¼ (rounded down, minimum 1) of an Item or Power-Up's value in Coins when you consume it to use on yourself or another target.  
+> > You receive 1/4 (rounded down, minimum 1) of an Item or Power-Up's value in Coins when you consume it to use on yourself or another target.  
 > > If you would keep the Item after use, you don't receive Coins.
 
 {: .item-callout .item-left }
@@ -2092,8 +2175,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 3 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
 > >
-> > After victory, make a *Notice*{: .spirit-color } check.  
-> > ***Great!**{: .great-color }: You may find an Item that belonged to an enemy, as appropriate.*{: .mgl .fs-3 }
+> > After victory, you may make a *Notice*{: .spirit-color } check as a free action.  
+> > ***Great!**{: .great-color }: You may find an additional Item that belonged to an enemy, as appropriate.*{: .mgl .fs-3 }
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/luckystart.png)
@@ -2112,7 +2195,7 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > *The attacker takes 1 Piercing Shock DMG, and you make a **Steady**{: .courage-color } check; the attacker is Dazed (1) for 1 turn for each Grade of Success.*{: .mgl .fs-3 }
 > > 4. +1 Attack.
 > > 5. +1 Defense.
-> > 6. When attacked, you can attempt to *Dodge*{: .spirit-color } before you *Block*{: .heart-color }.
+> > 6. When attacked, you can attempt to *Dodge*{: .spirit-color } before you *Guard*{: .heart-color }.
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/quickchange.png)
@@ -2124,9 +2207,11 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 4 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 500 Coins
 > >
-> > Allows you to Swap with an ally as a free action.  
-> > Once per round, after an enemy group attacks, you can make a *Coordination*{: .heart-color } or *Trickery*{: .spirit-color } check – this counts as a *Dodge*{: .spirit-color } check.  
-> > ***Great!**{: .great-color }: You trade places with an ally; attacks aimed at them instead affect you, and attacks aimed at you instead affect them. You can both **Block**{: .heart-color } and **Dodge**{: .spirit-color } as normal.*{: .mgl .fs-3 }
+> > Allows you to *Swap*{: .heart-color } with an ally as a free action.  
+> > You can *Swap*{: .heart-color } as often as you want to during your turn.  
+> >
+> > Immediately after an enemy group attacks, you can make a *Coordination*{: .heart-color } or *Trickery*{: .spirit-color } check.  
+> > ***Great!**{: .great-color }: You trade places with an ally, as if you **Swapped**{: .heart-color }; attacks aimed at them instead affect you, and attacks aimed at you instead affect them. You can both **Guard**{: .heart-color } or **Dodge**{: .spirit-color } as normal.*{: .mgl .fs-3 }
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/moneymoney.png)
@@ -2138,9 +2223,9 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 5 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 350 Coins
 > >
-> > After victory, make a *Notice*{: .spirit-color } check.  
+> > After victory, you may make a*Notice*{: .spirit-color } check as a free action.  
 > > You may find more coins that belonged to an enemy, as appropriate.  
-> > *(Roughly 1d6 per Grade of Success)*{: .fs-3 }
+> > *(Roughly 2d6 per Grade of Success)*{: .fs-3 }
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/berserker.png)
@@ -2152,8 +2237,9 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 4 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
 > >
-> > During combat, you have +2 Attack and Immune (Negative Status), but can't spend *FP*{: .spirit-color } or *SP*{: .courage-color } (or equivalent, in the case of *Alternative*{: .positive-color } Techniques).  
-> > For the duration, you are Confused (3), as well as being Provoked (6) by the nearest enemy in range.
+> > During combat, you have +2 Attack and +2d6 to *Steady*{: .courage-color } checks, but can't spend *FP*{: .spirit-color } or *SP*{: .courage-color } (or equivalent, in the case of *Alt-Cost*{: .positive-color } Techniques).  
+> > For the duration of combat you are Confused (3), as well as being Provoked (6) by the nearest enemy in range.  
+> > Unlike most statuses this can't be prevented, reduced or cured as long as this Badge is equipped.
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/doublepain.png)
@@ -2165,7 +2251,8 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 0 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 30 Coins
 > >
-> > Whenever you would take damage from an attack or hazard, you take twice as much. This effect applies after your Defense, *Blocking*{: .heart-color } and other means of reducing the damage.
+> > Whenever you would take damage from an attack or hazard, you take twice as much.  
+> > This effect applies after your Defense, *Guarding*{: .heart-color } and other means of reducing the damage.
 
 {: .item-callout .item-left }
 > ![](assets/images/badges/slowgo.png)
@@ -2177,13 +2264,12 @@ Generally you can change your equipped Badges at-will, but during combat and oth
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 0 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 10 Coins
 > >
-> > *Athletics*{: .heart-color } checks relating to running and similar movement suffer a -3d6 penalty, as if Weakened (3).
+> > *Athletics*{: .heart-color } checks relating to running and similar movement suffer a -3d6 penalty, as if Weakened (3).  
+> > Adds +1d6 to checks made to move carefully or quietly (e.g. *Trickery*{: .spirit-color }).
 
-**Credits:**
+![](assets/images/scenes/inventory-02.png)
+{: .center-img }
 
-Boo Mushroom Sprite by [LadyLuck](https://ladyluck.itch.io/).  
-Rotten Mushroom Sprite by [LadyLuck](https://ladyluck.itch.io/).  
-Mega Mushroom Sprite by [LadyLuck](https://ladyluck.itch.io/).  
-Fire Power Badge Sprite by [LadyLuck](https://ladyluck.itch.io/).  
-Handyman Badge original Sprite by [LadyLuck](https://ladyluck.itch.io/), concept by *@landsharkrawr*{: .courage-color }.  
-Markmans Badge original Sprite by [LadyLuck](https://ladyluck.itch.io/).
+{: .tip-callout }
+> *Try to make time for managing Badges! Over the course of your adventure you're bound to acquire a whole host of Badges, and swapping them out can make a big difference in how you approach your adventures.* ![](assets/images/icons/tipguy.png)
+> {: .icon-right }

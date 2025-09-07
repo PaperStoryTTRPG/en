@@ -130,6 +130,21 @@ callouts:
   content-callout:
     color: grey-lt
     opacity: 0.5
+  character-heart-callout:
+    color: alt-red
+    opacity: 1
+  character-spirit-callout:
+    color: alt-green
+    opacity: 1
+  character-courage-callout:
+    color: alt-yellow
+    opacity: 1
+  specie-inner-pros-callout:
+    color: alt-green
+    opacity: 1
+  specie-inner-cons-callout:
+    color: alt-red
+    opacity: 1
 
 exclude:
   - tag/TAG.md

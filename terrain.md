@@ -17,10 +17,11 @@ nav_order: 22
 {:toc}
 </details>
 
-Adventures and battles can take place in a wide variety of locations, under any number of conditions. Some of the common varieties are listed here, but this list and the effects attributed to each Terrain are by no means exhaustive.
+Adventures and battles can take place in a wide variety of locations, under any number of conditions.  
+Some of the common varieties are listed here, but this list and the effects attributed to each Terrain are by no means exhaustive.
 
 Usually, all parties in battle are impacted by the Terrain, but it's possible through circumstance or Techniques for just a small area to be impacted.  
-In this case, whenever characters affected would move or swap spaces under their own power, they can choose to move the Terrain instead, even moving it out of their group entirely – in which case it's no longer involved in the battle.
+In this case, whenever characters affected would move or swap spaces, the Terrain often stays in the same place – potentially affecting a different combatant, or even removing it from the battlefield.
 
 Multiple Terrains may even be considered active at once in the same area, as long as they don't contradict each other; for instance, the weather in an area can't be both a Gale and a Heatwave.
 
@@ -33,11 +34,14 @@ Finally, note that if both a Pro and a Con of a Terrain would apply in a given s
 > ## Dark
 > {: .text-grey-lt-000}
 >
-> *Lighting*{: .fs-5 }
+> *[Lighting]*{: .fs-5 }
+>
+> It's too dark for most characters to see.
 >
 > Characters with appropriate *Notice*{: .spirit-color } specialisations (e.g. Dark Places, Scent) ignore the dark's effects on their skill checks.
 >
-> Characters can negate the effects of darkness on themselves (and on attacks targeting them) by keeping a light source close at hand, though the darker it gets, the stronger a light they'll need. Strong enough light can negate the effects of darkness entirely, effectively dismissing the Terrain.
+> Characters can negate the effects of darkness on themselves (and on attacks targeting them) by keeping a light source close at hand, though the darker it gets, the stronger a light they'll need.  
+> Strong enough light can negate the effects of darkness entirely, effectively dismissing the Terrain.
 >
 > {: .terrain-pros-callout }
 > > *Pros*{: .header-font .fs-5 }
@@ -59,7 +63,7 @@ Finally, note that if both a Pro and a Con of a Terrain would apply in a given s
 {: .terrain-callout style="background-image: url("assets/images/terrains/elevated.png");background-size: cover;background-position: bottom;background-size: cover;" }
 > ## Elevated
 >
-> *Environment*{: .fs-5 }
+> *[Environment]*{: .fs-5 }
 >
 > You're positioned somewhere comfortably above the battle, just out of reach. This is typically higher up than standard Elevation or Flying will get you, with more space to stand and cover yourself.
 >
@@ -91,7 +95,7 @@ Finally, note that if both a Pro and a Con of a Terrain would apply in a given s
 {: .terrain-callout style="background-image: url("assets/images/terrains/gale.png");background-size: cover;background-position: bottom;background-size: cover;" }
 > ## Gale
 >
-> *Weather*{: .fs-5 }
+> *[Weather]*{: .fs-5 }
 >
 > The wind whips around you relentlessly, threatening to carry light targets up, up and away.
 >
@@ -117,9 +121,11 @@ Finally, note that if both a Pro and a Con of a Terrain would apply in a given s
 {: .terrain-callout style="background-image: url("assets/images/terrains/goop.png");background-size: cover;background-position: bottom;background-size: cover;" }
 > ## Goop
 >
-> *Hazard*{: .fs-5 }
+> *[Hazard]*{: .fs-5 }
 >
-> The wind whips around you relentlessly, threatening to carry light targets up, up and away.
+> A mess of toxic goop coats the floor.
+>
+> Characters with Adapted (Water) or who would recover *HP*{: .heart-color } from Poison attacks (e.g. Piranha Plants) ignore penalties to their skill checks from the sludge.
 >
 > {: .terrain-pros-callout }
 > > *Pros*{: .header-font .fs-5 }
@@ -147,7 +153,7 @@ Finally, note that if both a Pro and a Con of a Terrain would apply in a given s
 {: .terrain-callout style="background-image: url("assets/images/terrains/heatwave.png");background-size: cover;background-position: bottom;background-size: cover;" }
 > ## Heatwave
 >
-> *Weather*{: .fs-5 }
+> *[Weather]*{: .fs-5 }
 >
 > The heat in the area is overwhelming.
 >
@@ -175,7 +181,7 @@ Finally, note that if both a Pro and a Con of a Terrain would apply in a given s
 {: .terrain-callout style="background-image: url("assets/images/terrains/lava.png");background-size: cover;background-position: bottom;background-size: cover;" }
 > ## Lava
 >
-> *Environment*{: .fs-5 }
+> *[Environment]*{: .fs-5 }
 >
 > A pool of molten lava stands in your way!
 >
@@ -203,7 +209,7 @@ Finally, note that if both a Pro and a Con of a Terrain would apply in a given s
 {: .terrain-callout style="background-image: url("assets/images/terrains/overgrown.png");background-size: cover;background-position: bottom;background-size: cover;" }
 > ## Overgrown
 >
-> *Environment*{: .fs-5 }
+> *[Environment]*{: .fs-5 }
 >
 > The plant life in the area grows thickly all around.
 >
@@ -231,11 +237,11 @@ Finally, note that if both a Pro and a Con of a Terrain would apply in a given s
 {: .terrain-callout style="background-image: url("assets/images/terrains/rain.png");background-size: cover;background-position: bottom;background-size: cover;" }
 > ## Rain
 >
-> *Weather*{: .fs-5 }
+> *[Weather]*{: .fs-5 }
 >
 > Heavy rainfall falls from the sky, affecting everyone in the rain. Typically, the rain affects everyone in a battle.
 >
-> Characters with Aquatic, Immune (Water) or Resist (Water) ignore penalties to their skill checks from the rain.
+> Characters with Adapted (Water), Immune (Water) or Resist (Water) ignore penalties to their skill checks from the rain.
 >
 > {: .terrain-pros-callout }
 > > *Pros*{: .header-font .fs-5 }
@@ -261,7 +267,7 @@ Finally, note that if both a Pro and a Con of a Terrain would apply in a given s
 {: .terrain-callout style="background-image: url("assets/images/terrains/sandstorm.png");background-size: cover;background-position: bottom;background-size: cover;" }
 > ## Sandstorm
 >
-> *Weather*{: .fs-5 }
+> *[Weather]*{: .fs-5 }
 >
 > The wind carries an endless stream of sand and dust around you.
 >
@@ -292,7 +298,7 @@ Finally, note that if both a Pro and a Con of a Terrain would apply in a given s
 {: .terrain-callout style="background-image: url("assets/images/terrains/spikes.png");background-size: cover;background-position: bottom;background-size: cover;" }
 > ## Spikes
 >
-> *Hazard*{: .fs-5 }
+> *[Hazard]*{: .fs-5 }
 >
 > Perilous pointy spikes impede your progress!
 >
@@ -314,7 +320,7 @@ Finally, note that if both a Pro and a Con of a Terrain would apply in a given s
 {: .terrain-callout style="background-image: url("assets/images/terrains/smog.png");background-size: cover;background-position: bottom;background-size: cover;" }
 > ## Smog
 >
-> *Weather*{: .fs-5 }
+> *[Weather]*{: .fs-5 }
 >
 > Thick clouds of smoke, fog or other gas blanket the area, making it difficult to see.
 > 
@@ -342,7 +348,7 @@ Finally, note that if both a Pro and a Con of a Terrain would apply in a given s
 {: .terrain-callout style="background-image: url("assets/images/terrains/snow.png");background-size: cover;background-position: bottom;background-size: cover;" }
 > ## Snow
 >
-> *Weather*{: .fs-5 }
+> *[Weather]*{: .fs-5 }
 >
 > A thick blanket of ice and snow covers the ground, and a chill carries through the air.
 > 
@@ -376,7 +382,7 @@ Finally, note that if both a Pro and a Con of a Terrain would apply in a given s
 {: .terrain-callout style="background-image: url("assets/images/terrains/static.png");background-size: cover;background-position: bottom;background-size: cover;" }
 > ## Static
 >
-> *Hazard*{: .fs-5 }
+> *[Hazard]*{: .fs-5 }
 >
 > A dangerous electrical field surrounds the battlefield.
 >
@@ -407,7 +413,7 @@ Finally, note that if both a Pro and a Con of a Terrain would apply in a given s
 {: .terrain-callout style="background-image: url("assets/images/terrains/underground.png");background-size: cover;background-position: bottom;background-size: cover;" }
 > ## Underground
 >
-> *Environment*{: .fs-5 }
+> *[Environment]*{: .fs-5 }
 >
 > Way down below – further down even than ordinary burrowing can get you. 
 >
@@ -428,10 +434,17 @@ Finally, note that if both a Pro and a Con of a Terrain would apply in a given s
 > >
 >
 
+![](assets/images/scenes/terrain-01.png)
+{: .center-img }
+
+{: .tip-callout }
+> *It can be a lot of fun to play around with Terrain, both as part of your strategy and as part of the world. Even simple environments, like a peaceful grassland or an underground cave, offer a diverse range of encounters that can give your adventure a distinct flavour.* ![](assets/images/icons/tipguy.png){: .icon-right }
+
+
 {: .terrain-callout style="background-image: url("assets/images/terrains/underwater.png");background-size: cover;background-position: bottom;background-size: cover;" }
 > ## Underwater
 >
-> *Environment*{: .fs-5 }
+> *[Environment]*{: .fs-5 }
 >
 > Diving under the water is like a whole new world, allowing characters to float around freely, though they must take care to avoid drowning.
 >
@@ -440,17 +453,17 @@ Finally, note that if both a Pro and a Con of a Terrain would apply in a given s
 > {: .terrain-pros-callout }
 > > *Pros*{: .header-font .fs-5 }
 > >
-> > Aquatic characters act as if they have the Hover Trait.
+> > Adapted characters act as if they have the Hover Trait.
 > >
-> > Non-Aquatic characters can swim as if they have the Fly Trait, but their Primary Checks require [X] additional Grades of Success while swimming.  
+> > Other characters can swim as if they have the Fly Trait, but their Primary Checks require [X] additional Grades of Success while swimming.  
 > > Otherwise, they don't necessarily sink to the bottom of the water, but they're not mobile enough to keep up with swimming combatants.
 > >
 > > Water Techniques used from here have +[X] Attack, and Statuses caused by them have +[X] level and duration.
 > >
 > > Shock Techniques used against characters here have +[X] Attack, and Statuses caused by them have +[X] level and duration.
 > >
-> > *Aquatic*{: .underlined } characters who would recover *HP*{: .heart-color } from Water attacks (e.g. Aqua creatures) recover *1 HP*{: .heart-color } at the start of each turn.  
-> > Non-Aquatic characters don't receive this benefit, regardless of their interaction with Water.
+> > Adapted characters who would recover *HP*{: .heart-color } from Water attacks (e.g. Water Elementals) recover *1 HP*{: .heart-color } at the start of each turn.  
+> > Other characters don't receive this benefit, regardless of their interaction with Water.
 > > 
 >
 > {: .terrain-cons-callout }
@@ -462,7 +475,7 @@ Finally, note that if both a Pro and a Con of a Terrain would apply in a given s
 > >
 > > Characters can't use their own Fly or Hover Traits while underwater.
 > >
-> > Characters who need to breathe air (e.g. non-Aquatic species) can only hold their breath for 1 turn for each point of *Heart*{: .heart-color } they have; afterwards, at the end of each round, they must make an *Athletics*{: .heart-color } or *Steady*{: .courage-color } check to hold their breath and resist a Lingering (1) Status.  
+> > Characters who need to breathe air can only hold their breath for 1 turn for each point of *Heart*{: .heart-color } they have; afterwards, at the end of each round, they must make an *Athletics*{: .heart-color } or *Steady*{: .courage-color } check to hold their breath and resist a Lingering (1) Status.  
 > > This Status lasts as long as the character remains underwater, can't have its duration lowered with *Steady*{: .courage-color }, and its Status Level doesn't decrease over time; instead, it increases each turn the character is underwater.  
 > > Once the character surfaces, this Status ends completely.
 > >

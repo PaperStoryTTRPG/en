@@ -12,8 +12,9 @@ Paper Story is a roleplaying game rooted in the design of the classic Paper Mari
 
 If you want to talk about or play Paper Story, feel free to join us on the Discord!  
 [https://discord.gg/AUQJmKH5pf]()  
-And if you stumbled onto this game and don't know where to look for more 
-information, you can always find it in its home at Itch.  
+If you prefer scrolling on the web to flicking through a book, Paper Story has its very own wiki!
+[https://paperstoryttrpg.github.io/en/]() *(Yes you are already on it. Welcome!)*{: .fs-3 }
+And if you stumbled onto this game and don't know where to look for more information, you can always find it in its home at Itch.  
 [https://joy-games.itch.io/paper-story]()
 
 For those of you new to roleplaying, TTRPG's are known as either tabletop or table-talk roleplaying games. They have common roots with their digital cousins, but are quite a bit different where it counts.
