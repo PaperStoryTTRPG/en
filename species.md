@@ -39,6 +39,7 @@ While all the peoples of the Mushroom Kingdom are wildly different, their advant
 > > *Pros*{: .text-gamma .header-font }  
 > > The Skill Specialisations and other Traits that make denizens of that Species more capable.  
 *Some Traits, like Immune, will be described in more detail like this.*{: .mgl .fs-3 }
+> > 
 > > {: .specie-inner-pros-callout }
 > > > Some collections of positive traits will be grouped in a coloured box, like this.
 >
@@ -46,6 +47,7 @@ While all the peoples of the Mushroom Kingdom are wildly different, their advant
 > > *Cons*{: .text-gamma .header-font }  
 > > The Traits that a character of that Species have to deal with that are generally less desirable.  
 > > *Some Traits, like Weakness, will be described in more detail like this.*{: .mgl .fs-3 }
+> > 
 > > {: .specie-inner-cons-callout }
 > > > Some collections of negative traits will be grouped in a coloured box, like this.
 >
@@ -147,7 +149,7 @@ For some of the rarer Species, or those less inclined to adventure – from Toad
 > > > *Athletics (+Explode)*{: .heart-color }:  
 > > > *Nice!*{: .nice-color }: 4 DMG  
 > > > *Good!*{: .good-color }: 8 DMG  
-> > > Deals +2 DMG for each extra Grade.
+> > > Deals +2 DMG for each extra Grade.  
 > > > *Element (Blast), Scaling, Variant (**Athletics**{: .heart-color }), All (Indirect), Strong x3, Unwieldy*{: .italic .fs-3 }
 > >
 >
@@ -264,7 +266,7 @@ For some of the rarer Species, or those less inclined to adventure – from Toad
 > > *Variant (**Perform**{: .courage-color })*{: .alt-grey-line }
 > > 
 > > *Optional*{: .underlined }: Add a single Split Slot to Flowery Techniques which can't contain Strikes,  
-> > ***or**{: .underlined } Ranged on Techniques with Variant(**Perform**{: .courage-color }),*{: .mgl }  
+> > ***or**{: .underlined } Ranged on Techniques with Variant (**Perform**{: .courage-color }),*{: .mgl }  
 > > ***or**{: .underlined } Element (Earth) on melee attacks.*{: .mgl }  
 > >
 >
@@ -335,7 +337,7 @@ For some of the rarer Species, or those less inclined to adventure – from Toad
 > > > *Headbonk*{: .header-font } (*0 FP*{: .spirit-color })  
 > > > A double-tapping aerial strike, made with the head.  
 > > > *Athletics (+Jump)*{: .heart-color }:  
-> > > Auto: 1 DMG
+> > > Auto: 1 DMG  
 > > > *Nice!*{: .nice-color }: 1 DMG x2  
 > > > *Aerial*{: .italic .fs-3 }
 > >
@@ -548,6 +550,9 @@ Above all else, keep in mind that t his is intended to easily put together uniqu
 > >
 >
 
+---
+{: .species-separator }
+
 {: .subspecie-callout }
 > ## Dry- 
 >
@@ -619,6 +624,9 @@ Above all else, keep in mind that t his is intended to easily put together uniqu
 > >
 >
 
+---
+{: .species-separator }
+
 {: .subspecie-callout }
 > ## Para- 
 >
@@ -675,6 +683,9 @@ Above all else, keep in mind that t his is intended to easily put together uniqu
 > > Can't be added if the base species would normally have Fly.
 > >
 >
+
+---
+{: .species-separator }
 
 {: .subspecie-callout }
 > ## Spiny- 

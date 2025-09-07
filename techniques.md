@@ -18,7 +18,7 @@ nav_order: 15
 </details>
 
 Techniques are the myriad ways a character acts in combat, most often by attacking.  
-Most of the time characters get by with their Innate Techniques, which they learn over time, but they can access even more Techniques through [Gear]({{ "/inventory#gear" | absolute_url }}), [Badges]({{ "/inventory#badges" | absolute_url }}), *[Magic]({{ "/skills_in_detail#magic---spontaneous-spells" | absolute_url }})*{: .underlined .spirit-color } and even *[Star Power]({{ "/star_power" | absolute_url }})*{: .underlined .courage-color }.
+Most of the time characters get by with their Innate Techniques, which they learn over time, but they can access even more Techniques through [Gear]({{ "/inventory#gear" | absolute_url }}), [Badges]({{ "/inventory#badges" | absolute_url }}), [*Magic*{: .underlined .spirit-color }]({{ "/skills_in_detail#magic---spontaneous-spells" | absolute_url }}) and even [*Star Power*{: .underlined .courage-color }]({{ "/star_power" | absolute_url }}).
 
 All Techniques start from the same basic template, functioning as either a single-strike or multi-strike attack:
 
@@ -81,7 +81,7 @@ Bear in mind though that if a Technique doesn't earn enough Grades to achieve *a
 
 Whenever a Technique would deal damage as part of a Strike, each Strike is modified by the user's Attack to get the Raw Damage.
 
-Then, that damage value is reduced by the defender's Defense, any applicable Resistances they have and any other damage reduction they might have (such as a player's *[Guarding]({{ "/skills_in_detail#guard---guarding-reactively" | absolute_url }})*{: .underlined .heart-color }), and that amount of damage is taken from the target's *HP*{: .heart-color }.
+Then, that damage value is reduced by the defender's Defense, any applicable Resistances they have and any other damage reduction they might have (such as a player's [*Guarding*{: .underlined .heart-color }]({{ "/skills_in_detail#guard---guarding-reactively" | absolute_url }})), and that amount of damage is taken from the target's *HP*{: .heart-color }.
 
 Importantly, your Attack can be *negative*{: .bold .underlined } too! In this case, the Attack value is taken out of the Raw Damage, which might reduce it right down to 0!
 
@@ -206,7 +206,7 @@ Some Traits have similar functions which are referred to in shorthand, explained
 ## Positive Technique Traits
 
 {: .content-callout }
-> ### *Aerial*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Approach]*{: .normal-font }
+> ### *Aerial*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Approach]*{: .normal-font .fs-3 }
 > 
 > At the user's option, this Technique's Primary Check can use *Athletics*{: .heart-color } instead.  
 > The user flies through the air to deliver this attack, striking from above. This allows them to hit targets from anywhere in the fight, though they may struggle to hit targets who are blocked in some way (e.g. under a low ceiling).  
@@ -215,29 +215,29 @@ Some Traits have similar functions which are referred to in shorthand, explained
 > Regardless of the outcome, the user becomes grounded after a Plummeting attack.
 
 {: .content-callout }
-> ### *All*{: .positive-color} ***(+3 FP)**{: .spirit-color } [Target]*{: .normal-font }
+> ### *All*{: .positive-color} ***(+3 FP)**{: .spirit-color } [Target]*{: .normal-font .fs-3 }
 >
 > This Technique affects all available targets, be they friend or foe, besides the user. At the user's option this can also include the *Indirect*{: .positive-color } Trait for no additional cost.
 
 {: .content-callout }
-> ### *Allies*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Target]*{: .normal-font }
+> ### *Allies*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Target]*{: .normal-font .fs-3 }
 >
 > This Technique affects all of the user's allies, but not themselves. At the user's option this can also include the *Indirect*{: .positive-color } Trait for no additional cost.
 
 {: .content-callout }
-> ### *Alt-Cost*{: .positive-color} *(+2 FP)*{: .spirit-color .normal-font }
+> ### *Alt-Cost*{: .positive-color} *(+2 FP)*{: .spirit-color .normal-font .fs-3 }
 >
 > Choose *HP*{: .heart-color }, *SP*{: .courage-color } or Coins:
 > - *HP*{: .heart-color }: This Technique spends *HP*{: .heart-color } instead of *FP*{: .spirit-color }. It can't recover *HP*{: .heart-color }, and can't be combined with *Blowback*{: .negative-color } or varieties of *Self*{: .negative-color } that deal damage to the user.
-> - *SP*{: .courage-color }: This Technique spends *SP*{: .courage-color } instead of *FP*{: .spirit-color }. It can't add *SP*{: .courage-color } to anyone's pool, though it can still generate *SP*{: .courage-color } for *[Exceptional Techniques]({{ "/exceptional_techniques" | absolute_url }})*{: .courage-color .underlined }.
+> - *SP*{: .courage-color }: This Technique spends *SP*{: .courage-color } instead of *FP*{: .spirit-color }. It can't add *SP*{: .courage-color } to anyone's pool, though it can still generate *SP*{: .courage-color } for [*Exceptional Techniques*{: .courage-color .underlined }]({{ "/exceptional_techniques" | absolute_url }}).
 > - Coins: This Technique spends 5 Coins for every *1 FP*{: .spirit-color } it would cost. It can't steal Coins through *Snatch*{: .positive-color }, and can't cover an equivalent cost of more than *10 FP*{: .spirit-color } (for 50 Coins).
 >
 > The effective *FP*{: .spirit-color } cost can't be reduced lower than *1 FP*{: .spirit-color } by negative Traits while using *Alt-Cost*{: .positive-color }.
 
 {: .content-callout }
-> ### *Bestow*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Secondary – **Bully**{: .courage-color }/**Cheer**{: .courage-color }/**Knowhow**{: .spirit-color }/**Magic**{: .spirit-color }/**Trickery**{: .spirit-color }] [X]*{: .normal-font }
+> ### *Bestow*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Secondary – **Bully**{: .courage-color }/**Cheer**{: .courage-color }/**Knowhow**{: .spirit-color }/**Magic**{: .spirit-color }/**Trickery**{: .spirit-color }] [X]*{: .normal-font .fs-3 }
 >
-> The target temporarily acquires a [Personal Trait]({{ "/personal_traits" | absolute_url }}) of your choice, as if they were *[Enchanted]({{ "/skills_in_detail#enchantments" | absolute_url }})*{: .underlined .spirit-color }, lasting for [X] turns.  
+> The target temporarily acquires a [Personal Trait]({{ "/personal_traits" | absolute_url }}) of your choice, as if they were [*Enchanted*{: .underlined .spirit-color }]({{ "/skills_in_detail#enchantments" | absolute_url }}), lasting for [X] turns.  
 > The exact Personal Traits added by this Trait are decided when this Trait is bought, and any special effects (such as an added Weakness) should be in line with similar effects.
 >
 > If the trait requires an action or check to activate (such as to take flight with Fly), it uses your action, and the results of your Secondary Check.  
@@ -251,7 +251,7 @@ Some Traits have similar functions which are referred to in shorthand, explained
 > Otherwise if it doesn't have *Variant*{: .positive-color }, and it uses *Bully*{: .courage-color } or *Trickery*{: .spirit-color } for its skill check, this effect can only be used on enemies to add negative Traits (e.g. Weakness).
 
 {: .content-callout }
-> ### *Boost*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Secondary - **Cheer**{: .courage-color }/**Heal**{: .heart-color }/**Magic**{: .spirit-color }] [X]*{: .normal-font }
+> ### *Boost*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Secondary - **Cheer**{: .courage-color }/**Heal**{: .heart-color }/**Magic**{: .spirit-color }] [X]*{: .normal-font .fs-3 }
 >
 > The target's abilities are [Boosted]({{ "/statuses#boosted" | absolute_url }}) for [X] turns – the exact abilities affected by the Boost are decided when this Trait is bought.  
 > For every additional Grade of Success, increase the Status Level by 1, to a maximum of [X].  
@@ -269,7 +269,7 @@ Some Traits have similar functions which are referred to in shorthand, explained
 > - Defense: The target's Resist for that element is Boosted, too.
 
 {: .content-callout }
-> ### *Burst*{: .positive-color} ***(+1 FP)**{: .spirit-color } [Strikes] [Target] [X]*{: .normal-font }
+> ### *Burst*{: .positive-color} ***(+1 FP)**{: .spirit-color } [Strikes] [Target] [X]*{: .normal-font .fs-3 }
 > 
 > This attack bursts either side of its initial target, reaching to strike the next [X] additional targets in front of them and the next [X] additional targets behind them, regarless of their elevation.
 >
@@ -280,7 +280,7 @@ Some Traits have similar functions which are referred to in shorthand, explained
 > If it has no other element, the user can optionally give this Technique *Element (Blast)*{: .positive-color }.
 
 {: .content-callout }
-> ### *Charm*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Secondary - **Magic**{: .spirit-color}/**Persuade**{: .courage-color }/**Trickery**{: .spirit-color }] [X]*{: .normal-font }
+> ### *Charm*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Secondary - **Magic**{: .spirit-color}/**Persuade**{: .courage-color }/**Trickery**{: .spirit-color }] [X]*{: .normal-font .fs-3 }
 >
 > The target is [Charmed]({{ "/statuses#charmed" | absolute_url }}), causing them to be easily persuaded, for [X] turns.  
 > For every additional Grade of Success, increase the Status Level by 1, to a maximum of [X].
@@ -295,7 +295,7 @@ Some Traits have similar functions which are referred to in shorthand, explained
 >
 
 {: .content-callout }
-> ### *Coin Toss*{: .positive-color} ***(+? FP)**{: .spirit-color } [Random] [Slots]*{: .normal-font }
+> ### *Coin Toss*{: .positive-color} ***(+? FP)**{: .spirit-color } [Random] [Slots]*{: .normal-font .fs-3 }
 > 
 > This Technique has 2 different Technique Slots, each assigned either Heads or Tails.
 >
@@ -324,7 +324,7 @@ Some Traits have similar functions which are referred to in shorthand, explained
 > 
 
 {: .content-callout }
-> ### *Counter*{: .positive-color} ***(+2 FP)**{: .spirit-color } [X - Cap 3]*{: .normal-font }
+> ### *Counter*{: .positive-color} ***(+2 FP)**{: .spirit-color } [X - Cap 3]*{: .normal-font .fs-3 }
 > 
 > If this Technique has a Primary Check, it defaults to either *Athletics*{: .heart-color } or *Steady*{: .courage-color }.
 > 
@@ -339,13 +339,13 @@ Some Traits have similar functions which are referred to in shorthand, explained
 > Primary and Secondary Checks for this Technique are rolled once when the Technique is used. Whenever the Contact Trait is triggered, the effects of those rolls are applied to the attacker.
 
 {: .content-callout }
-> ### *Confuse*{: .positive-color} ***(+1 FP)**{: .spirit-color } [Secondary - **Bully**{: .courage-color }/**Magic**{: .spirit-color }/**Trickery**{: .spirit-color }] [X]*{: .normal-font }
+> ### *Confuse*{: .positive-color} ***(+1 FP)**{: .spirit-color } [Secondary - **Bully**{: .courage-color }/**Magic**{: .spirit-color }/**Trickery**{: .spirit-color }] [X]*{: .normal-font .fs-3 }
 >
 > The target is [Confused]({{ "/statuses#confused" | absolute_url }}), causing them to behave unpredictably, for [X] turns.  
 > For every additional Grade of Success, increase the Status Level by 1, to a maximum of [X].
 
 {: .content-callout }
-> ### *Daze*{: .positive-color} ***(+1 FP)**{: .spirit-color } [Secondary - **Bully**{: .courage-color }/**Magic**{: .spirit-color }/**Trickery**{: .spirit-color }] [X]*{: .normal-font }
+> ### *Daze*{: .positive-color} ***(+1 FP)**{: .spirit-color } [Secondary - **Bully**{: .courage-color }/**Magic**{: .spirit-color }/**Trickery**{: .spirit-color }] [X]*{: .normal-font .fs-3 }
 >
 > The target is [Dazed]({{ "/statuses#dazed" | absolute_url }}) for [X] turns, preventing them from fighting back.  
 > For every additional Grade of Success, increase the Status Level by 1, to a maximum of [X].
@@ -359,13 +359,13 @@ Some Traits have similar functions which are referred to in shorthand, explained
 >
 
 {: .content-callout }
-> ### *Disarm*{: .positive-color} ***(+1 FP)**{: .spirit-color } [Secondary - **Bully**{: .courage-color }/**Magic**{: .spirit-color }/**Trickery**{: .spirit-color }] [X]*{: .normal-font }
+> ### *Disarm*{: .positive-color} ***(+1 FP)**{: .spirit-color } [Secondary - **Bully**{: .courage-color }/**Magic**{: .spirit-color }/**Trickery**{: .spirit-color }] [X]*{: .normal-font .fs-3 }
 > 
 > The target is [Disarmed]({{ "/statuses#disarmed" | absolute_url }}) for [X] turns, preventing them from using the targeted attack or Trait – the exact Traits (e.g. *Tool*{: .positive-color }) or manner of attack (e.g. jump attacks) affected by this status are decided when this Trait is chosen.  
 > For every additional Grade of Success, increase the Status Level by 1, to a maximum of [X].
 
 {: .content-callout }
-> ### *Dismiss*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Secondary - **Bully**{: .courage-color }/**Heal**{: .heart-color }/**Magic**{: .spirit-color }/**Trickery**{: .spirit-color }]*{: .normal-font }
+> ### *Dismiss*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Secondary - **Bully**{: .courage-color }/**Heal**{: .heart-color }/**Magic**{: .spirit-color }/**Trickery**{: .spirit-color }]*{: .normal-font .fs-3 }
 >
 > For each Grade of Success, the user can choose one of the target's Statuses, their current Power-Up or a temporary Terrain affecting them.
 > 
@@ -376,39 +376,39 @@ Some Traits have similar functions which are referred to in shorthand, explained
 > Otherwise if it doesn't have *Variant*{: .positive-color }, and it uses *Bully*{: .courage-color } or *Trickery*{: .spirit-color } for its skill check, this effect can only be used on enemies to remove positive effects (e.g. Boost, Power-Ups, enhancing Terrain).
 
 {: .content-callout }
-> ### *Disorient*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Secondary - **Bully**{: .courage-color }/**Magic**{: .spirit-color }/**Trickery**{: .spirit-color }] [X]*{: .normal-font }
+> ### *Disorient*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Secondary - **Bully**{: .courage-color }/**Magic**{: .spirit-color }/**Trickery**{: .spirit-color }] [X]*{: .normal-font .fs-3 }
 > 
 > The target is [Disoriented]({{ "/statuses#disoriented" | absolute_url }}) for [X] turns, reducing the effectiveness of all actions requiring their senses.  
 > For every additional Grade of Success, increase the Status Level by 1, to a maximum of [X].
 
 {: .content-callout }
-> ### *Divider*{: .positive-color} ***(+3 FP)**{: .spirit-color } [Secondary - **Bully**{: .courage-color }/**Magic**{: .spirit-color }/**Trickery**{: .spirit-color }] [X]*{: .normal-font }
+> ### *Divider*{: .positive-color} ***(+3 FP)**{: .spirit-color } [Secondary - **Bully**{: .courage-color }/**Magic**{: .spirit-color }/**Trickery**{: .spirit-color }] [X]*{: .normal-font .fs-3 }
 > 
 > The target is cut off from their allies, separating into another distinct group for at least the next [X] full rounds – or until they can reasonably reconnect with the original group.  
 > If there are multiple targets, they can be divided into separate groups, creating up to 1 other group for each additional Grade of Success and a maximum of [X] new groups.  
 > If multiple targets are divided into the same group, they maintain their relative position and turn order in the new group.
 
 {: .content-callout }
-> ### *Drain*{: .positive-color} ***(+3 FP)**{: .spirit-color } [X – Cap 2]*{: .normal-font }
+> ### *Drain*{: .positive-color} ***(+3 FP)**{: .spirit-color } [X – Cap 2]*{: .normal-font .fs-3 }
 > 
 > This attack's Strikes heal the user an amount of *HP*{: .heart-color } equal to ½ the damage dealt to *one*{: .underlined } of its targets; if [X] is 2, it heals that amount in *HP*{: .heart-color } instead.  
 > As long as the Strike dealt damage, it heals a minimum of *1 HP*{: .heart-color }.  
 > Each *additional*{: .underlined } target damaged by a Drain attack adds *+1 HP*{: .heart-color } to the total healing.
 
 {: .content-callout }
-> ### *Element*{: .positive-color} ***(+1 FP)**{: .spirit-color } [X]*{: .normal-font }
+> ### *Element*{: .positive-color} ***(+1 FP)**{: .spirit-color } [X]*{: .normal-font .fs-3 }
 > 
 > This attack carries up to [X] different elemental qualities, such as Fire, Ice or Shock. If it has multiple elements, they all apply at the same time.  
 > Elements don't do anything on their own, but they can be useful in different situations.  
 > Note that Immunities apply before Weaknesses, and Immunities and Weaknesses each overrule Resistances. So if one element would trigger an enemy's Immunity, the whole Technique does.
 
 {: .content-callout }
-> ### *Empower*{: .positive-color} ***(+2 FP)**{: .spirit-color } [X]*{: .normal-font }
+> ### *Empower*{: .positive-color} ***(+2 FP)**{: .spirit-color } [X]*{: .normal-font .fs-3 }
 > 
 > As long as this Technique's Secondary Check succeeds, it functions as if it had [X] additional Grades of Success.
 
 {: .content-callout }
-> ### *Fear*{: .positive-color} ***(+1 FP)**{: .spirit-color } [Secondary - **Bully**{: .courage-color }/**Trickery**{: .spirit-color }] [X]*{: .normal-font }
+> ### *Fear*{: .positive-color} ***(+1 FP)**{: .spirit-color } [Secondary - **Bully**{: .courage-color }/**Trickery**{: .spirit-color }] [X]*{: .normal-font .fs-3 }
 >
 > An affected target chooses between the below effects:
 > - They attempt to flee the fight.
@@ -418,40 +418,40 @@ Some Traits have similar functions which are referred to in shorthand, explained
 > For every additional Grade of Success increase the Status Level of a Status inflicted by this Trait by 1, to a maximum of [X].
 
 {: .content-callout }
-> ### *Flowery*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Secondary - **Cheer**{: .courage-color }/**Magic**{: .spirit-color }] [X]*{: .normal-font }
+> ### *Flowery*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Secondary - **Cheer**{: .courage-color }/**Magic**{: .spirit-color }] [X]*{: .normal-font .fs-3 }
 > 
 > This Technique restores *+1 FP*{: .spirit-color } to the target for every Grade of Success, to a maximum of *[X] FP*{: .spirit-color }.
 
 {: .content-callout }
-> ### *Group*{: .positive-color} ***(+5 FP)**{: .spirit-color } [Target]*{: .normal-font }
+> ### *Group*{: .positive-color} ***(+5 FP)**{: .spirit-color } [Target]*{: .normal-font .fs-3 }
 > 
 > This Technique affects all targets in the chosen group. If targeting their own group, the user can choose whether or not it affects them too.  
 > At the user's option this can include the *Indirect*{: .positive-color } Trait.
 
 {: .content-callout }
-> ### *Hearty*{: .positive-color} ***(+1 FP)**{: .spirit-color } [Secondary - **Heal**{: .heart-color }/**Magic**{: .spirit-color }] [X]*{: .normal-font }
+> ### *Hearty*{: .positive-color} ***(+1 FP)**{: .spirit-color } [Secondary - **Heal**{: .heart-color }/**Magic**{: .spirit-color }] [X]*{: .normal-font .fs-3 }
 > 
 > This Technique heals the target *2 HP*{: .heart-color } for every Grade of Success, to a maximum of *[X+X] HP*{: .heart-color }.
 
 {: .content-callout }
-> ### *Homing*{: .positive-color} *(+1 FP)*{: .spirit-color .normal-font }
+> ### *Homing*{: .positive-color} *(+1 FP)*{: .spirit-color .normal-font .fs-3 }
 > 
-> This Technique can't be *[Dodged]({{ "/skills_in_detail#trickery---dodging" | absolute_url }})*{: .underlined .spirit-color } and ignores the [Secure]({{ "/statuses#secure" | absolute_url }}) Status. It can still be *[Guarded]({{ "skills_in_detail#guard---guarding-reactively" | absolute_url }})*{: .underlined .heart-color } against.  
+> This Technique can't be [*Dodged*{: .underlined .spirit-color }]({{ "/skills_in_detail#trickery---dodging" | absolute_url }}) and ignores the [Secure]({{ "/statuses#secure" | absolute_url }}) Status. It can still be [*Guarded*{: .underlined .heart-color }]({{ "skills_in_detail#guard---guarding-reactively" | absolute_url }}) against.  
 > If a target has any [Mirages]({{ "/personal_traits#mirage" | absolute_url }}) in battle, this Technique can ignore them to strike the target instead.
 
 {: .content-callout }
-> ### *Hustle*{: .positive-color} ***(+6 FP)**{: .spirit-color } [Secondary - **Athletics**{: .heart-color }/**Cheer**{: .courage-color}/**Magic**{: .spirit-color}][X - Cap 5]*{: .normal-font }
+> ### *Hustle*{: .positive-color} ***(+6 FP)**{: .spirit-color } [Secondary - **Athletics**{: .heart-color }/**Cheer**{: .courage-color}/**Magic**{: .spirit-color}][X - Cap 5]*{: .normal-font .fs-3 }
 >
 > The target begins to [Hustle]({{ "/statuses#hustled" | absolute_url }}), giving them additional actions for the next [X] full turns; if you begin to Hustle during your turn, this effect doesn't apply until your next turn.  
 > For every additional Grade of Success, increase the Status Level by 1, to a maximum of [X].
 
 {: .content-callout }
-> ### *Indirect*{: .positive-color} *(+2 FP)*{: .spirit-color .normal-font }
+> ### *Indirect*{: .positive-color} *(+2 FP)*{: .spirit-color .normal-font .fs-3 }
 > 
 > This attack doesn't strike the target directly. The user is generally shielded from the consequences of the target's Contact Traits, though depending on the attack and the Contact trait there are exceptions.
 
 {: .content-callout }
-> ### *Launch*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Secondary - **Athletics**{: .heart-color }/**Bully**{: .courage-color }] [X]*{: .normal-font }
+> ### *Launch*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Secondary - **Athletics**{: .heart-color }/**Bully**{: .courage-color }] [X]*{: .normal-font .fs-3 }
 >
 > The target is launched across the battlefield after being attacked, flying through one valid target in the same group behind them (at the same elevation) for each Grade of Success. If they collide with a target with a relevant Contact trait, they stop flying and suffer the consequences of that Contact.  
 > Each additional target hit during this launch takes damage equal to this Technique's Power, unmodified by the user's Attack; if the launched target has a relevant Contact trait, each new target suffers the consequences of that Contact.  
@@ -459,19 +459,19 @@ Some Traits have similar functions which are referred to in shorthand, explained
 > Afterwards, all targets return to their original position, if able – although in precarious fights, a solid enough launcher could shift the battlefield completely, or bring the fight to an early close.
 
 {: .content-callout }
-> ### *Lengthen*{: .positive-color} ***(+1 FP)**{: .spirit-color } [X]*{: .normal-font }
+> ### *Lengthen*{: .positive-color} ***(+1 FP)**{: .spirit-color } [X]*{: .normal-font .fs-3 }
 >
 > The innate effects of this Technique which have a duration (e.g. Statuses, Minions, Terrains) last [X] more turns or rounds, as appropriate.  
 > This does not impact effects generated from other sources, or after the Technique resolves (e.g. *[Exceptional Techniques]({{ "/exceptional_techniques" | absolute_url }})*{: .courage-color .underlined }, Weaknesses).
 
 {: .content-callout }
-> ### *Lingering*{: .positive-color} ***(+1 FP)**{: .spirit-color } [Secondary - **Bully**{: .courage-color }/**Magic**{: .spirit-color }] [X]*{: .normal-font }
+> ### *Lingering*{: .positive-color} ***(+1 FP)**{: .spirit-color } [Secondary - **Bully**{: .courage-color }/**Magic**{: .spirit-color }] [X]*{: .normal-font .fs-3 }
 >
 > The target suffers a [Lingering]({{ "/statuses#lingering" | absolute_url }}) burn, poison or other degenerative effect, for [X] turns.  
 > For every additional Grade of Success, increase the Status Level by 1, to a maximum of [X].
 
 {: .content-callout }
-> ### *Lucky Hit*{: .positive-color} ***(+? FP)**{: .spirit-color } [Random] [Slots]*{: .normal-font }
+> ### *Lucky Hit*{: .positive-color} ***(+? FP)**{: .spirit-color } [Random] [Slots]*{: .normal-font .fs-3 }
 >
 > This Technique has a rare special effect!  
 > Add a single Technique Slot to this Technique; its overall *FP Cost*{: .spirit-color } *must*{: .underlined .bold } be positive.  
@@ -504,7 +504,7 @@ Some Traits have similar functions which are referred to in shorthand, explained
 >
 
 {: .content-callout }
-> ### *Minion*{: .positive-color} ***(+3 FP)**{: .spirit-color } [Secondary - **Bully**{: .courage-color }/**Cheer**{: .courage-color }/**Magic**{: .magic-color }/**Persuade**{: .courage-color }] [Target] [X]*{: .normal-font }
+> ### *Minion*{: .positive-color} ***(+3 FP)**{: .spirit-color } [Secondary - **Bully**{: .courage-color }/**Cheer**{: .courage-color }/**Magic**{: .spirit-color }/**Persuade**{: .courage-color }] [Target] [X]*{: .normal-font .fs-3 }
 >
 > This Technique generates minions who obey your command.  
 > A successful use of this Technique earns 1 minion Tier, with additional Grades of Success earning one more Tier, to a max of [X] Tiers.  
@@ -533,7 +533,7 @@ Some Traits have similar functions which are referred to in shorthand, explained
 > They have one Innate Technique, and can reliably use their Personal Traits, but besides that they can't take on complicated tasks which would normally require a skill check (e.g. *Crafts*{: .spirit-color }, *Guard*{: .heart-color }, *Notice*{: .spirit-color }).
 >
 > For those actions they can carry out, minions automatically score a number of Grades of Success on all of their checks equal to their Tier.  
-> Since htey don't make checks themselves, they can't generate *SP*{: .courage-color }, and they're unable to hold or use *SP*{: .courage-color } themselves (even for *[Exceptional Techniques]({{ "/exceptional_techniques" | absolute_url }})*{: .courage-color .underlined }).
+> Since htey don't make checks themselves, they can't generate *SP*{: .courage-color }, and they're unable to hold or use *SP*{: .courage-color } themselves (even for [*Exceptional Techniques*{: .underlined .courage-color }]({{ "/exceptional_techniques" | absolute_url }}).
 >
 > Each Tier of minion can allocate up to 5 times their Tier in points to any of the below qualities:
 >
@@ -583,42 +583,42 @@ Some Traits have similar functions which are referred to in shorthand, explained
 >
 
 {: .content-callout }
-> ### *Overrun*{: .positive-color} ***(+3 FP)**{: .spirit-color } [Target]*{: .normal-font }
+> ### *Overrun*{: .positive-color} ***(+3 FP)**{: .spirit-color } [Target]*{: .normal-font .fs-3 }
 >
 > This Technique affects all targets in the target group at the same elevation, as long as the user can reach that height before attacking (such as by flight, elevation or even just jumping).
 
 {: .content-callout }
-> ### *Piercing*{: .positive-color} *(+3 FP)*{: .spirit-color .normal-font }
+> ### *Piercing*{: .positive-color} *(+3 FP)*{: .spirit-color .normal-font .fs-3 }
 > 
-> This attack ignores Defense, though it's still affected by Resistances and Immunities. It can still be *[Guarded]({{ "/skills_in_detail#guard---guarding-reactively" | absolute_url }})*{: .heart-color .underlined } against.
+> This attack ignores Defense, though it's still affected by Resistances and Immunities. It can still be [*Guarded*{: .underlined .heart-color }]({{ "/skills_in_detail#guard---guarding-reactively" | absolute_url }}) against.
 
 {: .content-callout }
-> ### *Provoke*{: .positive-color} ***(+1 FP)**{: .spirit-color } [Secondary - **Bully**{: .courage-color }/**Magic**{: .spirit-color }/**Trickery**{: .spirit-color }/**Persuade**{: .courage-color }] [X]*{: .normal-font }
+> ### *Provoke*{: .positive-color} ***(+1 FP)**{: .spirit-color } [Secondary - **Bully**{: .courage-color }/**Magic**{: .spirit-color }/**Trickery**{: .spirit-color }/**Persuade**{: .courage-color }] [X]*{: .normal-font .fs-3 }
 > 
 > The target becomes [Provoked]({{ "/statuses#provoked" | absolute_url }}), causing them to focus their attention on a particular valid target (specified by you), for [X] turns.  
 > For every additional Grade of Success, increase the Status Level by 1, to a maximum of [X+X].
 
 {: .content-callout }
-> ### *Quake*{: .positive-color} ***(+3 FP)**{: .spirit-color } [Approach] [Target]*{: .normal-font }
+> ### *Quake*{: .positive-color} ***(+3 FP)**{: .spirit-color } [Approach] [Target]*{: .normal-font .fs-3 }
 > 
 > At the user's option, this Technique's Primary Check can use *Athletics*{: .heart-color } instead.  
 > This attack affects all targets in the chosen group (besides the user) in contact with the ground, wall or ceiling.  
 > As a result, it also functions as the *Indirect*{: .positive-color } Trait and, if it has no other element, has *Element (Earth)*{: .positive-color } and *Element(Quake)*{: .positive-color }.
 
 {: .content-callout }
-> ### *Ranged*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Approach]*{: .normal-font }
+> ### *Ranged*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Approach]*{: .normal-font .fs-3 }
 > 
 > This Technique's Primary Check defaults to *Aim*{: .heart-color }.  
 > This Technique can affect its targets in battle without making contact, regardless of their relative position or other targets in the way.
 
 {: .content-callout }
-> ### *Reach*{: .positive-color} ***(+1 FP)**{: .spirit-color } [Approach]*{: .normal-font }
+> ### *Reach*{: .positive-color} ***(+1 FP)**{: .spirit-color } [Approach]*{: .normal-font .fs-3 }
 > 
 > This Technique can target flying and grounded enemies that aren't blocked by another target, as if the user was at their elevation.  
 > It still makes contact unless paired with *Indirect*{: .positive-color }.
 
 {: .content-callout }
-> ### *Repeat*{: .positive-color} ***(+3 FP)**{: .spirit-color } [Strikes]*{: .normal-font }
+> ### *Repeat*{: .positive-color} ***(+3 FP)**{: .spirit-color } [Strikes]*{: .normal-font .fs-3 }
 > 
 > The user repeatedly attacks with a flurry of blows. They strike once, then one more time for each additional Grade of Success earned.
 >
@@ -629,14 +629,14 @@ Some Traits have similar functions which are referred to in shorthand, explained
 > There's no limit to the number of Strikes that can be made.
 
 {: .content-callout }
-> ### *Revive*{: .positive-color} ***(+10 FP)**{: .spirit-color } [Secondary - **Heal**{: .heart-color }/**Magic**{: .spirit-color }]*{: .normal-font }
+> ### *Revive*{: .positive-color} ***(+10 FP)**{: .spirit-color } [Secondary - **Heal**{: .heart-color }/**Magic**{: .spirit-color }]*{: .normal-font .fs-3 }
 >
 > The target is revived from their KO with *1 HP*{: .heart-color } (in addition to any *HP*{: .heart-color } they would gain from this Technique), and if they haven't already acted this round, they can act during their turn or immediately after the user's turn (whichever would come later or be more appropriate).
 >
 > If for whatever reason this Technique would deal damage, it's dealt after they're revived and healed, and the target can resist as normal.
 
 {: .content-callout }
-> ### *Roulette*{: .positive-color} ***(+? FP)**{: .spirit-color } [Random] [Slots]*{: .normal-font }
+> ### *Roulette*{: .positive-color} ***(+? FP)**{: .spirit-color } [Random] [Slots]*{: .normal-font .fs-3 }
 >
 > This Technique has 6 different Roulette Slots of Technique Traits, each with a different number between 1 and 6 assigned to them.  
 > When you use this Technique, roll 1d6. Only the Slot whose number is rolled is active for this use of the Technique, and all other Roulette Slot Traits are ignored.  
@@ -667,12 +667,12 @@ The Roulette spinner's world is limitless.* ![](assets/images/icons/tipguy.png)
 >
 
 {: .content-callout }
-> ### *Safe*{: .positive-color} *(+2 FP)*{: .spirit-color .normal-font }
+> ### *Safe*{: .positive-color} *(+2 FP)*{: .spirit-color .normal-font .fs-3 }
 >
 > This Trait can only be applied to multi-target attacks. The user and their allies are shielded from the negative consequences of this attack (e.g. damage).
 
 {: .content-callout }
-> ### *Scaling*{: .positive-color} ***(+3 FP)**{: .spirit-color } [X]*{: .normal-font }
+> ### *Scaling*{: .positive-color} ***(+3 FP)**{: .spirit-color } [X]*{: .normal-font .fs-3 }
 >
 > When resolving this Technique's Primary Check, once the maximum result is earned each *additional*{: .underlined } Grade of Success beyond that point increases its Power by +1.  
 > This additional Power cannot be used to increase the number of Strikes.  
@@ -687,17 +687,17 @@ The Roulette spinner's world is limitless.* ![](assets/images/icons/tipguy.png)
 > > So a *Wonderful*{: .wonderful-color } result might add +1 DMG to 2 strikes, an *Excellent*{: .excellent-color } might add +1 DMG to 2 other Strikes, and so on.
 
 {: .content-callout }
-> ### *Secure*{: .positive-color} ***(+4 FP)**{: .spirit-color } [Secondary - **Guard**{: .heart-color }/**Magic**{: .spirit-color }/**Trickery**{: .spirit-color }]*{: .normal-font }
+> ### *Secure*{: .positive-color} ***(+4 FP)**{: .spirit-color } [Secondary - **Guard**{: .heart-color }/**Magic**{: .spirit-color }/**Trickery**{: .spirit-color }]*{: .normal-font .fs-3 }
 >
 > The target becomes [Secure]({{ "/statuses#secure" | absolute_url }}), rendering them completely immune to most Techniques targeting them for 1 turn; if this Technique would deal damage to or inflict status on the target, those effects take priority first.
 
 {: .content-callout }
-> ### *Selective*{: .positive-color} ***(+1 FP)**{: .spirit-color } [Target]*{: .normal-font }
+> ### *Selective*{: .positive-color} ***(+1 FP)**{: .spirit-color } [Target]*{: .normal-font .fs-3 }
 > 
 > This Technique can target any one foe at the same elevation as the user, regardless of blocking or their relative position.
 
 {: .content-callout }
-> ### *Sequential*{: .positive-color} ***(+1 FP)**{: .spirit-color } [Strikes] [Target]*{: .normal-font }
+> ### *Sequential*{: .positive-color} ***(+1 FP)**{: .spirit-color } [Strikes] [Target]*{: .normal-font .fs-3 }
 >
 > The user Strikes their target once, then moves to and attacks the next foe behind them with another Strike.  
 > Each additional Grade of Success adds another target and another Strike in the same manner.
@@ -705,18 +705,18 @@ The Roulette spinner's world is limitless.* ![](assets/images/icons/tipguy.png)
 > Each Strike deals [Power] damage. Each target is struck one after another, and can be attacked in melee even if they would normally be blocked by a previously struck foe.
 
 {: .content-callout }
-> ### *Shared*{: .positive-color} *(+1 FP)*{: .spirit-color .normal-font }
+> ### *Shared*{: .positive-color} *(+1 FP)*{: .spirit-color .normal-font .fs-3 }
 >
 > The user can share in all or part of the effects of this Technique's Secondary Check, as if they were targeted by it.  
 > If the Technique would have targeted them anyway, they don't receive any additional benefit; they're only added as a target.
 
 {: .content-callout }
-> ### *Simple*{: .positive-color} ***(+2 FP)**{: .spirit-color } [X]*{: .normal-font }
+> ### *Simple*{: .positive-color} ***(+2 FP)**{: .spirit-color } [X]*{: .normal-font .fs-3 }
 >
 > This Technique is easier to use, acting as if it scored [X] additional Grades of Success on the Primary Check; if the maximum effectiveness can be reached with only those Grades, then the user can choose to forego their roll for the Primary Check.
 
 {: .content-callout }
-> ### *Snatch*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Secondary - **Bully**{: .courage-color }/**Trickery**{: .spirit-color }]*{: .normal-font }
+> ### *Snatch*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Secondary - **Bully**{: .courage-color }/**Trickery**{: .spirit-color }]*{: .normal-font .fs-3 }
 >
 > Based on the number of Grades of Success, you can choose to take one of the following from the target (if they have something to take):
 >
@@ -743,7 +743,7 @@ The Roulette spinner's world is limitless.* ![](assets/images/icons/tipguy.png)
 >
 
 {: .content-callout }
-> ### *Spillover*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Target]*{: .normal-font }
+> ### *Spillover*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Target]*{: .normal-font .fs-3 }
 > 
 > This Technique initially targets a single valid target.  
 > If one of its Strikes deals enough damage to KO its initial target, you can re-allocate the excess damage and any additional Strikes to another valid target.
@@ -752,7 +752,7 @@ The Roulette spinner's world is limitless.* ![](assets/images/icons/tipguy.png)
 > If a Strike from this Technique would be a Solid Hit, all damage allocated once it spills over is still treated as a Solid Hit.
 
 {: .content-callout }
-> ### *Split*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Slots]*{: .normal-font }
+> ### *Split*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Slots]*{: .normal-font .fs-3 }
 > 
 > This Technique can include any number of Technique Slots; any slot added by this trait is treated as a Split Slot.  
 > Unlike other [Slots] Traits, the traits included in a Split Slot are calculated exactly as if they were outside that slot; they contribute to the Technique's *FP cost*{: .spirit-color } and can include Tech Defaults, as normal.
@@ -780,7 +780,7 @@ The Roulette spinner's world is limitless.* ![](assets/images/icons/tipguy.png)
 >
 
 {: .content-callout }
-> ### *Strike-Through*{: .positive-color} ***(+1 FP)**{: .spirit-color } [Strikes] [Target] [X]*{: .normal-font }
+> ### *Strike-Through*{: .positive-color} ***(+1 FP)**{: .spirit-color } [Strikes] [Target] [X]*{: .normal-font .fs-3 }
 >
 > This attack pierces past its initial target to strike the next [X] additional targets at the same elevation.
 > 
@@ -790,18 +790,18 @@ The Roulette spinner's world is limitless.* ![](assets/images/icons/tipguy.png)
 > If the initial Strike was a Solid Hit, the subsequent Strikes are too.
 
 {: .content-callout }
-> ### *Strong*{: .positive-color} ***(+2 FP)**{: .spirit-color } [X]*{: .normal-font }
+> ### *Strong*{: .positive-color} ***(+2 FP)**{: .spirit-color } [X]*{: .normal-font .fs-3 }
 >
 > This Technique has +[X] Power.
 
 {: .content-callout }
-> ### *Stun*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Secondary - **Bully**{: .courage-color }/**Magic**{: .spirit-color }/**Trickery**{: .spirit-color }] [X]*{: .normal-font }
+> ### *Stun*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Secondary - **Bully**{: .courage-color }/**Magic**{: .spirit-color }/**Trickery**{: .spirit-color }] [X]*{: .normal-font .fs-3 }
 >
 > The target is [Stunned]({{ "/statuses#stunned" | absolute_url }}) for [X] turns, stopped dead in their tracks.  
 > For every additional Grade of Success, increase the Status Level by 1, to a maximum of [X+X].
 
 {: .content-callout }
-> ### *Swap*{: .positive-color} ***(+1 FP)**{: .spirit-color } [Secondary - **Bully**{: .courage-color }/**Coordination**{: .heart-color }/**Magic**{: .spirit-color }/**Trickery**{: .spirit-color }] [X]*{: .normal-font }
+> ### *Swap*{: .positive-color} ***(+1 FP)**{: .spirit-color } [Secondary - **Bully**{: .courage-color }/**Coordination**{: .heart-color }/**Magic**{: .spirit-color }/**Trickery**{: .spirit-color }] [X]*{: .normal-font .fs-3 }
 >
 > The target swaps position with another target in the same group as you direct, maintaining their current elevation where possible.  
 > The second target can't be further away in group order than 1 space for each Grade of Success, to a maximum of [X] spaces away.
@@ -809,7 +809,7 @@ The Roulette spinner's world is limitless.* ![](assets/images/icons/tipguy.png)
 > If this Technique affects multiple targets, each target can only be swapped once.
 
 {: .content-callout }
-> ### *Terrain*{: .positive-color} ***(+3 FP)**{: .spirit-color } [Secondary - **Crafts**{: .spirit-color }/**Magic**{: .spirit-color }] [X]*{: .normal-font }
+> ### *Terrain*{: .positive-color} ***(+3 FP)**{: .spirit-color } [Secondary - **Crafts**{: .spirit-color }/**Magic**{: .spirit-color }] [X]*{: .normal-font .fs-3 }
 >
 > The environment around the target shifts for [X] full rounds, causing a [Terrain]({{ "/terrain" | absolute_url }}) to form around them.  
 > The exact Terrain this Technique causes is chosen when this Trait is bought.  
@@ -819,7 +819,7 @@ The Roulette spinner's world is limitless.* ![](assets/images/icons/tipguy.png)
 > If the target is already in a similar Terrain (e.g. both Terrains are Weathers), the new Terrain overrides the old one for the duration.  
 
 {: .content-callout }
-> ### *Throw*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Target] [Strikes] [X - Cap 2]*{: .normal-font }
+> ### *Throw*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Target] [Strikes] [X - Cap 2]*{: .normal-font .fs-3 }
 >
 > At the user's option, this Technique's Primary Check can use *Athletics*{: .heart-color } instead.  
 > 
@@ -833,7 +833,7 @@ The Roulette spinner's world is limitless.* ![](assets/images/icons/tipguy.png)
 > If [X] is 2, you can aim the target as if with the *Ranged*{: .positive-color } Trait, and can use *Aim*{: .heart-color } as the Primary Check.
 
 {: .content-callout }
-> ### *Tool*{: .positive-color} *(+1 FP)*{: .spirit-color .normal-font }
+> ### *Tool*{: .positive-color} *(+1 FP)*{: .spirit-color .normal-font .fs-3 }
 > 
 > This Technique relies on a hand-held tool, such as a hammer or staff, and can't be used if the appropriate equipment isn't available. As a result it also has *Indirect*{: .positive-color } or *Ranged*{: .positive-color }, at the user's option.  
 >
@@ -852,7 +852,7 @@ The Roulette spinner's world is limitless.* ![](assets/images/icons/tipguy.png)
 >
 
 {: .content-callout }
-> ### *Tutor*{: .positive-color} ***(+1 FP)**{: .spirit-color } [Secondary - **Bully**{: .courage-color }/**Cheer**{: .courage-color }/**Knowhow**{: .spirit-color }/**Magic**{: .spirit-color }] [X]*{: .normal-font }
+> ### *Tutor*{: .positive-color} ***(+1 FP)**{: .spirit-color } [Secondary - **Bully**{: .courage-color }/**Cheer**{: .courage-color }/**Knowhow**{: .spirit-color }/**Magic**{: .spirit-color }] [X]*{: .normal-font .fs-3 }
 > 
 > Choose up to [X] of this Technique's Traits; multiple instances of a Trait (e.g. *Lingering x2*{: .positive-color }) must be selected individually (requiring you to select both instances of *Lingering*{: .positive-color }).  
 > Those Traits have no effect on this Technique, and the target instead becomes [Tutored]({{ "/statuses#tutored" | absolute_url }}) in their use for [X] turns; for each additional Grade of Success, increase the Status Level by 1, to a maximum of [X].  
@@ -865,7 +865,7 @@ The Roulette spinner's world is limitless.* ![](assets/images/icons/tipguy.png)
 > Otherwise if it doesn't have *Variant*{: .positive-color }, and it uses *Bully*{: .courage-color } for its skill check, you can't include *any*{: .underlined } positive Traits.
 
 {: .content-callout }
-> ### *Underfoot*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Approach] [Target]*{: .normal-font }
+> ### *Underfoot*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Approach] [Target]*{: .normal-font .fs-3 }
 >
 > At the user's option, this Technique's Primary Check can use *Athletics*{: .heart-color } instead.  
 > 
@@ -873,12 +873,12 @@ The Roulette spinner's world is limitless.* ![](assets/images/icons/tipguy.png)
 > As a result, it also functions as the *Indirect*{: .positive-color } Trait and, if it has no other element, has *Element (Earth)*{: .positive-color } and/or *Element (Quake)*{: .positive-color }.
 
 {: .content-callout }
-> ### *Variant*{: .positive-color} ***(+1 FP)**{: .spirit-color } [X - Cap 2]*{: .normal-font }
+> ### *Variant*{: .positive-color} ***(+1 FP)**{: .spirit-color } [X - Cap 2]*{: .normal-font .fs-3 }
 >
 > You may choose a different skill to use for either your Primary or Secondary check for this Technique.
 
 {: .content-callout }
-> ### *Versatile*{: .positive-color} ***(+3 FP)**{: .spirit-color } [X] [Slots]*{: .normal-font }
+> ### *Versatile*{: .positive-color} ***(+3 FP)**{: .spirit-color } [X] [Slots]*{: .normal-font .fs-3 }
 >
 > This Technique has up to [X] different Versatile Slots full of Technique Traits.
 >
@@ -905,7 +905,7 @@ The Roulette spinner's world is limitless.* ![](assets/images/icons/tipguy.png)
 >
 
 {: .content-callout }
-> ### *Weaken*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Secondary - **Bully**{: .courage-color }/**Magic**{: .spirit-color }/**Trickery**{: .spirit-color }] [X]*{: .normal-font }
+> ### *Weaken*{: .positive-color} ***(+2 FP)**{: .spirit-color } [Secondary - **Bully**{: .courage-color }/**Magic**{: .spirit-color }/**Trickery**{: .spirit-color }] [X]*{: .normal-font .fs-3 }
 >
 > The target's abilities are [Weakened]({{ "/statuses#weakened" | absolute_url }}) for [X] turns – the exact abilities affected by the Weakening are decided when this Trait is chosen.  
 > For every additional Grade of Success, increase the Status Level by 1, to a maximum of [X].
@@ -920,7 +920,7 @@ The Roulette spinner's world is limitless.* ![](assets/images/icons/tipguy.png)
 ## Negative Technique Traits
 
 {: .content-callout }
-> ### *Blowback*{: .negative-color} *(-4 FP)*{: .spirit-color .normal-font }
+> ### *Blowback*{: .negative-color} *(-4 FP)*{: .spirit-color .normal-font .fs-3 }
 >
 > After finishing this attack, the user loses *HP*{: .heart-color } equal to ½ the Raw Damage thhis attack would deal to a single target; if there's a range of different damage totals, refer to the highest Raw Damage potential possible.  
 >
@@ -931,7 +931,7 @@ The Roulette spinner's world is limitless.* ![](assets/images/icons/tipguy.png)
 > This Trait cannot be combined with *Harmless*{: .negative-color } or *Self*{: .negative-color }.
 
 {: .content-callout }
-> ### *Commitment*{: .negative-color} ***(-2 FP)**{: .spirit-color } [X - Cap 2]*{: .normal-font }
+> ### *Commitment*{: .negative-color} ***(-2 FP)**{: .spirit-color } [X - Cap 2]*{: .normal-font .fs-3 }
 >
 > Choose Primary Check or Secondary Check:
 > 
@@ -943,7 +943,7 @@ The Roulette spinner's world is limitless.* ![](assets/images/icons/tipguy.png)
 > The Technique must have a Primary or a Secondary Check in order for Commitment to be applied to either.
 
 {: .content-callout }
-> ### *Conditional*{: .negative-color} ***(-1 FP)**{: .spirit-color } [X]*{: .normal-font }
+> ### *Conditional*{: .negative-color} ***(-1 FP)**{: .spirit-color } [X]*{: .normal-font .fs-3 }
 > 
 > Choose up to [X] of this Technique's distinct Positive Traits; they only function in specific circumstances (e.g. midair, underwater), or against specific targets (e.g. Goombas, sleeping targets).  
 > If the Trait has multiple instances, this condition applies to all instances of that trait, and the specific circumstances are defined for each Trait separately.  
@@ -953,12 +953,12 @@ The Roulette spinner's world is limitless.* ![](assets/images/icons/tipguy.png)
 > Can't be combined with *Situational*{: .negative-color } effects involving the same circumstance.
 
 {: .content-callout }
-> ### *Cooldown*{: .negative-color} ***(-1 FP)**{: .spirit-color } [X - Cap 5]*{: .normal-font }
+> ### *Cooldown*{: .negative-color} ***(-1 FP)**{: .spirit-color } [X - Cap 5]*{: .normal-font .fs-3 }
 > 
 > This Technique can't be used again until [X] of the user's actionable turns (i.e. turns where they otherwise could have used this Technique) have passed, counting from the next turn.
 
 {: .content-callout }
-> ### *Delayed*{: .negative-color} ***(-2 FP)**{: .spirit-color } [X - Cap 5]*{: .normal-font }
+> ### *Delayed*{: .negative-color} ***(-2 FP)**{: .spirit-color } [X - Cap 5]*{: .normal-font .fs-3 }
 > 
 > This Technique doesn't take effect immediately, instead being executed [X] rounds after it was used as a free action at the end of the round.  
 > Targets are declared, *FP*{: .spirit-color } is spent and checks are rolled when this Technique is first used.  
@@ -967,7 +967,7 @@ The Roulette spinner's world is limitless.* ![](assets/images/icons/tipguy.png)
 > Instead of swapping with their allies, if a targeted character would swap under their own power, they can move the targeted space for this Technique the same distance – and can even move it outside of their group to completely dodge it.
 
 {: .content-callout }
-> ### *Drip-Feed*{: .negative-color} ***(-1 FP)**{: .spirit-color } [X - Cap 5]*{: .normal-font }
+> ### *Drip-Feed*{: .negative-color} ***(-1 FP)**{: .spirit-color } [X - Cap 5]*{: .normal-font .fs-3 }
 > 
 > This Technique takes time to reach its full effect, instead dividing its Status Levels, *HP*{: .heart-color } restored and *FP*{: .spirit-color } restored evenly over the course of the next [X+X] turns for all targets.
 >
@@ -989,12 +989,12 @@ The Roulette spinner's world is limitless.* ![](assets/images/icons/tipguy.png)
 >
 
 {: .content-callout }
-> ### *Exhausting*{: .negative-color} ***(-4 FP)**{: .spirit-color } [X]*{: .normal-font }
+> ### *Exhausting*{: .negative-color} ***(-4 FP)**{: .spirit-color } [X]*{: .normal-font .fs-3 }
 >
 > The user can't take any more actions for [X] turns. They can still talk, move around (without changing position), take part in other characters' actions (such as *Team*{: .negative-color } Techniques and swapping with *Coordination*{: .heart-color }), and can react freely.
 
 {: .content-callout }
-> ### *Fumble*{: .negative-color} ***(-? FP)**{: .spirit-color } [Random] [Slots]*{: .normal-font }
+> ### *Fumble*{: .negative-color} ***(-? FP)**{: .spirit-color } [Random] [Slots]*{: .normal-font .fs-3 }
 > 
 > This Technique has a rare chance to backfire.  
 > Add a single Technique Slot to this Technique; its overall *FP cost*{: .spirit-color } *must*{: .bold .underlined } be negative.
@@ -1016,7 +1016,7 @@ The Roulette spinner's world is limitless.* ![](assets/images/icons/tipguy.png)
 > If the Technique has both traits, roll the same die once for both effects.
 
 {: .content-callout }
-> ### *Harmless*{: .negative-color} ***(-3 FP)**{: .spirit-color } [Strikes]*{: .normal-font }
+> ### *Harmless*{: .negative-color} ***(-3 FP)**{: .spirit-color } [Strikes]*{: .normal-font .fs-3 }
 > 
 > This Technique doesn't deal damage at all; it includes no Strikes, isn't affected by Attack and has no Primary Check, instead skipping to the Secondary Check (if applicable).  
 > 
@@ -1032,7 +1032,7 @@ The Roulette spinner's world is limitless.* ![](assets/images/icons/tipguy.png)
 >
 
 {: .content-callout }
-> ### *Lacking*{: .negative-color} ***(-1 FP)**{: .spirit-color } [X]*{: .normal-font }
+> ### *Lacking*{: .negative-color} ***(-1 FP)**{: .spirit-color } [X]*{: .normal-font .fs-3 }
 >
 > Choose one of this Technique's distinct Positive Traits; it needs [X] additional Grades of Success in order to function, and is inactive if that threshold isn't met. If that Trait has multiple instances, this *Lacking*{: .negative-color } effect applies to all instances of that trait.  
 >
@@ -1049,9 +1049,9 @@ The Roulette spinner's world is limitless.* ![](assets/images/icons/tipguy.png)
 >
 
 {: .content-callout }
-> ### *Limitation*{: .negative-color } *(-? FP)*{: .spirit-color .normal-font }
+> ### *Limitation*{: .negative-color } *(-? FP)*{: .spirit-color .normal-font .fs-3 }
 >
-> The positive effects of this Technique and the way it's used are restricted in some way not easily represented through other traits, such as to restrict *[Exceptional Techniques]({{ "/exceptional_techniques" | absolute_url }})*{: .courage-color .underlined } use, consume some of their Items for each use, or to force the user to make certain choices they wouldn't normally have to define.  
+> The positive effects of this Technique and the way it's used are restricted in some way not easily represented through other traits, such as to restrict [*Exceptional Techniques*{: .underlined .courage-color }]({{ "/exceptional_techniques" | absolute_url }}) use, consume some of their Items for each use, or to force the user to make certain choices they wouldn't normally have to define.  
 >
 > The exact amount of *FP*{: .spirit-color } saved depends on the nature of this limitation and is ultimately up to the GM to decide on a case-by-case basis.
 >
@@ -1068,12 +1068,12 @@ Limitations can help bridge this gap, but by their nature they're extremely open
 >
 
 {: .content-callout }
-> ### *Others*{: .negative-color } ***(-1 FP)**{: .spirit-color } [Target]*{: .normal-font }
+> ### *Others*{: .negative-color } ***(-1 FP)**{: .spirit-color } [Target]*{: .normal-font .fs-3 }
 >
 > This Technique can only be used on one other willing target (e.g. allies), and not the user or their enemies.
 
 {: .content-callout }
-> ### *Penalty*{: .negative-color} ***(-2 FP)**{: .spirit-color } [X - Cap 3]*{: .normal-font }
+> ### *Penalty*{: .negative-color} ***(-2 FP)**{: .spirit-color } [X - Cap 3]*{: .normal-font .fs-3 }
 > 
 > Choose up to [X] negative Statuses when you add this Trait (e.g. [Confused]({{ "/statuses#confused" | absolute_url }}), [Dazed]({{ "/statuses#dazed" | absolute_url }}), [Disarmed]({{ "/statuses#disarmed" | absolute_url }}), [Disoriented]({{ "/statuses#disoriented" | absolute_url }}), [Lingering]({{ "/statuses#lingering" | absolute_url }}), [Provoked]({{ "/statuses#provoked" | absolute_url }}), [Stunned]({{ "/statuses#stunned" | absolute_url }}) or [Weakened]({{ "/statuses#weakened" | absolute_url }})).  
 >
@@ -1083,7 +1083,7 @@ Limitations can help bridge this gap, but by their nature they're extremely open
 > You can reduce this Status with *Steady*{: .courage-color } in later turns, as normal for any Status.
 
 {: .content-callout }
-> ### *Self*{: .negative-color} ***(-? FP)**{: .spirit-color } [Target]*{: .normal-font }
+> ### *Self*{: .negative-color} ***(-? FP)**{: .spirit-color } [Target]*{: .normal-font .fs-3 }
 > 
 > This Technique can only be used on the user.  
 >
@@ -1092,14 +1092,14 @@ Limitations can help bridge this gap, but by their nature they're extremely open
 > Otherwise, this trait is worth *-2 FP*{: .spirit-color } for each point of Power in this Technique (after applying other Traits), and the user can't bypass or otherwise resist its damage through Immunities, Resistances, Secure or any other effect.
 
 {: .content-callout }
-> ### *Shorten*{: .negative-color} ***(-1 FP)**{: .spirit-color } [X]*{: .normal-font }
+> ### *Shorten*{: .negative-color} ***(-1 FP)**{: .spirit-color } [X]*{: .normal-font .fs-3 }
 > 
 > The effects of this Technique last for [X] less turns/rounds, to a minimum of 1.  
 >
 > This Trait can't be added if it would have no further effect on the Technique's duration (e.g. if all durations are already reduced to 1 turn).
 
 {: .content-callout }
-> ### *Side-Effect*{: .negative-color} ***(-2 FP)**{: .spirit-color } [X - Cap 3]*{: .normal-font }
+> ### *Side-Effect*{: .negative-color} ***(-2 FP)**{: .spirit-color } [X - Cap 3]*{: .normal-font .fs-3 }
 > 
 > Choose up to [X] positive Statuses when you add this Trait (e.g. [Boosted]({{ "/statuses#boosted" | absolute_url }}), [Hustled]({{ "/statuses#hustled" | absolute_url }}) or [Secure]({{ "/statuses#secure" | absolute_url }})).  
 >
@@ -1108,7 +1108,7 @@ Limitations can help bridge this gap, but by their nature they're extremely open
 > Any Status added with this Trait must be impactful and useful to a general enemy; Boost (Attack) would be fine for most cases, but something like Boost (*Knowhow*{: .spirit-color }) would generally be too niche and require GM approval.
 
 {: .content-callout }
-> ### *Situational*{: .negative-color} *(-? FP)*{: .spirit-color .normal-font }
+> ### *Situational*{: .negative-color} *(-? FP)*{: .spirit-color .normal-font .fs-3 }
 >
 > Choose one:
 >
@@ -1130,14 +1130,14 @@ Limitations can help bridge this gap, but by their nature they're extremely open
 >
 
 {: .content-callout }
-> ### *Team*{: .negative-color} ***(-2 FP)**{: .spirit-color } [Secondary - **Coordination**{: .heart-color }/**Cheer**{: .courage-color }] [X]*{: .normal-font }
+> ### *Team*{: .negative-color} ***(-2 FP)**{: .spirit-color } [Secondary - **Coordination**{: .heart-color }/**Cheer**{: .courage-color }] [X]*{: .normal-font .fs-3 }
 >
 > This Technique requires the user and [X] other allies to roll for this Technique's Secondary Check first, before the Primary Check is rolled; if any participant's roll fails to meet the Secondary Check's minimum requirements, the Technique fails.  
 >
 > Otherwise, you can use the result of any other participant's Secondary Check in place of your Primary Check and/or your Secondary Check.  
 > If you replace your Primary Check in this way, don't roll for your own Primary Check.  
 >
-> For the purposes of *[Exceptional Results]({{ "/grades_of_success#exceptional-results" | absolute_url }})*{: .underlined .courage-color } and *[Exceptional Techniques]({{ "/exceptional_techniques" | absolute_url }})*{: .courage-color .underlined }, the user makes all decisions, but any generated *SP*{: .courage-color } goes to the character who made the check, and only the checks used for the final Technique can earn *SP*{: .courage-color }.
+> For the purposes of [*Exceptional Results*{: .underlined .courage-color }]({{ "/grades_of_success#exceptional-results" | absolute_url }}) and [*Exceptional Techniques*{: .underlined .courage-color }]({{ "/exceptional_techniques" | absolute_url }}), the user makes all decisions, but any generated *SP*{: .courage-color } goes to the character who made the check, and only the checks used for the final Technique can earn *SP*{: .courage-color }.
 >
 > ![](assets/images/scenes/techniques-13.png)
 > {: .center-img }
@@ -1148,12 +1148,12 @@ Limitations can help bridge this gap, but by their nature they're extremely open
 >
 
 {: .content-callout }
-> ### *Unwieldy*{: .negative-color} ***(-2 FP)**{: .spirit-color } [X]*{: .normal-font }
+> ### *Unwieldy*{: .negative-color} ***(-2 FP)**{: .spirit-color } [X]*{: .normal-font .fs-3 }
 >
 > This Technique requires [X] more Grades of Success to function; you can apply these additional requirements to either its Primary or Secondary checks freely.
 
 {: .content-callout }
-> ### *Weak*{: .negative-color} ***(-2 FP)**{: .spirit-color } [X - Cap by Power]*{: .normal-font }
+> ### *Weak*{: .negative-color} ***(-2 FP)**{: .spirit-color } [X - Cap by Power]*{: .normal-font .fs-3 }
 >
 > This Technique has –[X] Power.
 >
@@ -1161,6 +1161,7 @@ Limitations can help bridge this gap, but by their nature they're extremely open
 
 ![](assets/images/scenes/techniques-14.png)
 {: .center-img }
+
 {: .tip-callout }
 > *It can be tempting to only rely on the safest negative traits you can find, but there's a lot of fun flavour to be found when you work with some restrictions.  
 Don't just look at them as a way to save FP, but as a key part of your Technique's stylistic flair!* ![](assets/images/icons/tipguy.png)

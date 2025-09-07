@@ -234,8 +234,7 @@ Usually, that's enough to get through an area. But if players are lagging behind
 
 {: .tip-callout }
 > *There's a whole wide world out there! If your players are eager to explore it, try to take time to paint a vivid picture and encourage them to stop and smell the roses.  
-Though of course, if they're more keen to hustle through to the next deadly encounter, there's nothing wrong with streamlining their movements.
-* ![](assets/images/icons/tipguy.png)
+Though of course, if they're more keen to hustle through to the next deadly encounter, there's nothing wrong with streamlining their movements.* ![](assets/images/icons/tipguy.png)
 > {: .icon-right }
 
 ## Partner System

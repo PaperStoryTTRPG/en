@@ -82,7 +82,7 @@ This can be subjective though, and in some cases up to the character to decide, 
 > > Since their combined *HP total*{: .heart-color } would have been *9 + 4*{: .heart-color } for *13 HP*{: .heart-color }, the Fuzzy is brought back to *13/15 HP*{: .heart-color }!
 >
 > While split up you can make actions as normal, but your clones don't roll for their actions; they instead automatically receive a number of Grades of Success equal to their dicepool, or the Copy Level (whichever's lower).  
-> Since they don't roll, they can't benefit from *[Exceptional Results]({{ "/grades_of_success#exceptional-results" | absolute_url }})*{: .underlined .courage-color } at all.
+> Since they don't roll, they can't benefit from [*Exceptional Results*{: .underlined .courage-color }]({{ "/grades_of_success#exceptional-results" | absolute_url }}) at all.
 >
 >
 > {: .example-callout }
@@ -148,7 +148,7 @@ This can be subjective though, and in some cases up to the character to decide, 
 > - When designing an Innate or Gear Technique, traits restricted by a character's Devotion have twice the effective *FP Cost*{: .spirit-color }.  
 > Tech Defaults work as normal.
 > - When paying for the cost of an ongoing ability (such as Invisibility), each *FP*{: .spirit-color } payment costs twice as much.
-> - When casting spells on the fly, they pay twice as much *FP*{: .spirit-color } per die for spells restricted by their Devotion – for more details, see *[Magic – Spontaneous Spells]({{ "/skills_in_detail#magic---spontaneous-spells" | absolute_url }})*{: .spirit-color .underlined }.
+> - When casting spells on the fly, they pay twice as much *FP*{: .spirit-color } per die for spells restricted by their Devotion – for more details, see [*Magic – Spontaneous Spells*{: .underlined .spirit-color }]({{ "/skills_in_detail#magic---spontaneous-spells" | absolute_url }}).
 >
 > {: .example-callout }
 > > *Example: Devotion*{: .header-font }
@@ -194,7 +194,7 @@ This can be subjective though, and in some cases up to the character to decide, 
 > This doesn't affect their standard Techniques in battle, but makes their other uses more cost-effective – especially *Magic*{: .spirit-color } checks.
 > 
 > - When paying for the cost of an ongoing ability (such as Invisibility), the ability lasts twice as long for each *FP*{: .spirit-color } payment.
-> - When casting spells on the fly with *Magic*{: .spirit-color }, they pay less *FP*{: .spirit-color } – for more details, see *[Magic – Spontaneous Spells]({{ "/skills_in_detail#magic---spontaneous-spells" | absolute_url }})*{: .spirit-color .underlined }.
+> - When casting spells on the fly with *Magic*{: .spirit-color }, they pay less *FP*{: .spirit-color } – for more details, see [*Magic – Spontaneous Spells*{: .underlined .spirit-color }]({{ "/skills_in_detail#magic---spontaneous-spells" | absolute_url }}).
 > - When activating the effects of a [Badge]({{ "/inventory#badges" | absolute_url }}) or [Power-Up]({{ "/inventory#power-ups" | absolute_url }}), they pay ½ as much *FP*{: .spirit-color }.
 
 {: .content-callout }
@@ -295,7 +295,7 @@ This can be subjective though, and in some cases up to the character to decide, 
 > Power-Ups must be used on the user, while Items can be used on themselves or a single other target.  
 > If the Item could normally be used on a group, it's localised to a single target instead.
 >
-> The user doesn't make any check, and the action can't be improved by *[Aiming]({{ "/skills_in_detail#aim---item-attacks" | absolute_url }})*{: .heart-color .underlined } or *[Administering Medicine]({{ "/skills_in_detail#heal---administering-medicine" | absolute_url }})*{: .heart-color .underlined }.
+> The user doesn't make any check, and the action can't be improved by [*Aiming*{: .underlined .heart-color }]({{ "/skills_in_detail#aim---item-attacks" | absolute_url }}) or [*Administering Medicine*{: .underlined .heart-color }]({{ "/skills_in_detail#heal---administering-medicine" | absolute_url }}).
 >
 > Typically this effect costs at least *5 FP*{: .spirit-color }, and can't restore more *FP*{: .spirit-color } to a target than it would cost.
 > The exact cost, effect and duration may vary depending on the source of this power.
@@ -387,7 +387,7 @@ This can be subjective though, and in some cases up to the character to decide, 
 > Nevertheless, if they would be attacked or otherwise lose *HP*{: .heart-color }, they will immediately dissipate, and you can dispel individual mirages at-will.
 >
 > You can use the mirages to effortlessly disguise your own actions as long as you have at least one near you.  
-> While doing so you can *[Dodge]({{ "/skills_in_detail#trickery---dodging" | absolute_url }})*{: .spirit-color .underlined } as if Boosted by a Status Level equal to the number of mirages near you.  
+> While doing so you can [*Dodge*{: .underlined .spirit-color }]({{ "/skills_in_detail#trickery---dodging" | absolute_url }}) as if Boosted by a Status Level equal to the number of mirages near you.  
 > Each successfully dodged Strike then causes one of the mirages to be hit instead, destroying them instantly.
 >
 > Maintaining this illusion requires constant concentration; at the start of every turn you can choose and attempt one of the following:
@@ -468,7 +468,7 @@ This can be subjective though, and in some cases up to the character to decide, 
 > Whenever a Strike would trigger your Weakness, you may take extra damage which can't be *Guarded*{: .heart-color } against, or the damage you've taken may be modified.  
 > Any other effects (like Statuses) only apply once per attack, no matter how many Strikes hit you.
 >
-> If you can *[Superguard]({{ "/skills_in_detail#guard---guarding-reactively" | absolute_url }})*{: .heart-color .underlined } a Strike, though, you can ignore the Weakness altogether!
+> If you can [*Superguard*{: .underlined .heart-color }]({{ "/skills_in_detail#guard---guarding-reactively" | absolute_url }}) a Strike, though, you can ignore the Weakness altogether!
 >
 > If the Technique would bestow a status effect on its own, that still applies even if you prevent the damage – and depending on your Weakness, it might even be worse than usual!  
 > You usually can't protect against Statuses added by the triggering Technique or by your Weakness with *Steady*{: .courage-color }, unless one of your Resists applies, and instead have to suffer the full brunt of their effects.  

@@ -23,7 +23,7 @@ Regardless of the size or number of things being carried, all players begin play
 ## Items
 
 Items are single-use consumables with a wide variety of effects. Generally, Items require an action to use and are consumed immediately.  
-You don't need to make any special checks, though you can get more out of your Items using *[Aim]({{ "/skills_in_detail#aim---item-attacks" | absolute_url }})*{: .heart-color .underlined }, *[Heal]({{ "/skills_in_detail#heal---recovery" | absolute_url }})*{: .heart-color .underlined } and *[Crafts]({{ "/skills_in_detail#crafts---enhancing-and-mixing" | absolute_url }})*{: .spirit-color .underlined }.
+You don't need to make any special checks, though you can get more out of your Items using [*Aim*{: .underlined .heart-color }]({{ "/skills_in_detail#aim---item-attacks" | absolute_url }}), [*Heal*{: .underlined .heart-color }]({{ "/skills_in_detail#heal---recovery" | absolute_url }}) and [*Crafts*{: .underlined .spirit-color }]({{ "/skills_in_detail#crafts---enhancing-and-mixing" | absolute_url }}).
 
 {: .item-callout .item-left }
 > ![](assets/images/items/mushroom.png)
@@ -1036,7 +1036,7 @@ Each *Steady*{: .courage-color } check made requires a higher Grade of Success t
 ## Gear
 
 Gear are specialised pieces of equipment that provide the user with new Techniques and other significant advantages, both in the field and in combat.  
-If players request personalised Gear, *[Craft]({{ "/skills_in_detail#crafts---working-from-scratch" | absolute_url }})*{: .spirit-color .underlined } it themselves or (in the case of Basic Gear) begin play with a Tool Technique, they can even design their own!
+If players request personalised Gear, [*Craft*{: .underlined .spirit-color }]({{ "/skills_in_detail#crafts---working-from-scratch" | absolute_url }}) it themselves or (in the case of Basic Gear) begin play with a Tool Technique, they can even design their own!
 
 No matter the type of Gear, any ammunition they required isn't tracked; if any Gear is represented by a large number of disposable equipment (such as throwing weapons), one piece of Gear is enough to represent an entire supply.
 
@@ -1902,7 +1902,7 @@ No matter what, the effect of any Badge can only be added once for each copy of 
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
 > >
-> > For *2 FP*{: .spirit-color }:
+> > For *2 FP*{: .spirit-color }:  
 > > *Adds Weaken (Attack) x3 to an Innate or Gear single-target attack.*{: .mgl .fs-3 }  
 > > *Roll either **Bully**{: .courage-color }, **Magic**{: .spirit-color } or **Trickery**{: .spirit-color } to resolve the Secondary Check, regardless of its usual required skill.*{: .mgl .fs-3 }
 
@@ -1916,7 +1916,7 @@ No matter what, the effect of any Badge can only be added once for each copy of 
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
 > >
-> > For *2 FP*{: .spirit-color }:
+> > For *2 FP*{: .spirit-color }:  
 > > *Adds Weaken (Defense) x3 to an Innate or Gear single-target attack.*{: .mgl .fs-3 }  
 > > *Roll either **Bully**{: .courage-color }, **Magic**{: .spirit-color } or **Trickery**{: .spirit-color } to resolve the Secondary Check, regardless of its usual required skill.*{: .mgl .fs-3 }
 
@@ -1930,7 +1930,7 @@ No matter what, the effect of any Badge can only be added once for each copy of 
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
 > >
-> > For *2 FP*{: .spirit-color }:
+> > For *2 FP*{: .spirit-color }:  
 > > *Adds Daze x3 to an Innate or Gear single-target attack.*{: .mgl .fs-3 }  
 > > *Roll either **Bully**{: .courage-color }, **Magic**{: .spirit-color } or **Trickery**{: .spirit-color } to resolve the Secondary Check, regardless of its usual required skill.*{: .mgl .fs-3 }
 
@@ -1944,7 +1944,7 @@ No matter what, the effect of any Badge can only be added once for each copy of 
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
 > >
-> > For *2 FP*{: .spirit-color }:
+> > For *2 FP*{: .spirit-color }:  
 > > *Adds Disorient x3 to an Innate or Gear single-target attack.*{: .mgl .fs-3 }  
 > > *Roll either **Bully**{: .courage-color }, **Magic**{: .spirit-color } or **Trickery**{: .spirit-color } to resolve the Secondary Check, regardless of its usual required skill.*{: .mgl .fs-3 }
 
@@ -1958,7 +1958,7 @@ No matter what, the effect of any Badge can only be added once for each copy of 
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
 > >
-> > For *2 FP*{: .spirit-color }:
+> > For *2 FP*{: .spirit-color }:  
 > > *Adds Element (Poison) and Lingering x3 to an Innate or Gear single-target attack.*{: .mgl .fs-3 }  
 > > *Roll either **Bully**{: .courage-color }, **Magic**{: .spirit-color } or **Trickery**{: .spirit-color } to resolve the Secondary Check, regardless of its usual required skill.*{: .mgl .fs-3 }
 
@@ -1972,7 +1972,7 @@ No matter what, the effect of any Badge can only be added once for each copy of 
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 74 Coins
 > >
-> > For *2 FP*{: .spirit-color }:
+> > For *2 FP*{: .spirit-color }:  
 > > *Adds Disarm (Tool) x3 to an Innate or Gear single-target attack.*{: .mgl .fs-3 }  
 > > *Roll either **Bully**{: .courage-color }, **Magic**{: .spirit-color } or **Trickery**{: .spirit-color } to resolve the Secondary Check, regardless of its usual required skill.*{: .mgl .fs-3 }
 
@@ -1986,7 +1986,7 @@ No matter what, the effect of any Badge can only be added once for each copy of 
 > > ![](assets/images/icons/badgepoint-small.png){: .inline-icon } • 1 BP
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
 > >
-> > > > For *2 FP*{: .spirit-color }:
+> > For *2 FP*{: .spirit-color }:  
 > > *Adds Confuse x3 to an Innate or Gear single-target attack.*{: .mgl .fs-3 }  
 > > *Roll either **Bully**{: .courage-color }, **Magic**{: .spirit-color } or **Trickery**{: .spirit-color } to resolve the Secondary Check, regardless of its usual required skill.*{: .mgl .fs-3 }
 

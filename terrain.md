@@ -438,8 +438,8 @@ Finally, note that if both a Pro and a Con of a Terrain would apply in a given s
 {: .center-img }
 
 {: .tip-callout }
-> *It can be a lot of fun to play around with Terrain, both as part of your strategy and as part of the world. Even simple environments, like a peaceful grassland or an underground cave, offer a diverse range of encounters that can give your adventure a distinct flavour.* ![](assets/images/icons/tipguy.png){: .icon-right }
-
+> *It can be a lot of fun to play around with Terrain, both as part of your strategy and as part of the world. Even simple environments, like a peaceful grassland or an underground cave, offer a diverse range of encounters that can give your adventure a distinct flavour.* ![](assets/images/icons/tipguy.png)
+> {: .icon-right }
 
 {: .terrain-callout style="background-image: url("assets/images/terrains/underwater.png");background-size: cover;background-position: bottom;background-size: cover;" }
 > ## Underwater

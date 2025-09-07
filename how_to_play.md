@@ -81,6 +81,7 @@ Be warned, though – if at any point *more than ½*{: .bold .underlined } of yo
 > *Example: Critical Failure*{: .header-font }
 >
 > A Bob-Omb with *2 Heart*{: .heart-color } and *2 Guard*{: .heart-color } attempts to block a spinning shell attack from an enemy Koopa.  
+> 
 > He rolls two dice (2d6) for his *Guard*{: .heart-color }, and rolls 4 and 1.  
 > 4 is a successful result, so this counts as 1 Success – a *Nice*{: .nice-color } result, able to block the damage.  
 > They nudge the 4 into a 6 for another roll.  
@@ -113,8 +114,10 @@ You have to have at least 1d6 yourself to assist! Otherwise your help isn't usef
 > *Example: Working together*{: .header-font }
 >
 > A Koopa, a Bandit and a Dayzee try to lift a heavy stone statue to inspect what's underneath, using *Athletics*{: .heart-color }.
-> The Koopa volunteers to lead the job; they have *3 Heart*{: .heart-color } and *3 Athletics*{: .heart-color }. The Bandit has *2 Heart*{: .heart-color } and *2 Athletics*{: .heart-color }, and the Dayzee has just *1 Heart*{: .heart-color } and *1 Athletics*{: .heart-color }.
-> The Koopa can roll 3d6 from their own *Athletics*{: .heart-color }, and +1d6 from the Bandit – they don't get any dice from the Dayzee, because their *Athletics*{: .heart-color } is too low.
+> 
+> The Koopa volunteers to lead the job; they have *3 Heart*{: .heart-color } and *3 Athletics*{: .heart-color }.  
+> The Bandit has *2 Heart*{: .heart-color } and *2 Athletics*{: .heart-color }, and the Dayzee has just *1 Heart*{: .heart-color } and *1 Athletics*{: .heart-color }.  
+> The Koopa can roll 3d6 from their own *Athletics*{: .heart-color }, and +1d6 from the Bandit – they don't get any dice from the Dayzee, because their *Athletics*{: .heart-color } is too low.  
 > The four dice come up 2, 2, 3 and 3. Fortunately, pooling together everyone's *Heart*{: .heart-color }, the group has *6 Heart*{: .heart-color } to spend, enough to boost everything to 4 for a *Great*{: .great-color } result!
 
 ## Partial Bonuses

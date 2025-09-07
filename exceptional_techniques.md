@@ -11,7 +11,7 @@ nav_order: 17
 # Exceptional Techniques
 {: .no_toc }
 
-While *[Exceptional Results]({{ "/grades_of_success#exceptional-results" | absolute_url }})*{: .underlined .courage-color } are often their own reward, they can take on meaning in the heat of battle, allowing you to slightly tweak the Technique you're using.
+While [*Exceptional Results*{: .underlined .courage-color }]({{ "/grades_of_success#exceptional-results" | absolute_url }}) are often their own reward, they can take on meaning in the heat of battle, allowing you to slightly tweak the Technique you're using.
 
 When your Primary or Secondary Check generates *SP*{: .courage-color }, instead of adding it to your *SP*{: .courage-color }, you can spend it on these options at-will.
 
@@ -20,6 +20,7 @@ When your Primary or Secondary Check generates *SP*{: .courage-color }, instead 
 > 
 > - *1 SP*{: .courage-color }: Add +1 DMG to one of this Technique's Strikes.
 > - *1 SP*{: .courage-color }: This Technique gains or loses an instance of one of the following Traits, if it would be appropriate to do so:  
+>
 > {: .content-callout }
 > > - *Aerial*{: .positive-color }
 > > - *Burst*{: .positive-color }
@@ -32,23 +33,33 @@ When your Primary or Secondary Check generates *SP*{: .courage-color }, instead 
 > > - *Strike-Through*{: .positive-color }
 > > - *Throw*{: .positive-color }
 > > - *Delayed*{: .negative-color }
+> >
+>
 > - *2 SP*{: .courage-color }: Increase *both*{: .underlined .bold } the duration and Status Level of one of this Technique's existing Statuses by 1 each.
 > - *2 SP*{: .courage-color }: This Technique gains or loses an instance of one of the following Traits, if it would be appropriate to do so:  
+>
 > {: .content-callout }
 > > - *Homing*{: .positive-color }
 > > - *Sequential*{: .positive-color }
 > > - *Blowback*{: .negative-color }
+> >
+>
 > - *3 SP*{: .courage-color }: This Technique adds a new Status onto either the user or their targets with no check required, lasting 1 turn at Status Level 1.
 > - *3 SP*{: .courage-color }: This Technique gains or loses an instance of one of the following Traits, if it would be appropriate to do so:  
+>
 > {: .content-callout }
 > > - *All*{: .positive-color }
 > > - *Overrun*{: .positive-color }
 > > - *Piercing*{: .positive-color }
 > > - *Sequential*{: .positive-color }
 > > - *Exhausting*{: .negative-color }
+> >
+>
 > - *5 SP*{: .courage-color }: This Technique gains or loses an instance of one of the following Traits, if it would be appropriate to do so:  
+>
 > {: .content-callout }
 > > - *Group*{: .positive-color }
+> >
 >
 
 {: .content-callout }

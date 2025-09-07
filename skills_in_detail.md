@@ -41,7 +41,7 @@ The Skills mentioned here should be considered the default for their related act
 > - 1: Increase either the Status Level or the duration of one of this Item's Statuses by 1.
 > - 2: If this Item wouldn't normally deal damage, it deals 1 Piercing damage to all targets.
 > - 2: Add an appropriate Status onto this Item's effect, starting at Status Level 1 and lasting for 3 turns.
-> - 3: This Item affects additional targets. If it was a group-target Item, it can affect all targets outside of the user's group.
+> - 3: This Item affects additional targets. If it was a single-target Item, it can affect an entire group. If it was a group-target Item, it can affect all targets outside of the user's group.
 > - 3: The Item isn't consumed during this action; it either remains useable or is in some fashion recoverable, though you may have to wait for a spare moment to retrieve it.
 > 
 > ![](assets/images/scenes/06.png)
@@ -94,8 +94,8 @@ The Skills mentioned here should be considered the default for their related act
 >
 > You make a *Guard*{: .heart-color } check as an action. Until your next turn, your defense is increased by +1 for each Grade of Success.
 >
-> Since you're concentrating on defense, you even get to *[Guard as a reaction]({{ "/skills_in_detail#guard---guarding-reactively" | absolute_url }})*{: .heart-color .underlined } – reducing the damage even further!  
-> This means you can't *Defend*{: .heart-color } and *[Dodge]({{ "/skills_in_detail#trickery---dodging" | absolute_url }})*{: .spirit-color .underlined } at the same time, though, unless some other effect would let you both *Dodge*{: .spirit-color } and *Guard*{: .heart-color } as a reaction.
+> Since you're concentrating on defense, you even get to [*Guard as a reaction*{: .underlined .heart-color }]({{ "/skills_in_detail#guard---guarding-reactively" | absolute_url }}) – reducing the damage even further!  
+> This means you can't *Defend*{: .heart-color } and [*Dodge*{: .underlined .spirit-color }]({{ "/skills_in_detail#trickery---dodging" | absolute_url }}) at the same time, though, unless some other effect would let you both *Dodge*{: .spirit-color } and *Guard*{: .heart-color } as a reaction.
 >
 > You don't have to make any more rolls for this *Guard*{: .heart-color } reaction; you instead use the same Grades of Success you earned for this check, as if you'd rolled them for your reaction.
 >
@@ -112,14 +112,14 @@ The Skills mentioned here should be considered the default for their related act
 > 
 > In battle, you can use *Guard*{: .heart-color } to reduce damage from incoming attacks.  
 >
-> At the end of the round, if any attacks are made that target you, you can react with *either*{: .underlined } a *Guard*{: .heart-color } or a *[Dodge]({{ "/skills_in_detail#trickery---dodging" | absolute_url }})*{: .spirit-color .underlined } check.
+> At the end of the round, if any attacks are made that target you, you can react with *either*{: .underlined } a *Guard*{: .heart-color } or a [*Dodge*{: .underlined .spirit-color }]({{ "/skills_in_detail#trickery---dodging" | absolute_url }}) check.
 >
 > For each Grade of Success, you can reduce the Raw Damage you would take this round (after applying Defense and Resist) by 1 point.  
 > If you're being targeted by multiple strikes, you can assign this damage reduction to any of them as you see fit.
 >
 > By *Guarding*{: .heart-color } you can even ignore an attack's Status effects!  
 > When you reduce an attack's damage to 0 (or less), and you don't have any Weaknesses to consider, you can ignore its Status effects.  
-> Otherwise you may have to resist them with *[Steady]({{ "/skills_in_detail#steady---resisting-effects" | absolute_url }})*{: .underlined .courage-color }, even if your Defense nullified the damage.  
+> Otherwise you may have to resist them with [*Steady*{: .underlined .courage-color }]({{ "/skills_in_detail#steady---resisting-effects" | absolute_url }}), even if your Defense nullified the damage.  
 > If you have a relevant Weakness, its effects are applied after you finish *Guarding*{: .heart-color } – even if you reduced the damage to 0.
 > 
 > {: .example-callout}
@@ -249,7 +249,7 @@ The Skills mentioned here should be considered the default for their related act
 > 
 > - [Items]({{ "/inventory#items" | absolute_url }}) can be made with common materials which can be sourced on the cheap in most settlements, costing no more than half the Item's value.
 > - [Badges]({{ "/inventory#badges" | absolute_url }}) and [Gear]({{ "/inventory#gear" | absolute_url }}) require more valuable and rarer materials, which may take more work to find on the market, or require the crafter to seek them out in the field.
-> - [Power-Ups]({{ "/inventory#power-ups" | absolute_url }}) require some form of magical charge, either taken from rare materials, or crafted with *[Magic]({{ "/skills_in_detail#magic---spontaneous-spells" | absolute_url }})*{: .underlined .spirit-color } assistance (as a Skill Substitution or Skill Enhancement; if you have an ally assisting, you don't necessarily have to do the magic yourself).
+> - [Power-Ups]({{ "/inventory#power-ups" | absolute_url }}) require some form of magical charge, either taken from rare materials, or crafted with [*Magic*{: .underlined .spirit-color }]({{ "/skills_in_detail#magic---spontaneous-spells" | absolute_url }}) assistance (as a Skill Substitution or Skill Enhancement; if you have an ally assisting, you don't necessarily have to do the magic yourself).
 > 
 > If you don't achieve a high enough result, you can either settle for a similar product you could have made with the materials you used instead (such as settling for a Mushroom over a Super Mushroom), accept failure and make a Mistake, or take the time to make another check; each additional check made in this way takes more time, and successive checks without rest require a higher Grade of Success.
 > 
@@ -361,7 +361,7 @@ The Skills mentioned here should be considered the default for their related act
 > 
 > Then just like a normal check, roll your dicepoll, and nudge it along with your unlocked *Spirit*{: .spirit-color }.
 >
-> Keep in mind that *no matter what*{: .underlined .bold }, *Magic*{: .spirit-color } spells can't be used to gain or bestow *FP*{: .spirit-color } or *SP*{: .courage-color } (besides the *SP*{: .courage-color } you'd generate from an *[Exceptional Results]({{ "/grades_of_success#exceptional-results" | absolute_url }})*{: .underlined .courage-color }).
+> Keep in mind that *no matter what*{: .underlined .bold }, *Magic*{: .spirit-color } spells can't be used to gain or bestow *FP*{: .spirit-color } or *SP*{: .courage-color } (besides the *SP*{: .courage-color } you'd generate from an [*Exceptional Results*{: .underlined .courage-color }]({{ "/grades_of_success#exceptional-results" | absolute_url }}).
 >
 > ![](assets/images/scenes/skills-05.png)
 > {: .center-img }
@@ -453,7 +453,7 @@ The Skills mentioned here should be considered the default for their related act
 > > Similarly, *Magic*{: .spirit-color } can be used to temporarily neutralise the target's qualities and other Personal Traits.  
 > > 
 > > Make a *Magic*{: .spirit-color } check and choose a quality the target has (e.g. a Personal Trait, a Status delivered by their attack, or an elemental affinity of their attack); if you succeed, the target suffers a Curse as if it was a Status, temporarily neutralising their ability to use that quality in some fashion.  
-> > They can recover as normal, such as with [Items]({{ "/inventory#items" | absolute_url }}) or *[Steady]({{ "/skills_in_detail#steady---resisting-effects" | absolute_url }})*{: .underlined .courage-color }, and players can make a *Steady*{: .courage-color } check to resist as a reaction, just like any other Status. 
+> > They can recover as normal, such as with [Items]({{ "/inventory#items" | absolute_url }}) or [*Steady*{: .underlined .courage-color }]({{ "/skills_in_detail#steady---resisting-effects" | absolute_url }}), and players can make a *Steady*{: .courage-color } check to resist as a reaction, just like any other Status. 
 > >
 > > The Curse lasts a number of turns equal to your *Magic*{: .spirit-color } dicepool or *Spirit*{: .spirit-color } statpool (whichever's higher).  
 > > For each Grade of Success you earn, you can choose one:
@@ -492,7 +492,7 @@ The Skills mentioned here should be considered the default for their related act
 > > You can select up to your dicepool or *Spirit*{: .spirit-color } pool (whichever's higher) in positive Traits, and the same amount again in negative Traits, as long as the *FP cost*{: .spirit-color } for the combined Traits doesn't exceed the effective cost.  
 > >
 > > As this isn't an Innate Technique, and you're not directly attacking, it works a bit differently to a normal attack.  
-> > None of your own Tech Defaults are included in the Technique, you don't include your Attack modifier, and since you're not rolling the actual Technique's check you can benefit from *[Exceptional Techniques]({{ "/exceptional_techniques" | absolute_url }})*{: .courage-color .underlined }.  
+> > None of your own Tech Defaults are included in the Technique, you don't include your Attack modifier, and since you're not rolling the actual Technique's check you can't benefit from [*Exceptional Techniques*{: .underlined .courage-color }]({{ "/exceptional_techniques" | absolute_url }}).  
 > > You can however add *Indirect*{: .positive-color }, *Ranged*{: .positive-color } and/or *Harmless*{: .negative-color } as Tech Defaults for no additional cost; this is simply the nature of *Magic*{: .spirit-color }.  
 > >
 > > You don't pay the effective cost, or make any further checks – the Technique simply resolves with the qualities you chose to give it based on your *Magic*{: .spirit-color } check.
@@ -566,7 +566,7 @@ The Skills mentioned here should be considered the default for their related act
 > The Stars watch over everything, like an audience watching the stage. Heroes, villains and all creatures in between can count on their favour if they play to the crowd.  
 > Whether it's through prayer, focus or showboating, the Stars reward you for great showmanship.  
 >
-> Make a *Perform*{: .courage-color } check; *[Exceptional Successes]({{ "/grades_of_success#exceptional-results" | absolute_url }})*{: .underlined .courage-color } don't generate *SP*{: .courage-color } during this action, but a successful action immediately adds *2 SP*{: .courage-color } to your pool.  
+> Make a *Perform*{: .courage-color } check; [*Exceptional Successes*{: .underlined .courage-color }]({{ "/grades_of_success#exceptional-results" | absolute_url }}) don't generate *SP*{: .courage-color } during this action, but a successful action immediately adds *2 SP*{: .courage-color } to your pool.  
 > Add an extra *+2 SP*{: .courage-color } for each additional Grade of Success.  
 >
 > Repetitive Appeals get to be a bore, with each follow-up check requiring a higher Grade of Success.  
@@ -590,8 +590,8 @@ The Skills mentioned here should be considered the default for their related act
 > You can even make a Stylish Move when using *Magic*{: .spirit-color }, though you still pay *FP*{: .spirit-color } as normal.
 > 
 > Nailing a Stylish Move is tricky, requiring one more Grade of Success than usual.  
-> If you succeed you add *2 SP*{: .courage-color } to your pool, and *double the SP*{: .courage-color } you would have generated from an *[Exceptional Result]({{ "/grades_of_success#exceptional-results" | absolute_url }})*{: .underlined .courage-color }!  
-> Since this *SP*{: .courage-color } is added directly to your pool, you can't spend it on *[Exceptional Techniques]({{ "/exceptional_techniques" | absolute_url }})*{: .courage-color .underlined }; the thrill of the spotlight must surely be its own reward!
+> If you succeed you add *2 SP*{: .courage-color } to your pool, and *double the SP*{: .courage-color } you would have generated from an [*Exceptional Result*{: .underlined .courage-color }]({{ "/grades_of_success#exceptional-results" | absolute_url }})!  
+> Since this *SP*{: .courage-color } is added directly to your pool, you can't spend it on [*Exceptional Techniques*{: .underlined .courage-color }]({{ "/exceptional_techniques" | absolute_url }}); the thrill of the spotlight must surely be its own reward!
 >
 > Your effective *Perform*{: .courage-color } Skill is limited by your value in the Skill being substituted, including any of its relevant Specialisations.  
 > Any extra dice you'd receive for *Perform*{: .courage-color }, such as from your [Badges]({{ "/inventory#badges" | absolute_url }}), your *Perform*{: .courage-color } Specialisations or Boosts, are added to the pool after your *Perform*{: .courage-color } is limited.

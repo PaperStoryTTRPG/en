@@ -93,7 +93,7 @@ The Grades of Success they scored for Initiative are instead used for their Prim
 When the chips are down, players generally can't carry out more than one action on their turn.  
 But there are cases where taking action is so straightforward, they don't have to think about it.
 
-Whenever something calls for a reaction (such as *[Guarding]({{ "/skills_in_detail#guard---guarding-reactively" | absolute_url }})*{: .underlined .heart-color }), or a free action (such as [Charming]({{ "/example_of_play" | absolute_url }}) foes), players can carry it out and make any rolls necessary without using up their own actions. 
+Whenever something calls for a reaction (such as [*Guarding*{: .underlined .heart-color }]({{ "/skills_in_detail#guard---guarding-reactively" | absolute_url }})), or a free action (such as [Charming]({{ "/example_of_play" | absolute_url }}) foes), players can carry it out and make any rolls necessary without using up their own actions. 
 
 ## Targeting
 
@@ -103,7 +103,7 @@ Most attacks are made in melee range. Line up your groups and imagine a line bet
 If however a target is Flying or otherwise out of reach, they can't be targeted in melee and will generally require *Ranged*{: .positive-color }, *Reach*{: .positive-color } or *Aerial*{: .positive-color } Techniques.  
 The good news is they're not able to block you off from other targets.
 
-The same general rules apply to players – if you want to protect your teammates, you usually want to be standing in front of them, but it becomes harder to stop ranged or airborne attackers. If you need to get in front of your teammates, try *[Swapping]({{ "/skills_in_detail#coordination---swapping" | absolute_url }})*{: .heart-color .underlined } positions.
+The same general rules apply to players – if you want to protect your teammates, you usually want to be standing in front of them, but it becomes harder to stop ranged or airborne attackers. If you need to get in front of your teammates, try [*Swapping*{: .underlined .heart-color }]({{ "/skills_in_detail#coordination---swapping" | absolute_url }}) positions.
 
 ![](assets/images/scenes/02.png)
 {: .center-img }

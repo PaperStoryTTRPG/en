@@ -12,8 +12,10 @@ Paper Story is a roleplaying game rooted in the design of the classic Paper Mari
 
 If you want to talk about or play Paper Story, feel free to join us on the Discord!  
 [https://discord.gg/AUQJmKH5pf]()  
-If you prefer scrolling on the web to flicking through a book, Paper Story has its very own wiki!
+
+If you prefer scrolling on the web to flicking through a book, Paper Story has its very own wiki!  
 [https://paperstoryttrpg.github.io/en/]() *(Yes you are already on it. Welcome!)*{: .fs-3 }
+
 And if you stumbled onto this game and don't know where to look for more information, you can always find it in its home at Itch.  
 [https://joy-games.itch.io/paper-story]()
 

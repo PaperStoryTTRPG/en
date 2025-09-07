@@ -36,7 +36,7 @@ Finally, if a Status is mentioned without specifying its Level, assume it's Leve
 > Your abilities are Boosted, increasing them by the Status Level for the duration of this status.  
 >
 > You can Boost Attack, Defense, Resists, a Stat or a Skill, though your *HP*{: .heart-color }, *FP*{: .spirit-color } and *BP*{: .courage-color } are never affected by this.  
-> Boosts can be even more specific, targeting specific uses of a Skill (such as *[Dodging]({{ "/skills_in_detail#trickery---dodging" | absolute_url }})*{: .spirit-color .underlined } or attacking).  
+> Boosts can be even more specific, targeting specific uses of a Skill (such as [*Dodging*{: .underlined .spirit-color }]({{ "/skills_in_detail#trickery---dodging" | absolute_url }}) or attacking).  
 >
 > When an enemy has their Stats or Skills Boosted, players suffer an equivalent dice penalty against Boosted actions; for example, an enemy's Boosted *Coordination*{: .heart-color } could take dice away from players when they *Guard*{: .heart-color } against their attacks. 
 

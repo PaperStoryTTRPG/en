@@ -31,7 +31,7 @@ nav_order: 8
 > 
 > For details on attacks (which sometimes use *Aim*{: .heart-color }), see [Techniques]({{ "/techniques" | absolute_url }}).
 >
-> For rules on aiming Items in combat, see *[Aim – Item Attacks]({{ "/skills_in_detail#aim---item-attacks" | absolute_url }})*{: .underlined .heart-color }.
+> For rules on aiming Items in combat, see [*Aim – Item Attacks*{: .underlined .heart-color }]({{ "/skills_in_detail#aim---item-attacks" | absolute_url }}).
 >
 > *Specialisations include: Bows, Items, Shoot*{: .italic }
 
@@ -41,7 +41,7 @@ nav_order: 8
 >
 > Your ability to run, jump, swim, grapple, flex your muscles and all sorts of maneuvers. Even things that other species can't do naturally, such as a Koopa's shell slide, a Bob-Omb's explosions or a Hothead's static charge, can be considered *Athletic*{: .heart-color } ability.
 >
-> For rules on escaping from combat, see *[Athletics – Fleeing]({{ "/skills_in_detail#athletics---fleeing" | absolute_url }})*{: .underlined .heart-color }.
+> For rules on escaping from combat, see [*Athletics – Fleeing*{: .underlined .heart-color }]({{ "/skills_in_detail#athletics---fleeing" | absolute_url }}).
 >
 > *Specialisations include: Brawn, Jump, Run*{: .italic }
 
@@ -53,7 +53,7 @@ nav_order: 8
 >
 > For details on attacks (which usually rely on *Coordination*{: .heart-color }), see [Techniques]({{ "/techniques" | absolute_url }}).
 >
-> For rules on swapping battle position, see *[Coordination – Swapping]({{ "/skills_in_detail#coordination---swapping" | absolute_url }})*{: .underlined .heart-color }.
+> For rules on swapping battle position, see [*Coordination – Swapping*{: .underlined .heart-color }]({{ "/skills_in_detail#coordination---swapping" | absolute_url }}).
 > 
 > *Specialisations include: Hammers, Lockpicking, Unarmed*{: .italic }
 
@@ -63,7 +63,7 @@ nav_order: 8
 > 
 > Your ability to consciously defend yourself from all manner of harm.
 >
-> For the specifics of resisting attacks in combat as a passive or reactive action, see *[Guard – Defending Actively]({{ "/skills_in_detail#guard---defending-actively" | absolute_url }})*{: .underlined .heart-color } and *[Guard – Guarding Reactively]({{ "/skills_in_detail#guard---guarding-reactively" | absolute_url }})*{: .underlined .heart-color }.
+> For the specifics of resisting attacks in combat as a passive or reactive action, see [*Guard – Defending Actively*{: .underlined .heart-color }]({{ "/skills_in_detail#guard---defending-actively" | absolute_url }}) and [*Guard – Guarding Reactively*{: .underlined .heart-color }]({{ "/skills_in_detail#guard---guarding-reactively" | absolute_url }}).
 >
 > *Specialisations include: VS Melee, VS Ranged, VS Aerial*{: .italic }
 
@@ -73,9 +73,9 @@ nav_order: 8
 > 
 > Your ability to perform first aid and concoct certain remedies, allowing you to get by without stopping to rest, or to improve the Items you use.
 >
-> For rules on recovering *HP*{: .heart-color } and Statuses in the field, see *[Heal – First Aid]({{ "/skills_in_detail#heal---first-aid" | absolute_url }})*{: .underlined .heart-color }.
+> For rules on recovering *HP*{: .heart-color } and Statuses in the field, see [*Heal – First Aid*{: .underlined .heart-color }]({{ "/skills_in_detail#heal---first-aid" | absolute_url }}).
 >
-> For rules on getting the most out of your Items, see *[Heal – Administering Medicine]({{ "/skills_in_detail#heal---administering-medicine" | absolute_url }})*{: .underlined .heart-color }.
+> For rules on getting the most out of your Items, see [*Heal – Administering Medicine*{: .underlined .heart-color }]({{ "/skills_in_detail#heal---administering-medicine" | absolute_url }}).
 >
 > *Specialisations include: First Aid, Mushrooms, VS Poison*{: .italic }
 
@@ -91,9 +91,9 @@ nav_order: 8
 >
 > Your knowledge of all things crafts, whether you're building, refining or even taking things apart. Bob-Ombs have even been known to use this Skill when demolishing large objects and structures.
 >
-> For rules on making specific Items from scratch, see *[Crafts – Working From Scratch]({{ "/skills_in_detail#crafts---working-from-scratch" | absolute_url }})*{: .underlined .spirit-color }.
+> For rules on making specific Items from scratch, see [*Crafts – Working From Scratch*{: .underlined .spirit-color }]({{ "/skills_in_detail#crafts---working-from-scratch" | absolute_url }}).
 >
-> For rules on refining or combining consumable Items, see *[Crafts – Enhancing and Mixing Items]({{ "/skills_in_detail#crafts---enhancing-and-mixing" | absolute_url }})*{: .underlined .spirit-color }.
+> For rules on refining or combining consumable Items, see [*Crafts – Enhancing and Mixing Items*{: .underlined .spirit-color }]({{ "/skills_in_detail#crafts---enhancing-and-mixing" | absolute_url }}).
 >
 > *Specialisations include: Alchemy, Demolition, Gadgets*{: .italic }
 
@@ -103,7 +103,7 @@ nav_order: 8
 > 
 > Your knowledge and studiousness, both general and specific. Your GM may disallow you from making *Knowhow*{: .spirit-color } checks in certain situations without an appropriate Specialisation, or may make them more difficult, but general knowledge about places and enemies only requires you make a check.
 >
-> For rules on gathering intel during battle, see *[Knowhow – Tattling]({{ "/skills_in_detail#knowhow---tattling" | absolute_url }})*{: .underlined .spirit-color }.
+> For rules on gathering intel during battle, see [*Knowhow – Tattling*{: .underlined .spirit-color }]({{ "/skills_in_detail#knowhow---tattling" | absolute_url }}).
 >
 > *Specialisations include: Archaeology, Battle, Wildlife*{: .italic }
 
@@ -113,7 +113,7 @@ nav_order: 8
 > 
 > Your knowledge of arcane secrets. This helps you to power magical effects you encounter in your adventures (such as through [Badges]({{ "/inventory#badges" | absolute_url }}) or [Power-Ups]({{ "/inventory#power-ups" | absolute_url }})), and can be used to gain insight on magical effects and artifacts.
 >
-> *Magic*{: .spirit-color } can also be used for more powerful spells, such as to temporarily emulate other abilities and skills; for more details, see *[Magic – Spontaneous Spells]({{ "/skills_in_detail#magic---spontaneous-spells" | absolute_url }})*{: .underlined .spirit-color }.
+> *Magic*{: .spirit-color } can also be used for more powerful spells, such as to temporarily emulate other abilities and skills; for more details, see [*Magic – Spontaneous Spells*{: .underlined .spirit-color }]({{ "/skills_in_detail#magic---spontaneous-spells" | absolute_url }}).
 >
 > *Specialisations include: Fire, Life, Shape-Change*{: .italic }
 
@@ -131,7 +131,7 @@ nav_order: 8
 > 
 > Your knowledge of stealth, lies and deception. *Trickery*{: .spirit-color } can help you outsmart people and run circles around your foes.
 >
-> For rules on dodging attacks in combat, see *[Trickery – Dodging]({{ "/skills_in_detail#trickery---dodging" | absolute_url }})*{: .underlined .spirit-color }.
+> For rules on dodging attacks in combat, see [*Trickery – Dodging*{: .underlined .spirit-color }]({{ "/skills_in_detail#trickery---dodging" | absolute_url }}).
 >
 > *Specialisations include: Bluff, Stealth, Theft*{: .italic }
 
@@ -153,9 +153,9 @@ nav_order: 8
 > ## Cheer
 > {: .courage-color }
 > 
-> Your talent for inspiring others to do their best. *Cheer*{: .courage-color } is great for assisting others; for more details, see *[Cheer – Cheering People On]({{ "/skills_in_detail#cheer---cheer-people-on" | absolute_url }})*{: .underlined .courage-color }.
+> Your talent for inspiring others to do their best. *Cheer*{: .courage-color } is great for assisting others; for more details, see [*Cheer – Cheering People On*{: .underlined .courage-color }]({{ "/skills_in_detail#cheer---cheer-people-on" | absolute_url }}).
 > 
-> You can also use *Cheer*{: .courage-color } to boost people's *FP*{: .spirit-color } or *SP*{: .courage-color }; for details, see *[Cheer – Motivating Energy]({{ "/skills_in_detail#cheer---cheering-people-on" | absolute_url }})*{: .underlined .courage-color }.
+> You can also use *Cheer*{: .courage-color } to boost people's *FP*{: .spirit-color } or *SP*{: .courage-color }; for details, see [*Cheer – Motivating Energy*{: .underlined .courage-color }]({{ "/skills_in_detail#cheer---cheering-people-on" | absolute_url }}).
 >
 > *Specialisations include: **Athletics**{: .heart-color }, **FP**{: .spirit-color }, Pump Up*{: .italic }
 
@@ -175,7 +175,7 @@ nav_order: 8
 >
 > Your talent for performance, be it song, dance or otherwise.
 >
-> The Stars shine brightly on those who can appeal to them; for details, see *[Perform – Appeals]({{ "/skills_in_detail#perform---appeals" | absolute_url }})*{: .underlined .courage-color } and *[Perform – Stylish Moves]({{ "/skills_in_detail#perform---stylish-moves" | absolute_url }})*{: .underlined .courage-color }.
+> The Stars shine brightly on those who can appeal to them; for details, see [*Perform – Appeals*{: .underlined .courage-color }]({{ "/skills_in_detail#perform---appeals" | absolute_url }}) and [*Perform – Stylish Moves*{: .underlined .courage-color }]({{ "/skills_in_detail#perform---stylish-moves" | absolute_url }}).
 >
 > *Specialisations include: Appeal, Sing, Stylish Moves*{: .italic }
 
@@ -185,7 +185,7 @@ nav_order: 8
 >
 > Your talent for keeping your cool, whether it's a balancing act, not sweating under pressure or fending off a deadly poison. *Steady*{: .courage-color } is especially useful for [Power-Ups]({{ "/inventory#power-ups" | absolute_url }}) and a variety of [Personal Traits]({{ "/personal_traits" | absolute_url }}).
 >
-> For resisting status ailments and other conditions, see *[Steady – Resisting Effects]({{ "/skills_in_detail#steady---resisting-effects" | absolute_url }})*{: .underlined .courage-color }.
+> For resisting status ailments and other conditions, see [*Steady – Resisting Effects*{: .underlined .courage-color }]({{ "/skills_in_detail#steady---resisting-effects" | absolute_url }}).
 >
 > *Specialisations include: Etiquette, Poise, VS Poison*{: .italic }
 
