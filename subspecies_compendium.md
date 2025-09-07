@@ -17,11 +17,11 @@ nav_order: 26
 {:toc}
 </details>
 
-Subspecies aren't playable species in and of themselves; instead, they act as templates you can apply to existing species. They can be applied to any of the existing species, as long as your character's final Stats aren't reduced below 0.
+Subspecies aren't playable Species in and of themselves; instead, they act as templates you can apply to existing species. They can be applied to any of the existing Species, as long as they meet the requirements and your character's final Stats aren't reduced below 0.
 
-See the example subspecies on the next page for a quick guide on how to use these templates.
+See the example Subspecies on the next page for a quick primer, and a sample of some of the most common Subspecies.
 
-Above all else, keep in mind that this is intended to easily put together unique concepts not covered by the base species; if a particular combination of species and subspecies doesn't work the way you'd like, or you think certain qualities should be available to your concept, try talking it over with your GM.
+Above all else, keep in mind that this is intended to easily put together unique concepts not covered by the base Species; if a particular combination of Species and Subspecies doesn't work the way you'd like, or you think certain qualities should be available to your concept, try talking it over with your GM.
 
 {: .subspecie-callout }
 > ## Subspecies- 
@@ -31,7 +31,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > {: .float-right-desktop }
 > A description of the subspecies and how they fit into the world.
 >
-> *Examples of pre-existing creatures which the subspecies could be used to create.*{: .italic }
+> *[Tags]*{: .header-font } *Examples of pre-existing creatures which the subspecies could be used to create.*{: .italic }
 >
 > *Stat Modifiers*{: .text-gamma .header-font }  
 > *Power/Defense Modifiers*{: .text-gamma .header-font }  
@@ -40,10 +40,10 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > *Add*{: .text-gamma .header-font }  
 > > The Pros – and Cons – that come with this subspecies, these are added onto the existing species.
 > >
-> > If a subspecies would add anything that the existing species already has, *only one*{: .underlined } instance of that trait is kept – typically the highest value or the worst Weakness.
+> > If a subspecies would duplicate any traits, *only one*{: .bold .underlined } instance of that trait is kept – typically the most impactful instance (the strongest value, or the worst Weakness, for instance).
 > >
 > > This can be subjective, so check with your GM if you're not sure.  
-> > This doesn't apply to anything with a + sign; if a subspecies adds +1 Defense, it adds on top of the base species' Defense.
+> > This doesn't apply to anything with a + sign; if a subspecies adds +1 Defense, that means it stacks directly onto your Defense!
 > >
 > > If an Immunity conflicts with a Weakness, with no remaining window for the Weakness to take effect, the Weakness is completely removed from the final species.
 >
@@ -53,14 +53,14 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > 
 > > If multiple subspecies are being applied, this applies retroactively; the order you apply subspecies templates doesn't matter. If you'd lose something at any point in the process, typically, the final species can't have it.
 > >
-> > If however a character would gain something through this subspecies, but it's listed for removal on *the same subspecies*{: .underlined }, they still keep it.
+> > If however a character would gain something through this subspecies, but it's listed for removal on *the same subspecies*{: .bold .underlined }, they still keep it; additions take priority over removals!
 >
 > {: .specie-inner-callout }
 > > *Added Tech Defaults*{: .text-gamma .header-font }  
 > >
 > > Sets of Technique Traits a character of this subspecies can include when they start designing a Technique, without affecting its cost.
 > >
-> > *No matter what*{: .underlined }, if you apply a subspecies, the final species can't have more than 4 Tech Default sets (not counting *optional*{: .underlined .italic } or *required*{: .underlined .italic } sets). If you would have more than that, you have to choose what to keep and what to drop. 
+> > *No matter what*{: .bold .underlined }, if you apply a subspecies, the final species can't have more than 4 Tech Default sets (not counting *optional*{: .underlined .italic } or *required*{: .underlined .italic } sets). If you would have more than that, you have to choose what to keep and what to drop. 
 > > 
 > > If an effect is listed as "+ *Optional*{: .underlined .italic }", and you've taken the associated Tech Default on the subspecies, then you add the *optional*{: .underlined .italic } effect to the final species.
 > > 
@@ -86,90 +86,15 @@ Above all else, keep in mind that this is intended to easily put together unique
 {: .species-separator }
 
 {: .subspecie-callout }
-> ## Aqua- 
->
-> ![](assets/images/species/sub/aqua.png)
-> {: .float-right-desktop }
-> Aqua creatures are mostly composed of water. They don't stray far from the water, so they're rarely seen and a good deal more skittish than average, but in and out of the water, they're incredibly graceful.
->
-> *e.g. Bubble Blooper, Nep-Enut*{: .italic }
->
-> ***+1 Spirit**{: .spirit-color }, **-1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
->
-> {: .specie-inner-callout }
-> > *Add*{: .text-gamma .header-font }  
-> > *+ Athletics (Swim)*{: .heart-color }  
-> > *+ Knowhow (Fresh Water)*{: .spirit-color }  
-> > *or **+ Knowhow (Ocean)**{: .spirit-color }*{: .mgl }  
-> > *+ Notice (Underwater)*{: .spirit-color }  
-> > Other Element Traits cost *+1 FP*{: .spirit-color }  
-> > *This doesn't apply to Tech Defaults*{: .mgl .fs-3 }  
-> > Elemental damage from Contact becomes Water damage  
-> > *This applies to the final species' traits, but doesn't apply to untyped damage (e.g. from Spiny-) or other effects (e.g. from Items).*{: .mgl .fs-3 }  
-> > Immune (Water)  
-> > *You heal **+5 HP**{: .heart-color } instead.*{: .mgl .fs-3 }  
-> > \+ 2 Resist (Fire)  
-> > Weakness (Ice, Shock)  
-> > *You take double damage. If this Technique wouldn't usually deal damage, it deals 2 Piercing damage.*{: .mgl .fs-3 }  
-> > *You're left Dazed (1) for a number of turns equal to the damage taken.*{: .mgl .fs-3 }  
-> > Weakness (Poison)  
-> > *The Level and Duration of all statuses you suffer associated with poisons are doubled.*{: .mgl .fs-3 }  
-> > Aquatic  
-> > Carrier (In Water)
-> >
->
-> {: .specie-inner-callout }
-> > *Remove*{: .text-gamma .header-font }  
-> > Specialisations from the base species in *Athletics*{: .heart-color }, *Crafts*{: .spirit-clor } and *Notice*{: .spirit-color }; remove any remaining specialisations from the final species one at a time until you have at most 3
-> >
-> > Immune/Resist (Ice, Poison, Shock)  
-> > Weakness (Fire, Magic, Water)
-> >
-> > Sinker
-> > 
->
-> {: .specie-inner-callout }
-> > *Added Tech Defaults*{: .text-gamma .header-font }  
-> >
-> > Element (Water)  
-> > *+ **Optional**{: .underlined }: Element (Water) on attacks and Indirect or Ranged Techniques*{: .mgl .fs-3 }  
-> > *Spillover*{: .alt-grey-line }  
-> > Terrain  
-> > *Rain or Underwater only; choose during character creation*{: .mgl .fs-3 }  
-> > *Weaken (Attack)*{: .alt-grey-line }
-> >
->
-> {: .specie-inner-callout }
-> > *Removed Tech Defaults*{: .text-gamma .header-font }  
-> >
-> > Aerial  
-> > *Element (Fire, Ice, Shock)*{: .alt-grey-line }  
-> > Piercing  
-> > *Quake*{: .alt-grey-line }  
-> > Stun  
-> > *Underfoot*{: .alt-grey-line }
-> >
->
-> {: .specie-inner-callout }
-> > *Conditions*{: .text-gamma .header-font }  
-> >
-> > The final species can't combine Aqua-, Blooming-, Breezy-, Electric-, Flame-, Frosty- or Rugged-. 
-> >
-> > Can't be combined with Marine- or Para-.
-> >
->
-
----
-{: .species-separator }
-
-{: .subspecie-callout }
 > ## Blessed- 
 >
 > ![](assets/images/species/sub/blessed.png)
 > {: .float-right-desktop }
-> Blessed creatures have the radiance of the stars themselves, whether it's inherited, earned or through some other twist of fate. Though rare, their presence brings great comfort to people around the world, and many have risen to greatness – though, to be sure, there's nothing inherently good in the Stars' blessings. They work in mysterious ways.
+> Blessed creatures have the radiance of the stars themselves, whether it's inherited, earned or through some other twist of fate.  
+> Though rare, their presence brings great comfort to people around the world, and many have risen to greatness – though, to be sure, there's nothing inherently good in the Stars' blessings.  
+> They work in mysterious ways.
 >
-> *e.g. Bulb Yoshi, Nimbi*{: .italic }
+> *[Alignment]*{: .header-font } *e.g. Bulb Yoshi, Nimbi*{: .italic }
 >
 > ***-1 Spirit**{: .spirit-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
 >
@@ -185,7 +110,10 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > Immune (Poison)  
 > > Weakness (Shadow)  
 > > *You take double damage; if this Technique wouldn't usually deal damage, it deals 2 Piercing damage.*{: .mgl .fs-3 }  
-> > *You're left Dazed (1) for a number of turns equal to the damage taken.*{: .mgl .fs-3 }
+> > *You're left Dazed (1) for a number of turns equal to the damage taken.*{: .mgl .fs-3 }  
+> > Devotion (Light)  
+> > *Non-Light elements are restricted.*{: .mgl .fs-3 }  
+> > Efficient (Light)
 > >
 >
 > {: .specie-inner-callout }
@@ -203,7 +131,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > Charm  
 > > *Dismiss*{: .alt-grey-line }  
 > > Element (Light/Stars)  
-> > *+ **Optional**{: .underlined }: Element (Light/Stars) on attacks and Indirect or Ranged Techniques*{: .mgl .fs-3 }  
+> > *+ **Optional**{: .underlined }: Element (Light/Stars) on Indirect or Ranged Techniques*{: .mgl .fs-3 }  
 > > *Hearty x2*{: .alt-grey-line }  
 > > Safe
 > >
@@ -222,158 +150,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > {: .specie-inner-callout }
 > > *Conditions*{: .text-gamma .header-font }  
 > >
-> > Can't be combined with Shadow-.
-> >
->
-
----
-{: .species-separator }
-
-{: .subspecie-callout }
-> ## Blooming- 
->
-> ![](assets/images/species/sub/blooming.png)
-> {: .float-right-desktop }
-> Blooming creatures are a rare sight, as they prefer to live amongst the trees and other plantlife – either as their caretakers, or simply because it's a comfortable home.
->
-> *e.g. Flifit, Petal Guy*{: .italic }
->
-> ***+1 Spirit**{: .spirit-color }, **-1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
->
-> {: .specie-inner-callout }
-> > *Add*{: .text-gamma .header-font }  
-> > *+ Heal (Photosynthesis)*{: .heart-color }  
-> > *+ Knowhow (Plants)*{: .spirit-color }  
-> > *+ Persuade (Charm)*{: .courage-color }  
-> > Other Element Traits cost *+1 FP*{: .spirit-color }  
-> > *This doesn't apply to Tech Defaults*{: .mgl .fs-3 }  
-> > Elemental damage from Contact becomes Earth damage  
-> > *This applies to the final species' traits, but doesn't apply to untyped damage (e.g. from Spiny-) or other effects (e.g. from Items).*{: .mgl .fs-3 }  
-> > Immune (Water)  
-> > *You heal **+5 HP**{: .heart-color } instead.*{: .mgl .fs-3 }  
-> > \+ 2 Resist (Earth)  
-> > Weakness (Fire)  
-> > *You take +2 damage and suffer from a Lingering (1) burn, lasting a number of turns equal to the damage taken.*{: .mgl .fs-3 }  
-> > Weakness (Poison)  
-> > *The Level and Duration of all Lingering poisons you suffer are doubled.*{: .mgl .fs-3 }  
-> > Elevation  
-> > *Requires elevated earth to burrow into.*{: .mgl .fs-3 }
-> >
->
-> {: .specie-inner-callout }
-> > *Remove*{: .text-gamma .header-font }  
-> > Specialisations from the base species in *Guard*{: .heart-color }, *Bully*{: .courage-color } and *Steady*{: .courage-color }; remove any remaining specialisations from the final species one at a time until you have at most 3
-> >
-> > Immune/Resist (Fire, Poison)  
-> > Weakness (Earth, Magic, Water)
-> > 
-> > Construct  
-> > Sinker  
-> > Undead
-> > 
->
-> {: .specie-inner-callout }
-> > *Added Tech Defaults*{: .text-gamma .header-font }  
-> >
-> > Element (Earth)  
-> > *+ **Optional**{: .underlined }: Element (Earth) on attacks and Indirect or Ranged Techniques*{: .mgl .fs-3 }  
-> > *Flowery*{: .alt-grey-line }  
-> > *+ **Optional**{: .underlined }: Split on Flowery Techniques*{: .mgl .fs-3 .alt-grey-line }  
-> > Reach  
-> > *Terrain (Overgrown)*{: .alt-grey-line }
-> >
->
-> {: .specie-inner-callout }
-> > *Removed Tech Defaults*{: .text-gamma .header-font }  
-> >
-> > Element (Fire)  
-> > *Launch*{: .alt-grey-line }  
-> > Lingering  
-> > *Piercing*{: .alt-grey-line }  
-> > Throw
-> >
->
-> {: .specie-inner-callout }
-> > *Conditions*{: .text-gamma .header-font }  
-> >
-> > The final species can't combine Aqua-, Blooming-, Breezy-, Electric-, Flame-, Frosty- or Rugged-. 
-> >
-> > Can't be combined with Dank-, Mecha- or Metal-. 
-> >
->
-
----
-{: .species-separator }
-
-{: .subspecie-callout }
-> ## Breezy- 
->
-> ![](assets/images/species/sub/breezy.png)
-> {: .float-right-desktop }
-> Breezy creatures are rare sights, creatures who seem to embody the wind. They're exceptionally fleet-footed, but less hardy than the norm. Whether they're flying gracefully through the air or gliding over the ground, a Breezy creature on the move is a wonder to behold.
->
-> *e.g. Ty-Foo, Woollet Bill*{: .italic }
->
-> ***-1 Heart**{: .heart-color }, **+1 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
->
-> {: .specie-inner-callout }
-> > *Add*{: .text-gamma .header-font }  
-> > *+ Athletics (Fly)*{: .heart-color }  
-> > *or **+ Athletics (Jump)**{: .heart-color }*{: .mgl }  
-> > *or **+ Athletics (Run)**{: .heart-color }*{: .mgl }  
-> > *+ Knowhow (Weather)*{: .spirit-color }  
-> > *+ Bully (Shove)*{: .courage-color }  
-> > Other Element Traits cost *+1 FP*{: .spirit-color }  
-> > *This doesn't apply to Tech Defaults*{: .mgl .fs-3 }  
-> > Elemental damage from Contact becomes Air damage  
-> > *This applies to the final species' traits, but doesn't apply to untyped damage (e.g. from Spiny-) or other effects (e.g. from Items).*{: .mgl .fs-3 }  
-> > \+ 2 Resist (Air, Ice)  
-> > Weakness (Earth, Shock)  
-> > *You take +2 damage, and are Dazed (1) for a number of turns equal to the damage taken. Your Hover and Fly traits (if applicable) are negated while you're Dazed, leaving you grounded.*{: .mgl .fs-3 }  
-> > Carrier  
-> > Either Fly *or*{: .italic } Hover  
-> >
->
-> {: .specie-inner-callout }
-> > *Remove*{: .text-gamma .header-font }  
-> > Specialisations from the base species in *Guard*{: .heart-color }, *Knowhow*{: .spirit-color } and *Steady*{: .courage-color }; remove any remaining specialisations from the final species one at a time until you have at most 3
-> >
-> > Immune/Resist (Earth, Shock)  
-> > Weakness (Ice, Magic)
-> > 
-> > Aquatic  
-> > Fly  
-> > Hover  
-> > Sinker
-> > 
->
-> {: .specie-inner-callout }
-> > *Added Tech Defaults*{: .text-gamma .header-font }  
-> >
-> > Disorient  
-> > *Element (Air)*{: .alt-grey-line }  
-> > *+ **Optional**{: .underlined }: Element (Air) on attacks and Indirect or Ranged Techniques*{: .mgl .fs-3 .alt-grey-line }  
-> > Launch  
-> > *Terrain (Elevated or Gale)*{: .alt-grey-line }  
-> > *Choose during character creation*{: .mgl .fs-3 .alt-grey-line }
-> >
->
-> {: .specie-inner-callout }
-> > *Removed Tech Defaults*{: .text-gamma .header-font }  
-> >
-> > Element (Earth, Shock)  
-> > *Lingering*{: .alt-grey-line }  
-> > Piercing  
-> > *Quake*{: .alt-grey-line }  
-> > Underfoot
-> >
->
-> {: .specie-inner-callout }
-> > *Conditions*{: .text-gamma .header-font }  
-> >
-> > The final species can't combine Aqua-, Blooming-, Breezy-, Charged-, Flame-, Frosty- or Rugged-. 
-> >
-> > Can't be combined with Marine- or Para-. 
+> > Can't be combined with other *[Alignment]*{: .header-font } subspecies.
 > >
 >
 
@@ -387,7 +164,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > {: .float-right-desktop }
 > Bulky creatures are larger and far more imposing than their brethren. While they're less capable in most fields, they more than make up for it in their power and stamina.
 >
-> *e.g. Boom Boom, Bulky Bob-Omb*{: .italic }
+> *[Size]*{: .header-font } *e.g. Boom Boom, Bulky Bob-Omb*{: .italic }
 >
 > ***+2 Heart**{: .heart-color }, **-1 Spirit**{: .spirit-color }, **-1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
 > *+1 Power*{: .text-gamma .header-font }  
@@ -398,7 +175,8 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > *+ Guard (Melee)*{: .heart-color }  
 > > *+ Steady (Poise)*{: .courage-color }  
 > > Carrier  
-> > Hover (if this subspecies would remove Fly from the final species)
+> > Hover  
+> > *(if this subspecies would remove Fly from the final species)*{: .mgl .fs-3 }
 > >
 >
 > {: .specie-inner-callout }
@@ -431,7 +209,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > {: .specie-inner-callout }
 > > *Conditions*{: .text-gamma .header-font }  
 > >
-> > Can't be combined with Mini-.
+> > Can't be combined with other *[Size]*{: .header-font } subspecies.
 > >
 >
 
@@ -443,7 +221,8 @@ Above all else, keep in mind that this is intended to easily put together unique
 >
 > ![](assets/images/species/sub/dank.png)
 > {: .float-right-desktop }
-> Creatures that thrive underground aren't much different from their surface-dwelling counterparts, but tend to be somewhat hardier and a good deal less pleasant. They tend to lack ambition, settling for whatever they can get, which pairs poorly with the few opportunities they have.
+> Creatures that thrive underground aren't much different from their surface-dwelling counterparts, but tend to be somewhat hardier and a good deal less pleasant.  
+> They tend to lack ambition, settling for whatever they can get, which pairs poorly with the few opportunities they have.
 >
 > *e.g. Dark Craw, Gloomba*{: .italic }
 >
@@ -454,7 +233,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > *+ Notice (Dark Places)*{: .spirit-color }  
 > > *+ Trickery (Darkness)*{: .spirit-color }  
 > > *+ Bully (Status)*{: .courage-color }  
-> > \+ 1 Resist (Poison)  
+> > +1 Resist (Poison)  
 > > Weakness (Sudden Light)  
 > > *You are stunned by the light, Dazing (1) you for a turn for each point of damage taken (minimum 1 turn).*{: .mgl .fs-3 }
 > >
@@ -486,7 +265,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > {: .specie-inner-callout }
 > > *Conditions*{: .text-gamma .header-font }  
 > >
-> > Can't be combined with Blooming-.
+> > N/A
 > >
 >
 
@@ -498,9 +277,10 @@ Above all else, keep in mind that this is intended to easily put together unique
 >
 > ![](assets/images/species/sub/dreamy.png)
 > {: .float-right-desktop }
-> Ethereal beings made more of mind than matter, which have since taken form in the physical world. Dreamy creatures tend to be distant, but are more in tune with the magical essence of life – giving them unshakeable bravado and a certain undeniable charisma.
+> Ethereal beings made more of mind than matter, which have since taken form in the physical world.  
+> Dreamy creatures tend to be distant, but are more in tune with the magical essence of life – giving them unshakeable bravado and a certain undeniable charisma.
 >
-> *e.g. Cosmic Clone, Dreamy Shy Guy*{: .italic }
+> *[Material]*{: .header-font } *e.g. Cosmic Clone, Dreamy Shy Guy*{: .italic }
 >
 > ***-1 Heart**{: .heart-color }, **-1 Spirit**{: .spirit-color }, **+2 Courage**{: .courage-color }*{: .text-gamma .header-font }  
 >
@@ -510,23 +290,26 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > *+ Perform (Appeal)*{: .courage-color }  
 > > *+ Persuade (Charm)*{: .courage-color }  
 > > Immune (Poison)  
-> > Weakness (Sleep, Fear)  
+> > Weakness (Sleep)  
 > > *The Level and Duration of all statuses you suffer associated with sleep are doubled.*{: .mgl .fs-3 }  
 > > Weakness (Fear, Magic, Shock)  
 > > *If you're currently Intangible, you're wrenched back to a solid state with force, Dazing (1) you for a turn for each point of damage taken (minimum 1 turn).*{: .mgl .fs-3 }  
-> > Clone (Copies, Illusions)  
-> > Intangibility
+> > Clone  
+> > Intangibility  
+> > Mirage
 > >
 >
 > {: .specie-inner-callout }
 > > *Remove*{: .text-gamma .header-font }  
 > > Specialisations from the base species in *Guard*{: .heart-color }, *Heal*{: .heart-color }, *Knowhow*{: .notice-color } and *Steady*{: .courage-color }; remove any remaining specialisations from the final species one at a time until you have at most 3  
 > >
+> > ***Base**{: .underlined .bold } species Power is reduced to 1 (if it's more than 1)  
+> > ***Base**{: .underlined .bold } species Defense is reduced to 0  
+> >
 > > State (Berserk)  
 > > Weakness (Charm, Confuse, Provoke)  
 > >
-> > Bonuses to Power, Defense or Resist from the *base*{: .underlined } species  
-> > Weaknesses from the *base*{: .underlined } species
+> > Resists and Weaknesses from the *base*{: .underlined .bold } species
 > > 
 >
 > {: .specie-inner-callout }
@@ -553,7 +336,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > {: .specie-inner-callout }
 > > *Conditions*{: .text-gamma .header-font }  
 > >
-> > Can't be combined with Dry- or Spectral-.
+> > Can't be combined with other *[Material]*{: .header-font } subspecies.
 > >
 >
 
@@ -565,9 +348,10 @@ Above all else, keep in mind that this is intended to easily put together unique
 >
 > ![](assets/images/species/sub/dry.png)
 > {: .float-right-desktop }
-> Dry creatures are the skeletal remains of once healthy folk. While they're weaker than their live counterparts, they're relentless, continuously picking themselves back up with an endless supply of bones.
+> Dry creatures are the skeletal remains of once healthy folk.  
+> While they're weaker than their live counterparts, they're relentless, continuously picking themselves back up with an endless supply of bones.
 >
-> *e.g. Bony Beetle, Dry Bones*{: .italic }
+> *[Material]*{: .header-font } *e.g. Bony Beetle, Dry Bones*{: .italic }
 >
 > ***-1 Heart**{: .heart-color }, **+1 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
 > *+1 Defense*{: .text-gamma .header-font }  
@@ -578,6 +362,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > *+ Bully (Surprises)*{: .courage-color }  
 > > *+ Steady (Resilience)*{: .courage-color }  
 > > Immune (Charm, Fear, Fire, Ice, Poison)  
+> > *Fire can be used to disable your Resilient Trait while crumpled or KO'd.*{: .mgl .fs-3 }  
 > > Immune (Shadow)  
 > > *You recover **HP**{: .heart-color } equal to the attack's raw damage (minimum **1 HP**{: .heart-color }).*{: .mgl .fs-3 }  
 > > *If there's any excess **HP**{: .heart-color }, your Defense is Boosted (1) for a number of turns equal to the excess **HP**{: .heart-color }.*{: .mgl .fs-3 }  
@@ -587,7 +372,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > *Any **HP**{: .heart-color } you would normally recover is treated as damage instead; then, you take double damage.*{: .mgl .fs-3 }  
 > > *If this Technique wouldn't usually deal damage, it deals 2 Piercing damage.*{: .mgl .fs-3 }  
 > > *You're left Dazed (1) for a number of turns equal to the damage taken.*{: .mgl .fs-3 }  
-> > Clone (Copies)  
+> > Clone  
 > > Resilient  
 > > Undead
 > >
@@ -601,7 +386,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > State (Berserk, Scrunched)  
 > > Undead (Lifelike)  
 > >
-> > Weaknesses, Immunities and Resistances from the base species
+> > Weaknesses, Immunities and Resistances from the *base*{: .underlined } species
 > > 
 >
 > {: .specie-inner-callout }
@@ -625,7 +410,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > {: .specie-inner-callout }
 > > *Conditions*{: .text-gamma .header-font }  
 > >
-> > Can't be combined with Dreamy- or Spectral-.
+> > Can't be combined with other *[Material]*{: .header-font } subspecies.
 > >
 >
 
@@ -633,214 +418,117 @@ Above all else, keep in mind that this is intended to easily put together unique
 {: .species-separator }
 
 {: .subspecie-callout }
-> ## Electric- 
+> ## Elementalist- 
 >
-> ![](assets/images/species/sub/electric.png)
+> ![](assets/images/species/sub/elementalist.png)
 > {: .float-right-desktop }
-> Electric creatures are quick and jittery, but since they shy away from direct confrontation, they can be a rare sight. As the world continues to modernise, though, their knack for electrical work has become more and more valuable.
+> Some creatures are imbued with the elemental qualities of the natural world, it's a rare phenomenon, and outside of some Bro clans, tends to be met with confusion or fear...
 >
-> *e.g. Electrokoopa, Thunder Lakitu*{: .italic }
+> ... but despite the odds, it seems wherever these elemental beings go they rise above the crowd to make a name for themselves.
 >
-> ***-1 Heart**{: .heart-color }, **+1 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
+> *[Material]*{: .header-font } *e.g. Fire Bro, Frost Piranha, Petal Guy, Thunder Lakitu, Blimp Yoshi, Bombshell Koopa, Chill Bully, Pyro Guy*{: .italic }
+>
+> *Bombshell Koopa & Blimp Yoshi art: **@meineeds.rest**{: .courage-color }*{: .italic .fs-3 }
+>
+> ***+1 Spirit**{: .spirit-color }, **-1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
 >
 > {: .specie-inner-callout }
 > > *Add*{: .text-gamma .header-font }  
-> > *+ Athletics (Charge)*{: .heart-color }  
-> > *or **+ Athletics (Fly)**{: .heart-color }*{: .mgl }  
-> > *or **+ Athletics (Run)**{: .heart-color }*{: .mgl }  
-> > *+ Knowhow (Gadgets)*{: .spirit-color }  
-> > *+ Bully (Static)*{: .courage-color }  
-> > Other Element Traits cost *+1 FP*{: .spirit-color }  
-> > *This doesn't apply to Tech Defaults*{: .mgl .fs-3 }  
-> > Elemental damage from Contact becomes Shock damage  
-> > *This applies to the final species' traits, but doesn't apply to untyped damage (e.g. from Spiny-) or other effects (e.g. from Items).*{: .mgl .fs-3 }  
-> > Immune (Shock)  
-> > *You recover **HP**{: .heart-color } equal to the attack's raw damage (minimum **1 HP**{: .heart-color }).*{: .mgl .fs-3 }  
-> > *If there's any excess **HP**{: .heart-color }, your Attack is Boosted (1) for a number of turns equal to the excess **HP**{: .heart-color }.*{: .mgl .fs-3 }  
-> > Weakness (Earth, Quake, Water)  
+> > "Element" & "Environment": Any  
+> > *These qualities are defined during character creation, unless the base species already defined them. They must be thematically tied.*{: .mgl .fs-3 }  
+> > *+ Magic ("Element")*{: .spirit-color }  
+> > *+ Notice ("Environment")*{: .spirit-color }  
+> > *+ Steady ("Element")*{: .courage-color }  
+> > 2 Resist ("Element")  
+> > Weakness (Opposing Element)  
 > > *You take double damage; if this Technique wouldn't usually deal damage, it deals 2 Piercing damage.*{: .mgl .fs-3 }  
-> > *You're left Dazed (1) for a number of turns equal to the damage taken.*{: .mgl .fs-3 }  
+> > *You take on a negative Status (1) for a number of turns equal to the damage taken.*{: .mgl .fs-3 }  
+> > Devotion ("Element")  
+> > *Elements besides your own are restricted.*{: .mgl .fs-3 }  
+> > Efficient ("Element")
+> >
+> > {: .specie-inner-pros-callout }
+> > > *Choose and add up to 4 positives from the below:*{: .bold .underlined }
+> > >
+> > > - "Element" & "Environment": Any Other  
+> > > *Treat all references to "Element" and "Environment" from this subspecies as equivalent to either of your choices.*{: .mgl .fs-3 }
+> > > - Immune ("Element")  
+> > > *You recover **HP**{: .heart-color } equal to the attack's raw damage (minimum **1 HP**{: .heart-color }).*{: .mgl .fs-3 }  
+> > > *If there's any excess **HP**{: .heart-color }, one of your qualities is Boosted (1) for a number of turns equal to the excess **HP**{: .heart-color }.*{: .mgl .fs-3 }  
+> > > *Choose which quality is Boosted during character creation.*{: .mgl .fs-3 }
+> > > - Immune (Status or Status Source)  
+> > > *Can be chosen repeatedly, with a different Status or Status source each time.*{: .mgl .fs-3 }
+> > > - +1 Defense
+> > > - +2 Resist (Other Element)  
+> > > *Can be chosen repeatedly, with a different Element each time.*{: .mgl .fs-3 }
+> > > - Adapted (Environment)  
+> > > *Can be chosen repeatedly, with a different Environment each time.*{: .mgl .fs-3 }  
+> > > *May also be able to act as Carrier in the chosen Environment*{: .mgl .fs-3 }
+> > > - Carrier
+> > > - Contact  
+> > > *The attacker takes 1 Piercing "Element" DMG, and you make a **Steady**{: .courage-color } check; the attacker suffers a negative Status (1) for 1 turn for each Grade of Success*{: .mgl .fs-3 }
+> > > - Fly
+> > > - Hover
+> > > - Intangibility (in "Environment")
+> > > - Latent (Related Power-Up)  
+> > > *Can be chosen repeatedly, with a different Power-Up each time.*{: .mgl .fs-3 }  
+> > > *For **5 FP**{: .spirit-color }*{: .mgl .fs-3 }  
+> > > *Activate this Power-Up, targeting yourself.*{: .mgl-big .fs-3 }
+> >
+> > {: .specie-inner-cons-callout }
+> > > *Choose and add from the below negatives, requiring at least as many negatives as positives:*{: .bold .underlined }
+> > >
+> > > - Weakness (Other Element)  
+> > > *Can be chosen repeatedly, with a different Element each time.*{: .mgl .fs-3 }  
+> > > *You take +2 damage and take on a negative Status (1) for a number of turns equal to the damage taken.*{: .mgl .fs-3 }
+> > > - Weakness (Status or Status Source)  
+> > > *Can be chosen repeatedly, with a different Status or Status source each time*{: .mgl .fs-3 }  
+> > > *The Level and Duration of all associated statuses you suffer are doubled.*{: .mgl .fs-3 }
+> > > - Sinker
 > >
 >
 > {: .specie-inner-callout }
 > > *Remove*{: .text-gamma .header-font }  
-> > Specialisations from the base species in *Guard*{: .heart-color }, *Heal*{: .heart-color } and *Steady*{: .courage-color }; remove any remaining specialisations from the final species one at a time until you have at most 3
+> > Specialisations from the base species in *Magic*{: .spirit-color }, *Notice*{: .spirit-color }, *Cheer*{: .courage-color } and *Persuade*{: .courage-color }; remove any remaining specialisations from the final species one at a time until you have at most 3
 > >
-> > Immune/Resist (Earth, Quake, Water)  
-> > Weakness (Magic, Shock)  
-> > Aquatic  
-> > Carrier (In Water)
+> > Immune/Resist (Opposing Element(s))  
+> > Weakness ("Element")  
 > > 
 >
 > {: .specie-inner-callout }
 > > *Added Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Counter  
-> > *Element (Shock)*{: .alt-grey-line }  
-> > *+ **Optional**{: .underlined }: Element (Shock) on attacks and Indirect or Ranged Techniques*{: .mgl .fs-3 .alt-grey-line }  
-> > Stun  
-> > *Terrain (Rain of Static)*{: .alt-grey-line }  
-> > *Choose during character creation*{: .mgl .fs-3 .alt-grey-line }  
+> > Element ("Element")  
+> > *+ **Optional**{: .underlined }: Element ("Element") on attacks and Indirect or Ranged Techniques*{: .mgl .fs-3 }  
+> > *Terrain*{: .alt-grey-line }  
+> > *As appropriate to your environment(s); choose during character creation*{: .mgl .fs-3 .alt-grey-line }  
+> >
+> > +1 Custom Sets  
+> > Custom Sets are customisable Tech Defaults defined during character creation.  
+> > For Elementalists, each set can include any Traits totalling no more than *2 FP*{: .spirit-color }, *must*{: .underlined .bold } include Element ("Element") for no additional *FP cost*{: .spirit-color }, and can't include negative Traits.
 > >
 >
 > {: .specie-inner-callout }
 > > *Removed Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Daze  
-> > *Element (Earth, Water)*  
-> > Quake  
-> > *Underfoot*  
-> > Weaken  
+> > Element *(If from base Species)*{: .fs-3 }  
+> > *Terrain **(If from base Species)**{: .fs-3 }*{: .alt-grey-line }  
 > >
 >
 > {: .specie-inner-callout }
 > > *Conditions*{: .text-gamma .header-font }  
 > >
-> > The final species can't combine Aqua-, Blooming-, Breezy-, Charged-, Flame-, Frosty- or Rugged-.
+> > Can't be added onto Elementals.
 > >
 >
 
----
-{: .species-separator }
+![](assets/images/scenes/elementalist.png)
+{: .center-img }
 
-{: .subspecie-callout }
-> ## Flame- 
->
-> ![](assets/images/species/sub/flame.png)
-> {: .float-right-desktop }
-> Flame creatures are confident thrill-seekers, but they tend not to worry about the consequences of their actions. Their bravado is legendary, and their reputation precedes them, but they have a tendency to burn bridges wherever they go.
->
-> *e.g. Blargg, Fire Bro*{: .italic }
->
-> ***-1 Heart**{: .heart-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
->
-> {: .specie-inner-callout }
-> > *Add*{: .text-gamma .header-font }  
-> > *+ Athletics (Fly)*{: .heart-color }  
-> > *or **+ Athletics (Jump)**{: .heart-color }*{: .mgl }  
-> > *or **+ Athletics (Run)**{: .heart-color }*{: .mgl }  
-> > *+ Bully (Burn)*{: .courage-color }  
-> > *+ Cheer (Aggression)*{: .courage-color }  
-> > Other Element Traits cost *+1 FP*{: .spirit-color }  
-> > *This doesn't apply to Tech Defaults*{: .mgl .fs-3 }  
-> > Elemental damage from Contact becomes Fire damage  
-> > *This applies to the final species' traits, but doesn't apply to untyped damage (e.g. from Spiny-) or other effects (e.g. from Items).*{: .mgl .fs-3 }  
-> > Immune (Fire)  
-> > *You receive a Boost to Attack for a number of turns equal to the attack's damage, plus the duration of any Statuses it had.*{: .mgl .fs-3 }  
-> > \+ 2 Resist (Blast)  
-> > Weakness (Ice, Water)  
-> > *You take double damage; if this Technique wouldn't usually deal damage, it deals 2 Piercing damage.*{: .mgl .fs-3 }  
-> > *Your Attack is Weakened (1) for a number of turns equal to the damage taken.*{: .mgl .fs-3 }
-> >
->
-> {: .specie-inner-callout }
-> > *Remove*{: .text-gamma .header-font }  
-> > Specialisations from the base species in *Guard*{: .heart-color }, *Heal*{: .heart-color } and *Persuade*{: .courage-color }; remove any remaining specialisations from the final species one at a time until you have at most 3
-> >
-> > Immune/Resist (Ice, Provoke, Water)  
-> > Weakness (Blast, Fear, Fire, Magic)
-> > 
-> > Aquatic  
-> > Carrier (In Water)
-> > 
->
-> {: .specie-inner-callout }
-> > *Added Tech Defaults*{: .text-gamma .header-font }  
-> >
-> > Element (Fire)  
-> > *+ **Optional**{: .underlined }: Element (Fire) on attacks and Indirect or Ranged Techniques*{: .mgl .fs-3 }  
-> > *Lingering x2*{: .alt-grey-line }  
-> > Spillover  
-> > *Terrain (Heatwave or Lava)*{: .alt-grey-line }  
-> > *Choose during character creation*{: .mgl .fs-3 .alt-grey-line }  
-> >
->
-> {: .specie-inner-callout }
-> > *Removed Tech Defaults*{: .text-gamma .header-font }  
-> >
-> > Daze  
-> > *Element (Ice, Water)*{: .alt-grey-line }  
-> > Quake  
-> > *Underfoot*{: .alt-grey-line }  
-> > Stun
-> >
->
-> {: .specie-inner-callout }
-> > *Conditions*{: .text-gamma .header-font }  
-> >
-> > The final species can't combine Aqua-, Blooming-, Breezy-, Charged-, Flame-, Frosty- or Rugged-. 
-> > 
-> > Can't be combined with Marine-.
-> >
->
-
----
-{: .species-separator }
-
-{: .subspecie-callout }
-> ## Frosty- 
->
-> ![](assets/images/species/sub/frosty.png)
-> {: .float-right-desktop }
-> Frosty creatures have been made hardier by the snow, and relish skating around a frozen wonderland, but they tend to move slowly outside of the cold. They rarely travel from their homes, but when they do, their ice-cold touch proves invaluable.
->
-> *e.g. Frost Piranha, Ice Puff*{: .italic }
->
-> ***+1 Heart**{: .heart-color }, **-1 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
->
-> {: .specie-inner-callout }
-> > *Add*{: .text-gamma .header-font }  
-> > *+ Athletics (Skate)*{: .heart-color }  
-> > *or **+ Athletics (Swim)**{: .heart-color }*{: .mgl }  
-> > *+ Bully (Freeze)*{: .courage-color }  
-> > *+ Steady (Poise)*{: .courage-color }  
-> > Other Element Traits cost *+1 FP*{: .spirit-color }  
-> > *This doesn't apply to Tech Defaults*{: .mgl .fs-3 }  
-> > Elemental damage from Contact becomes Ice damage  
-> > *This applies to the final species' traits, but doesn't apply to untyped damage (e.g. from Spiny-) or other effects (e.g. from Items).*{: .mgl .fs-3 }  
-> > \+ 2 Resist (Water)  
-> > Immune (Ice)  
-> > *You heal **+5 HP**{: .heart-color } instead.*{: .mgl .fs-3 }  
-> > Weakness (Blast, Fire)  
-> > *You take double damage; if this Technique wouldn't usually deal damage, it deals 2 Piercing damage.*{: .mgl .fs-3 }  
-> > *Your Attack is Weakened (1) for a number of turns equal to the damage taken.*{: .mgl .fs-3 }  
-> >
->
-> {: .specie-inner-callout }
-> > *Remove*{: .text-gamma .header-font }  
-> > Specialisations from the base species in *Athletics*{: .heart-color }, *Cheer*{: .courage-color } and *Persuade*{: .courage-color }; remove any remaining specialisations from the final species one at a time until you have at most 3
-> >
-> > Immune/Resist (Blast, Fire)  
-> > Weakness (Ice, Magic, Water)
-> >
-> > Sinker
-> > 
->
-> {: .specie-inner-callout }
-> > *Added Tech Defaults*{: .text-gamma .header-font }  
-> >
-> > Daze x2  
-> > *Element (Ice)*{: .alt-grey-line }  
-> > *+ **Optional**{: .underlined }: Element (Ice) on attacks and Indirect or Ranged Techniques*{: .mgl .fs-3 .alt-grey-line }  
-> > Overrun  
-> > *Terrain (Snow)*{: .alt-grey-line }  
-> >
->
-> {: .specie-inner-callout }
-> > *Removed Tech Defaults*{: .text-gamma .header-font }  
-> >
-> > Charm  
-> > *Element (Fire, Water)*{: .alt-grey-line }  
-> > Quake  
-> > *Underfoot*{: .alt-grey-line }  
-> >
->
-> {: .specie-inner-callout }
-> > *Conditions*{: .text-gamma .header-font }  
-> >
-> > The final species can't combine Aqua-, Blooming-, Breezy-, Charged-, Flame-, Frosty- or Rugged-.
-> >
->
+{: .tip-callout }
+> *Elementalist- is a very flexible Subspecies, with a lot of freedom given to the player to define its strengths and its weaknesses. Even two fire-themed characters are likely to approach this in different ways!  
+This flexibility brings a lot of added complexity, though. It's extremely important to work with your GM to make appropriate decisions that flesh out your character and their theming – even if they're not explicitly listed as options or requirements. Ideally you want a fun concept that you and your GM are both comfortable and satisfied with.* ![](assets/images/icons/tipguy.png)
+> {: .icon-right }
 
 ---
 {: .species-separator }
@@ -850,9 +538,11 @@ Above all else, keep in mind that this is intended to easily put together unique
 >
 > ![](assets/images/species/sub/gold.png)
 > {: .float-right-desktop }
-> Gold creatures are infused with enchanted gold, giving them a certain affinity for Coins and other treasure. This affinity even extends to managing their finances, and seemingly conjuring treasure from thin air. All this contributes to a certain confidence that can make them hard to deal with, and blind to their own failings – but undeniably charismatic.
+> Gold creatures are infused with enchanted gold, giving them a certain affinity for Coins and other treasure.  
+> This affinity even extends to managing their finances, and seemingly conjuring treasure from thin air.  
+> All this contributes to a certain confidence that can make them hard to deal with, and blind to their own failings – but undeniably charismatic.
 >
-> *e.g. Amazy Dayzee, Bombshell Bill*{: .italic }
+> *[Material]*{: .header-font } *e.g. Amazy Dayzee, Bombshell Bill*{: .italic }
 >
 > ***-1 Heart**{: .heart-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
 >
@@ -861,7 +551,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > *+ Notice (Treasure)*{: .spirit-color }  
 > > *+ Perform (Appeal)*{: .courage-color }  
 > > *+ Persuade (Deals)*{: .courage-color }  
-> > \+ ½ Starting Coins
+> > +½ Starting Coins
 > >
 >
 > {: .specie-inner-callout }
@@ -890,6 +580,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > {: .specie-inner-callout }
 > > *Conditions*{: .text-gamma .header-font }  
 > >
+> > Can't be combined with other *[Material]*{: .header-font } subspecies.  
 > > Can't be combined with Shadow-.
 > >
 >
@@ -902,7 +593,8 @@ Above all else, keep in mind that this is intended to easily put together unique
 >
 > ![](assets/images/species/sub/hyper.png)
 > {: .float-right-desktop }
-> Prolonged exposure to strange magic has caused some creatures to take on some magic properties themselves. It doesn't do much for their social skills, but they're full of energy, able to empower themselves to a frightening degree and conjure all manner of strange effects.
+> Prolonged exposure to strange magic has caused some creatures to take on some magic properties themselves.  
+> It doesn't do much for their social skills, but they're full of energy, able to empower themselves to a frightening degree and conjure all manner of strange effects.
 >
 > *e.g. Hyper Cleft, Hyper Goomba*{: .italic }
 >
@@ -912,7 +604,6 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > *Add*{: .text-gamma .header-font }  
 > > *+ Athletics (Brawn)*{: .heart-color }  
 > > *+ Magic (Boosts)*{: .spirit-color }  
-> > *or **+ Magic (Spontaneous Spells)**{: .spirit-color }*{: .mgl }  
 > > *or **+ Cheer (Boosts)**{: .courage-color }*{: .mgl }  
 > > *+ Cheer (Aggression)*{: .courage-color }  
 > > Immune (Fear)  
@@ -958,9 +649,10 @@ Above all else, keep in mind that this is intended to easily put together unique
 >
 > ![](assets/images/species/sub/marine.png)
 > {: .float-right-desktop }
-> Marine creatures are species adapted for life underwater, making them hardier and tougher in battle, though somewhat more awkward on land. If they can get into the water, though, or bring water onto land, their speed is unmatched.
+> Marine creatures are species adapted for life underwater, making them hardier and tougher in battle, though somewhat more awkward on land.  
+> If they can get into the water, though, or bring water onto land, their speed is unmatched.
 >
-> *e.g. Bob-Omb Fish, Torpedo Ted*{: .italic }
+> *[Environmental]*{: .header-font } *e.g. Bob-Omb Fish, Torpedo Ted*{: .italic }
 >
 > ***+1 Heart**{: .heart-color }, **-1 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
 >
@@ -970,16 +662,22 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > *+ Knowhow (Fresh Water)*{: .spirit-color }  
 > > *or **+ Knowhow (Ocean)**{: .spirit-color }*{: .mgl }  
 > > *+ Notice (Underwater)*{: .spirit-color }  
-> > \+ 1 Resist (Fire, Ice, Water)  
+> > +1 Resist (Fire, Ice, Water)  
 > > Weakness (Shock)  
 > > *You take +2 damage and become Dazed (1) for a number of turns equal to the damage taken.*{: .mgl .fs-3 }  
-> > Aquatic  
+> > Adapted (Water)  
 > > Carrier (In Water)
 > >
 >
 > {: .specie-inner-callout }
 > > *Remove*{: .text-gamma .header-font }  
-> > Specialisations from the base species in *Athletics*{: .heart-color }, *Crafts*{: .spirit-color } and *Notice*{: .spirit-color }; remove any remaining specialisations from the final species one at a time until you have at most 3
+> > Specialisations from the base species in *Athletics*{: .heart-color }, *Crafts*{: .spirit-color } and *Notice*{: .spirit-color }; remove any remaining specialisations from the final species one at a time until you have at most 3  
+> >
+> > Weakness (Fire, Ice, Water)  
+> >
+> > Hover  
+> > Fly  
+> > Sinker
 > > 
 >
 > {: .specie-inner-callout }
@@ -1004,9 +702,8 @@ Above all else, keep in mind that this is intended to easily put together unique
 > {: .specie-inner-callout }
 > > *Conditions*{: .text-gamma .header-font }  
 > >
-> > Can't be combined with Aqua-, Breezy- or Para-. 
-> >
-> > Can't be added if the base species would normally have Aquatic.
+> > Can't be combined with other *[Environmental]*{: .header-font } subspecies.   
+> > Can't be added if the base species would normally have Adapted (Water).
 > >
 >
 
@@ -1018,9 +715,10 @@ Above all else, keep in mind that this is intended to easily put together unique
 >
 > ![](assets/images/species/sub/mecha.png)
 > {: .float-right-desktop }
-> Marvels of technology, mechas come in a variety of different forms. Cold, imposing and relentless, they're exceptional on the battlefield – but their calculating minds are even more impressive. There are downsides to dreaming of electric Sleepy Sheep, though; without that spark of life, they struggle with magic, and can't enjoy delicious Mushrooms.
+> Marvels of technology, mechas come in a variety of different forms. Cold, imposing and relentless, they're exceptional on the battlefield – but their calculating minds are even more impressive.  
+> There are downsides to dreaming of electric Sleepy Sheep, though; without that spark of life, they struggle with magic, and can't enjoy delicious Mushrooms.
 >
-> *e.g. Mechakoopa, Mechawiggler*{: .italic }
+> *[Material]*{: .header-font } *e.g. Mechakoopa, Mechawiggler*{: .italic }
 >
 > ***+1 Spirit**{: .spirit-color }, **-2 Courage**{: .courage-color }*{: .text-gamma .header-font }  
 > *+1 Power, +1 Defense*{: .text-gamma .header-font }  
@@ -1030,10 +728,10 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > *+ Athletics (Brawn)*{: .heart-color }  
 > > *+ Crafts (Gadgets)*{: .spirit-color }  
 > > *+ Knowhow (Gadgets)*{: .spirit-color }  
-> > \+ 1 Resist (Air, Blast, Magic)  
-> > Immune (Charm, Fear, Poison, Provoke, Sleep, SLeep)  
-> > Weakness (Shock, Water)  
-> > *Shock attacks and Water Techniques deal +2 damage, and force you to make a **Steady**{: .courage-color } check versus Confusion (1), lasting a number of turns equal to the damage taken (minimum 1 turn).*{: .mgl .fs-3 }  
+> > Immune (Charm, Fear, Poison, Provoke, Sleep)  
+> > +1 Resist (Air, Blast, Earth, Magic)  
+> > Weakness (Shock Attacks, Water)  
+> > *You take +2 damage, and become Confused (1) for a number of turns equal to the damage taken (minimum 1 turn).*{: .mgl .fs-3 }  
 > > Construct  
 > > Resilient  
 > > Sinker
@@ -1043,12 +741,14 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > *Remove*{: .text-gamma .header-font }  
 > > Specialisations from the base species in *Athletics*{: .heart-color }, *Magic*{: .spirit-color }, *Cheer*{: .courage-color } and *Persuade*{: .courage-color }; remove any remaining specialisations from the final species one at a time until you have at most 3
 > >
-> > Immune/Resist (Shock, Water)  
-> > Weakness (Aerial, Blast, Crushing, Fire, Magic)
+> > Weaknesses, Immunities and Resistances from the *base*{: .underlined .bold } species  
+> > Weakness (Crushing, Magic)
 > >
 > > Construct (Lifelike)  
 > > State (Berserk, Scrunched)  
 > > Undead  
+> >
+> > Contact traits that deal elemental damage
 > > 
 >
 > {: .specie-inner-callout }
@@ -1075,7 +775,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > {: .specie-inner-callout }
 > > *Conditions*{: .text-gamma .header-font }  
 > >
-> > Can't be combined with Blooming-, Metal- or Rugged-.
+> > Can't be combined with other *[Material]*{: .header-font } subspecies.
 > >
 >
 
@@ -1087,9 +787,10 @@ Above all else, keep in mind that this is intended to easily put together unique
 >
 > ![](assets/images/species/sub/metal.png)
 > {: .float-right-desktop }
-> Metal creatures are by far the hardiest creatures alive, seemingly invincible and able to take just about any kind of punishment. Whether their metal cladding is only skin-deep or if it's an intrinsic part of them, one thing's for certain – these guys are *tough*{: .underlined }.
+> Metal creatures are by far the hardiest creatures alive, seemingly invincible and able to take just about any kind of punishment.  
+> Whether their metal cladding is only skin-deep or if it's an intrinsic part of them, one thing's for certain – these guys are *tough*{: .underlined .bold }.
 >
-> *e.g. Iron Cleft, Metal Guy*{: .italic }
+> *[Material]*{: .header-font } *e.g. Iron Cleft, Metal Guy*{: .italic }
 >
 > ***+1 Heart**{: .heart-color }, **-2 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
 > *+2 Defense*{: .text-gamma .header-font }  
@@ -1099,22 +800,26 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > *+ Guard (Melee)*{: .heart-color }  
 > > *+ Crafts (Metalwork)*{: .spirit-color }  
 > > *+ Steady (Poise)*{: .courage-color }  
-> > \+ 2 Resist (Air, Blast, Earth, Fire, Ice)  
+> > Immune (Fire, Water)  
+> > *Your form softens, Weakening your Defense and Resist traits for a duration equal to the damage taken.*{: .mgl .fs-3 }  
+> > *The Status Level begins at 1, and increases by 1 each time this is triggered, until the status is recovered from.*{: .mgl .fs-3 }  
+> > *If your Defense and Resist traits are reduced to 0 by this status, treat this trait as a Weakness that deals +2 damage for the duration instead.*{: .mgl .fs-3 }
 > > Immune (Poison)  
-> > Weakness (Quake, Shock, Water)  
-> > *You take +2 damage and your Defense is Weakened, with a Status Level and duration equal to the damage taken.*{: .mgl .fs-3 }  
+> > +2 Resist (Air, Blast, Earth, Ice)  
+> > Weakness (Shock)  
+> > *You take on a Contact Trait, dealing Piercing Shock damage. The damage and duration are both equal to half the damage taken (minimum 1).*{: .mgl .fs-3 }  
 > > Construct (Lifelike)  
 > > Sinker
 > >
 >
 > {: .specie-inner-callout }
 > > *Remove*{: .text-gamma .header-font }  
-> > Specialisations from the base species in *Athletics*{: .heart-color }, *Knowhow*{: .spirit-color }, *Trickery*{: .spirit-color }, *Cheer*{: .courage-color } and Perform; remove any remaining specialisations from the final species one at a time until you have at most 3
+> > Specialisations from the base species in *Athletics*{: .heart-color }, *Knowhow*{: .spirit-color }, *Trickery*{: .spirit-color }, *Cheer*{: .courage-color } and *Perform*{: .courage-color }; remove any remaining specialisations from the final species one at a time until you have at most 3
 > >
-> > Immune/Resist (Fire, Shock)  
-> > Weakness (Fire, Fear)  
+> > Weaknesses, Immunities and Resistances from the *base*{: .underlined .bold } species  
+> > Weakness (Air, Crushing)
 > >
-> > Aquatic  
+> > Adapted (Water)  
 > > Clone  
 > > Fly  
 > > Hover  
@@ -1149,7 +854,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > {: .specie-inner-callout }
 > > *Conditions*{: .text-gamma .header-font }  
 > >
-> > Can't be combined with Blooming-, Mecha- or Rugged-.
+> > Can't be combined with *[Material]*{: .header-font } subspecies.
 > >
 >
 
@@ -1161,10 +866,11 @@ Above all else, keep in mind that this is intended to easily put together unique
 >
 > ![](assets/images/species/sub/mini.png)
 > {: .float-right-desktop }
-> Mini creatures are smaller than the norm for their kind, and with that comes a sharp reduction in their confidence and offensive capabilities. They can't just throw their weight around, so to speak.  
+> Mini creatures are smaller than the norm for their kind, and with that comes a sharp reduction in their confidence and offensive capabilities.  
+> They can't just throw their weight around, so to speak.  
 > Still, being on the lighter side keeps them sharp – they're faster, harder to catch and a good deal more slippery.
 >
-> *e.g. Nipper Plant, Thwimp*{: .italic }
+> *[Size]*{: .header-font } *e.g. Nipper Plant, Thwimp*{: .italic }
 >
 > ***-1 Heart**{: .heart-color }, **+2 Spirit**{: .spirit-color }, **-1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
 > *-1 Power*{: .text-gamma .header-font }  
@@ -1186,7 +892,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > *Remove*{: .text-gamma .header-font }  
 > > Specialisations from the base species in *Coordination*{: .heart-color }, *Guard*{: .heart-color }, *Bully*{: .courage-color } and *Steady*{: .courage-color }; remove any remaining specialisations from the final species one at a time until you have at most 3
 > >
-> > Immune (Aerial, Fear)  
+> > Immune (Contact, Fear)  
 > > Carrier  
 > > Sinker
 > > 
@@ -1196,7 +902,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > >
 > > Homing  
 > > *Hustle*{: .alt-grey-line }  
-> > *+ **Required**{: .underlined }: When Hustle is added as a Tech Default, add either Self or Split. Only the user can be targeted with Hustle.*{: .mgl .fs-3 .alt-grey-line }  
+> > *+ **Required**{: .underlined }: When Hustle is added as a Tech Default, add either Self or a single Split Slot (which can't contain Strikes). Only the user can be targeted with Hustle.*{: .mgl .fs-3 .alt-grey-line }  
 > > Repeat  
 > > *Selective*{: .alt-grey-line }  
 > > Weaken (Attack)
@@ -1213,7 +919,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > {: .specie-inner-callout }
 > > *Conditions*{: .text-gamma .header-font }  
 > >
-> > Can't be combined with Bulky-.
+> > Can't be combined with other *[Size]*{: .header-font } subspecies.
 > >
 >
 
@@ -1227,7 +933,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > {: .float-right-desktop }
 > Para creatures are winged variants of other races, making them more agile, though less sturdy and more reliant on their wings.
 >
-> *e.g. Fly Guy, Paratroopa*{: .italic }
+> *[Environmental]*{: .header-font } *e.g. Fly Guy, Paratroopa*{: .italic }
 >
 > ***-1 Heart**{: .heart-color }, **+1 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
 >
@@ -1272,91 +978,8 @@ Above all else, keep in mind that this is intended to easily put together unique
 > {: .specie-inner-callout }
 > > *Conditions*{: .text-gamma .header-font }  
 > >
+> > Can't be combined with other *[Environmental]*{: .header-font } subspecies.  
 > > Can't be added if the base species would normally have Fly.
-> >
-> > Can't be combined with Aqua- or Marine-. 
-> >
->
-
----
-{: .species-separator }
-
-{: .subspecie-callout }
-> ## Rugged- 
->
-> ![](assets/images/species/sub/rugged.png)
-> {: .float-right-desktop }
-> Rugged creatures can be found, rarely, living solitary lives in the mountains and caverns of the world. They're tough as rocks, and about as slow. They're great at taking hits though, and their affinity for the earth makes it easy to strike back at large crowds with force.
->
-> *e.g. Brolder, Sworm*{: .italic }
->
-> ***+1 Heart**{: .heart-color }, **-1 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
-> *+1 Defense*{: .text-gamma .header-font }  
->
-> {: .specie-inner-callout }
-> > *Add*{: .text-gamma .header-font }  
-> > *+ Athletics (Burrow)*{: .heart-color }  
-> > *+ Notice (Vibrations)*{: .spirit-color }  
-> > *+ Steady (Poise)*{: .courage-color }  
-> > Other Element Traits cost *+1 FP*{: .spirit-color }  
-> > *This doesn't apply to Tech Defaults*{: .mgl .fs-3 }  
-> > Elemental damage from Contact becomes Earth damage  
-> > *This applies to the final species' traits, but doesn't apply to untyped damage (e.g. from Spiny-) or other effects (e.g. from Items).*{: .mgl .fs-3 }  
-> > Immune (Shock)  
-> > \+ 2 Resist (Air, Earth, Fire)  
-> > Weakness (Water)  
-> > *You take +2 damage and your Defense is Weakened (1) for a number of turns equal to the damage taken.*{: .mgl .fs-3 }  
-> > Weakness (Blast, Quake)  
-> > *Quake attacks only trigger this weakness while you're burrowed underground; regardless, this attack forces you up to the surface.*{: .mgl .fs-3 }  
-> > *You take +2 damage and are Dazed (1) for the next turn.*{: .mgl .fs-3 }  
-> > Carrier  
-> > Elevation  
-> > *Requires elevated earth to burrow into.*{: .mgl .fs-3 }  
-> > Sinker
-> >
->
-> {: .specie-inner-callout }
-> > *Remove*{: .text-gamma .header-font }  
-> > Specialisations from the base species in *Athletics*{: .heart-color }, *Notice*{: .spirit-color } and *Trickery*{: .spirit-color }; remove any remaining specialisations from the final species one at a time until you have at most 3
-> >
-> > Immune/Resist (Blast, Quake, Water)  
-> > Weakness (Air, Earth, Fear, Magic)
-> >
-> > Aquatic  
-> > Fly  
-> > Hover  
-> > 
->
-> {: .specie-inner-callout }
-> > *Added Tech Defaults*{: .text-gamma .header-font }  
-> >
-> > Element (Earth)  
-> > *+ **Optional**{: .underlined }: Element (Earth) on attacks*{: .mgl .fs-3 }  
-> > *Quake*{: .alt-grey-line }  
-> > Secure (Burrowed)  
-> > *Terrain*{: .alt-grey-line }  
-> > *Elevated, Sandstorm or Spikes only; choose during character creation*{: .mgl .fs-3 .alt-grey-line }  
-> > Underfoot
-> >
->
-> {: .specie-inner-callout }
-> > *Removed Tech Defaults*{: .text-gamma .header-font }  
-> >
-> > Aerial  
-> > *Daze*{: .alt-grey-line }  
-> > Element (Fire, Shock, Water)  
-> > *Lingering*{: .alt-grey-line }  
-> > Piercing  
-> > *Stun*{: .alt-grey-line }  
-> > Weaken
-> >
->
-> {: .specie-inner-callout }
-> > *Conditions*{: .text-gamma .header-font }  
-> >
-> > The final species can't combine Aqua-, Blooming-, Breezy-, Charged-, Flame-, Frosty- or Rugged-. 
-> >
-> > Can't be combined with Mecha- or Metal-.
 > >
 >
 
@@ -1368,9 +991,11 @@ Above all else, keep in mind that this is intended to easily put together unique
 >
 > ![](assets/images/species/sub/shadow.png)
 > {: .float-right-desktop }
-> Shadowy figments of creatures that turned away from the light long ago. Those that remain are extremely rare, and seldom trusted – though they're quite good at getting their way. All this leads them to further isolation and shadier lifestyles, despite the strengths they can offer.
+> Shadowy figments of creatures that turned away from the light long ago.  
+> Those that remain are extremely rare, and seldom trusted – though they're quite good at getting their way.  
+> All this leads them to further isolation and shadier lifestyles, despite the strengths they can offer.
 >
-> *e.g. Dark Goomba, Shadow Siren*{: .italic }
+> *[Alignment]*{: .header-font }*[Material]*{: .header-font } *e.g. Dark Goomba, Shadow Siren*{: .italic }
 >
 > ***-2 Heart**{: .heart-color }, **+1 Spirit**{: .spirit-color }, **+1 Courage**{: .courage-color }*{: .text-gamma .header-font }  
 >
@@ -1386,22 +1011,26 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > Weakness (Sudden Light, Stars)  
 > > *You take double damage; if this Technique wouldn't usually deal damage, it deals 2 Piercing damage.*{: .mgl .fs-3 }   
 > > *You're left Dazed (1) for a number of turns equal to the damage taken.*{: .mgl .fs-3 }  
-> > Clone (Illusions)  
+> > Devotion (Shadow)  
+> > *Non-Shadow elements are restricted.*{: .mgl .fs-3 }  
+> > Efficient (Shadow)  
 > > Hover  
 > > Intangibility  
 > > Invisibility
+> > Mirage
 > >
 >
 > {: .specie-inner-callout }
 > > *Remove*{: .text-gamma .header-font }  
 > > Specialisations from the base species in *Athletics*{: .heart-color }, *Guard*{: .heart-color } and *Steady*{: .courage-color }; remove any remaining specialisations from the final species one at a time until you have at most 3
 > >
-> > Immunities, Resistances and Weaknesses from the *base*{: .underlined } species
+> > Immunities, Resistances and Weaknesses from the *base*{: .underlined .bold } species
 > >
-> > *All*{: .underlined } Defense bonuses; the *final*{: .underlined } species' Defense becomes 0  
+> > *All*{: .underlined .bold } Defense bonuses; the *final*{: .underlined .bold } species' Defense becomes 0  
 > >
+> > Adapted (Burrowing)  
+> > Clone  
 > > Construct  
-> > Elevation  
 > > Fly  
 > > Resilient  
 > >
@@ -1412,7 +1041,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > *Added Tech Defaults*{: .text-gamma .header-font }  
 > >
 > > Charm  
-> > *Drain x2*{: .alt-grey-line }  
+> > *Drain*{: .alt-grey-line }  
 > > Element (Shadow)  
 > > *+ **Optional**{: .underlined }: Element (Shadow) on Indirect and Ranged Techniques*{: .mgl .fs-3 }  
 > > *Secure (Intangible)*{: .alt-grey-line }  
@@ -1432,7 +1061,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > {: .specie-inner-callout }
 > > *Conditions*{: .text-gamma .header-font }  
 > >
-> > Can't be combined with Blessed-.
+> > Can't be combined with other *[Alignment]*{: .header-font } or *[Material]*{: .header-font } subspecies.
 > >
 >
 
@@ -1444,9 +1073,10 @@ Above all else, keep in mind that this is intended to easily put together unique
 >
 > ![](assets/images/species/sub/spectral.png)
 > {: .float-right-desktop }
-> Spectral creatures are ethereal echoes of once-healthy folk. They're further removed from the living than typical Boos, with little interest in the affairs of mortals – though they're quite knowledgeable and extraordinarily quick-witted in their own right.
+> Spectral creatures are ethereal echoes of once-healthy folk.  
+> They're further removed from the living than typical Boos, with little interest in the affairs of mortals – though they're quite knowledgeable and extraordinarily quick-witted in their own right.
 >
-> *e.g. Eerie, Ghoul Guy*{: .italic }
+> *[Material]*{: .header-font } *e.g. Eerie, Ghoul Guy*{: .italic }
 >
 > ***-2 Heart**{: .heart-color }, **+2 Spirit**{: .spirit-color }*{: .text-gamma .header-font }  
 >
@@ -1456,18 +1086,18 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > *+ Magic (Illusion)*{: .spirit-color }  
 > > *+ Bully (Surprises)*{: .courage-color }  
 > > Immune (Fear, Poison)  
-> > \+ 1 Resist (Ice)  
 > > Immune (Shadow)  
 > > *You recover **HP**{: .heart-color } equal to the attack's raw damage (minimum **1 HP**{: .heart-color }).*{: .mgl .fs-3 }  
-> > *If there's any excess **HP**{: .heart-color }, your **Dodge**{: .spirit-color } is Boosted (1) for a number of turns equal to the excess **HP**{: .heart-color }, and you can make **Dodge**{: .spirit-color } checks in addition to **Blocking**{: .heart-color } until the Boost wears off.*{: .mgl .fs-3 }  
-> > Weakness (Life, Magic, Sudden Light, Stars)  
+> > *If there's any excess **HP**{: .heart-color }, your **Dodge**{: .spirit-color } is Boosted (1) for a number of turns equal to the excess **HP**{: .heart-color }, and you can make **Dodge**{: .spirit-color } checks in addition to **Guarding**{: .heart-color } until the Boost wears off.*{: .mgl .fs-3 }  
+> > +2 Resist (Ice)  
+> > Weakness (Life Magic, Sudden Light, Stars)  
 > > *Any **HP**{: .heart-color } you would normally recover is treated as damage instead; then, you take double damage.*{: .mgl .fs-3 }  
 > > *If this Technique wouldn't usually deal damage, it deals 2 Piercing damage.*{: .mgl .fs-3 }  
 > > *You're left Dazed (1) for a number of turns equal to the damage taken.*{: .mgl .fs-3 }  
-> > Clone (Illusions)  
 > > Hover  
 > > Intangibility  
 > > Invisibility  
+> > Mirage  
 > > Undead  
 > >
 >
@@ -1475,16 +1105,17 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > *Remove*{: .text-gamma .header-font }  
 > > Specialisations from the base species in *Athletics*{: .heart-color }, *Guard*{: .heart-color }, *Cheer*{: .courage-color }, *Persuade*{: .courage-color } and *Steady*{: .courage-color }; remove any remaining specialisations from the final species one at a time until you have at most 3
 > >
-> > Immunities, Resistances and Weaknesses from the *base*{: .underlinned } species
+> > Immunities, Resistances and Weaknesses from the *base*{: .underlinned .bold } species
 > >
-> > All Defense bonuses; the *final*{: .underlined } species' Defense becomes 0
+> > *All*{: .underlined .bold } Defense bonuses; the *final*{: .underlined .bold } species' Defense becomes 0
 > >
-> > Construct
-> > Elevation
-> > Fly
-> > Resilient
+> > Clone  
+> > Construct  
+> > Elevation  
+> > Fly  
+> > Resilient  
 > >
-> > Contact traits that deal non-elemental damage (e.g. from Spiny-) 
+> > Contact traits that deal untyped damage (e.g. from Spiny-) 
 > > 
 >
 > {: .specie-inner-callout }
@@ -1500,7 +1131,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > >
 > > Aerial  
 > > *Boost*{: .alt-grey-line }  
-> > Element (if from *base*{: .underlined } species)  
+> > Element *(if from **base**{: .underlined } species)*{: .fs-3 }  
 > > *Dismiss*{: .alt-grey-line }  
 > > Hearty  
 > > *Launch*{: .alt-grey-line }  
@@ -1513,7 +1144,8 @@ Above all else, keep in mind that this is intended to easily put together unique
 > {: .specie-inner-callout }
 > > *Conditions*{: .text-gamma .header-font }  
 > >
-> > Can't be added onto Undead species. Can't be combined with Dreamy- or Dry-.
+> > Can't be combined with other *[Material]*{: .header-font } subspecies.  
+> > Can't be added onto Undead species.
 > >
 >
 
@@ -1525,7 +1157,8 @@ Above all else, keep in mind that this is intended to easily put together unique
 >
 > ![](assets/images/species/sub/spiny.png)
 > {: .float-right-desktop }
-> Spiny creatures are covered in spikes, making them stronger and more resilient in battle – although they aren't exactly known for their hospitality. For any warrior, though, being Spiny would be quite the boon; Koopas in particular will go out of their way to acquire spikier shells.
+> Spiny creatures are covered in spikes, making them stronger and more resilient in battle – although they aren't exactly known for their hospitality.  
+> For any warrior, though, being Spiny would be quite the boon; Koopas in particular will go out of their way to acquire spikier shells.
 >
 > *e.g. Koopaling, Spiny*{: .italic }
 >
@@ -1533,10 +1166,11 @@ Above all else, keep in mind that this is intended to easily put together unique
 >
 > {: .specie-inner-callout }
 > > *Add*{: .text-gamma .header-font }  
-> > Immune (Aerial)  
-> > *This Immunity is negated if the attacker has Immune (Spikes).*{: .mgl .fs-3 }  
+> > Immune (Contact)  
+> > *This Immunity is negated if the attacker uses an Indirect attack or is otherwise unaffected to your spikes.*{: .mgl .fs-3 }  
+> > *Depending on the nature of the attack and the position of your spikes, certain attack may still bypass this immunity.*{: .mgl .fs-3 }  
 > > Contact  
-> > *The attacker takes 1 Piercing DMG, and you make a **Steady**{: .courage-color } check; the attacker is Dazed (1) for 1 turn for each Grade of Success.
+> > *The attacker takes 1 Piercing DMG, and you make a **Steady**{: .courage-color } check; the attacker is Dazed (1) for 1 turn for each Grade of Success.*{: .mgl .fs-3 }
 > >
 >
 > {: .specie-inner-callout }
@@ -1565,7 +1199,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > {: .specie-inner-callout }
 > > *Conditions*{: .text-gamma .header-font }  
 > >
-> > Can't be applied to existing Spiny species (i.e. species with Contact and Immune (Aerial)).
+> > Can't be added onto species which already have Immune (Contact).
 > >
 >
 
@@ -1577,7 +1211,8 @@ Above all else, keep in mind that this is intended to easily put together unique
 >
 > ![](assets/images/species/sub/tanooki.png)
 > {: .float-right-desktop }
-> Mischievous tricksters imbued with the innate abilities of Super Leaves. Their magical feats are legendary in folklore, though they're quite rare – perhaps because of their natural cunning, they tend to shy away from direct confrontation.
+> Mischievous tricksters imbued with the innate abilities of Super Leaves.  
+> Their magical feats are legendary in folklore, though they're quite rare – perhaps because of their natural cunning, they tend to shy away from direct confrontation.
 >
 > *e.g. Tail Thwomp, Tanoomba*{: .italic }
 >
@@ -1588,12 +1223,12 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > *+ Athletics (Fly)*{: .heart-color }  
 > > *+ Trickery (Disguise)*{: .spirit-color }  
 > > *+ Magic (Shape-Change)*{: .spirit-color }  
-> > Clone (Illusions)  
 > > Fly  
 > > Latent (Stone Cap)  
-> > *For **5 FP**{: .spirit-color }: Activate the effect of a Stone Cap, targeting yourself.*{: .mgl .fs-3 }  
+> > *For **5 FP**{: .spirit-color }:*{: .mgl .fs-3 }  
+> > *Activate the effect of a Stone Cap, targeting yourself.*{: .mgl-big .fs-3 }  
 > > Mimicry  
-> > *If used without a visual aid or reference, you receive a -1 penalty to its Grade of Success.
+> > Mirage  
 > > Weakness (Blast, Quake)  
 > > *This Weakness only applies while in a stone form.*{: .mgl .fs-3 }  
 > > *Your stone form is chipped, nullifying its effects and Dazing (1) you for a turn for each point of damage taken (minimum 1 turn).*{: .mgl .fs-3 }
@@ -1603,7 +1238,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > *Remove*{: .text-gamma .header-font }  
 > > Specialisations from the base species in *Guard*{: .heart-color }, *Heal*{: .heart-color }, *Knowhow*{: .spirit-color }, *Bully*{: .courage-color } and *Steady*{: .courage-color }; remove any remaining specialisations from the final species one at a time until you have at most 3
 > > 
-> > Clone (Copies) 
+> > Clone 
 > > 
 >
 > {: .specie-inner-callout }
@@ -1638,7 +1273,9 @@ Above all else, keep in mind that this is intended to easily put together unique
 >
 > ![](assets/images/species/sub/toxic.png)
 > {: .float-right-desktop }
-> Creatures with volatile poison coursing through their veins. Usually this adaptation is reserved for wildlife, where they show bright colours as a warning to predators. Toxic creatures are generally seen as dangerous and difficult to get along with – but the strength of their poison is undeniable.
+> Creatures with volatile poison coursing through their veins.  
+> Usually this adaptation is reserved for wildlife, where they show bright colours as a warning to predators.  
+> Toxic creatures are generally seen as dangerous and difficult to get along with – but the strength of their poison is undeniable.
 >
 > *e.g. Poison Puff, Putrid Piranha*{: .italic }
 >
@@ -1650,7 +1287,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > *+ Knowhow (Poison)*{: .spirit-color }  
 > > *+ Bully (Poison)*{: .courage-color }  
 > > Immune (Poison)  
-> > *You heal **5 HP**{: .heart-color } instead.*{: .mgl .fs-3 }  
+> > *You heal **+5 HP**{: .heart-color } instead.*{: .mgl .fs-3 }  
 > > Weakness (Fire, Water)  
 > > *Your poison is burned up, diluted or otherwise hampered, causing any checks you make to inflict Lingering poisons to be Weakened at a Status Level equal to half the damage taken (minimum 1).*{: .mgl .fs-3 }  
 > > *This effect lasts for a number of turns equal to the damage taken (minimum 1 turn).*{: .mgl .fs-3 }
@@ -1664,8 +1301,8 @@ Above all else, keep in mind that this is intended to easily put together unique
 > {: .specie-inner-callout }
 > > *Added Tech Defaults*{: .text-gamma .header-font }  
 > >
-> > Empower x2 (for Lingering poisons only)  
-> > *Lingering x2*{: .alt-grey-line }  
+> > Empower x2 *(for Lingering poisons only)*{: .fs-3 }  
+> > *Lingering x3*{: .alt-grey-line }  
 > > Terrain  
 > > *Goop or Smog only; choose during character creation*{: .mgl .fs-3 }  
 > > *Weaken (Defense)*{: .alt-grey-line }  

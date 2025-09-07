@@ -3846,7 +3846,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > >
 > > +1 Custom Sets  
 > > Custom Sets are customisable Tech Defaults defined during character creation.  
-> > For PSirens, each set can include any Traits totalling no more than *2 FP*{: .spirit-color }, *must*{: .underlined .bold } include Element ("Element") for no additional *FP cost*{: .spirit-color }, and can't include negative Traits.
+> > For Sirens, each set can include any Traits totalling no more than *2 FP*{: .spirit-color }, *must*{: .underlined .bold } include Element ("Element") for no additional *FP cost*{: .spirit-color }, and can't include negative Traits.
 > >
 >
 > {: .specie-inverted-callout }
