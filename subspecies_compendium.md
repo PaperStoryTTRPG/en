@@ -82,6 +82,9 @@ Above all else, keep in mind that this is intended to easily put together unique
 > >
 >
 
+---
+{: .species-separator }
+
 {: .subspecie-callout }
 > ## Aqua- 
 >
@@ -156,6 +159,9 @@ Above all else, keep in mind that this is intended to easily put together unique
 > >
 >
 
+---
+{: .species-separator }
+
 {: .subspecie-callout }
 > ## Blessed- 
 >
@@ -219,6 +225,9 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > Can't be combined with Shadow-.
 > >
 >
+
+---
+{: .species-separator }
 
 {: .subspecie-callout }
 > ## Blooming- 
@@ -293,6 +302,9 @@ Above all else, keep in mind that this is intended to easily put together unique
 > >
 >
 
+---
+{: .species-separator }
+
 {: .subspecie-callout }
 > ## Breezy- 
 >
@@ -365,6 +377,9 @@ Above all else, keep in mind that this is intended to easily put together unique
 > >
 >
 
+---
+{: .species-separator }
+
 {: .subspecie-callout }
 > ## Bulky- 
 >
@@ -420,6 +435,9 @@ Above all else, keep in mind that this is intended to easily put together unique
 > >
 >
 
+---
+{: .species-separator }
+
 {: .subspecie-callout }
 > ## Dank- 
 >
@@ -471,6 +489,9 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > Can't be combined with Blooming-.
 > >
 >
+
+---
+{: .species-separator }
 
 {: .subspecie-callout }
 > ## Dreamy- 
@@ -535,6 +556,9 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > Can't be combined with Dry- or Spectral-.
 > >
 >
+
+---
+{: .species-separator }
 
 {: .subspecie-callout }
 > ## Dry- 
@@ -605,6 +629,9 @@ Above all else, keep in mind that this is intended to easily put together unique
 > >
 >
 
+---
+{: .species-separator }
+
 {: .subspecie-callout }
 > ## Electric- 
 >
@@ -672,6 +699,9 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > The final species can't combine Aqua-, Blooming-, Breezy-, Charged-, Flame-, Frosty- or Rugged-.
 > >
 >
+
+---
+{: .species-separator }
 
 {: .subspecie-callout }
 > ## Flame- 
@@ -744,6 +774,9 @@ Above all else, keep in mind that this is intended to easily put together unique
 > >
 >
 
+---
+{: .species-separator }
+
 {: .subspecie-callout }
 > ## Frosty- 
 >
@@ -809,6 +842,9 @@ Above all else, keep in mind that this is intended to easily put together unique
 > >
 >
 
+---
+{: .species-separator }
+
 {: .subspecie-callout }
 > ## Gold- 
 >
@@ -857,6 +893,9 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > Can't be combined with Shadow-.
 > >
 >
+
+---
+{: .species-separator }
 
 {: .subspecie-callout }
 > ## Hyper- 
@@ -910,6 +949,9 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > N/A
 > >
 >
+
+---
+{: .species-separator }
 
 {: .subspecie-callout }
 > ## Marine- 
@@ -967,6 +1009,9 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > Can't be added if the base species would normally have Aquatic.
 > >
 >
+
+---
+{: .species-separator }
 
 {: .subspecie-callout }
 > ## Mecha- 
@@ -1033,6 +1078,9 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > Can't be combined with Blooming-, Metal- or Rugged-.
 > >
 >
+
+---
+{: .species-separator }
 
 {: .subspecie-callout }
 > ## Metal- 
@@ -1105,6 +1153,9 @@ Above all else, keep in mind that this is intended to easily put together unique
 > >
 >
 
+---
+{: .species-separator }
+
 {: .subspecie-callout }
 > ## Mini- 
 >
@@ -1166,6 +1217,9 @@ Above all else, keep in mind that this is intended to easily put together unique
 > >
 >
 
+---
+{: .species-separator }
+
 {: .subspecie-callout }
 > ## Para- 
 >
@@ -1223,6 +1277,9 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > Can't be combined with Aqua- or Marine-. 
 > >
 >
+
+---
+{: .species-separator }
 
 {: .subspecie-callout }
 > ## Rugged- 
@@ -1303,6 +1360,9 @@ Above all else, keep in mind that this is intended to easily put together unique
 > >
 >
 
+---
+{: .species-separator }
+
 {: .subspecie-callout }
 > ## Shadow- 
 >
@@ -1375,6 +1435,9 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > Can't be combined with Blessed-.
 > >
 >
+
+---
+{: .species-separator }
 
 {: .subspecie-callout }
 > ## Spectral- 
@@ -1454,6 +1517,9 @@ Above all else, keep in mind that this is intended to easily put together unique
 > >
 >
 
+---
+{: .species-separator }
+
 {: .subspecie-callout }
 > ## Spiny- 
 >
@@ -1502,6 +1568,9 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > Can't be applied to existing Spiny species (i.e. species with Contact and Immune (Aerial)).
 > >
 >
+
+---
+{: .species-separator }
 
 {: .subspecie-callout }
 > ## Tanooki- 
@@ -1560,6 +1629,9 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > N/A
 > >
 >
+
+---
+{: .species-separator }
 
 {: .subspecie-callout }
 > ## Toxic- 

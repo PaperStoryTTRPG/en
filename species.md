@@ -38,7 +38,7 @@ While all the peoples of the Mushroom Kingdom are wildly different, their advant
 > {: .specie-pros-callout }
 > > *Pros*{: .text-gamma .header-font }  
 > > The Skill Specialisations and other Traits that make denizens of that Species more capable.  
-*Some Traits, like Immune, will be described in more detail like this.*{: .mgl .fs-3 }
+> > *Some Traits, like Immune, will be described in more detail like this.*{: .mgl .fs-3 }
 > > 
 > > {: .specie-inner-pros-callout }
 > > > Some collections of positive traits will be grouped in a coloured box, like this.
