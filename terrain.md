@@ -354,8 +354,6 @@ Finally, note that if both a Pro and a Con of a Terrain would apply in a given s
 > 
 > Characters with Immune (Ice) or Resist (Ice) ignore penalties to their skill checks from the snow.
 >
-> Depending on the nature of the smog, strong gusts of wind, scorching hot flame or other effects can dismiss the smog altogether.
->
 > {: .terrain-pros-callout }
 > > *Pros*{: .header-font .fs-5 }
 > >
