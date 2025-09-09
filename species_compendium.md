@@ -3823,7 +3823,6 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > *+ Magic (Illusion)*{: .spirit-color }  
 > > *+ Bully ("Element")*{: .courage-color }  
 > > 1 Resist ("Element")  
-> > Devotion ("Element")  
 > > *Elements besides your own are restricted*{: .mgl .fs-3 }  
 > > Efficient (Curses, De-Buffs, "Element", Illusions)  
 > > Fly  
@@ -3834,6 +3833,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > Weakness (Opposing Elements)  
 > > *You take +2 damage and become Dazed (1) for a number of turns equal to the damage taken.*{: .mgl .fs-3 }  
 > > *Your Opposing Elements are defined at the same time as your Element.*{: .mgl .fs-3 }  
+> > Devotion ("Element")  
 > > Legless
 >
 > {: .specie-inner-callout }
