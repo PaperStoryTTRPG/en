@@ -426,7 +426,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 >
 > ... but despite the odds, it seems wherever these elemental beings go they rise above the crowd to make a name for themselves.
 >
-> *[Material]*{: .header-font } *e.g. Fire Bro, Frost Piranha, Petal Guy, Thunder Lakitu, Blimp Yoshi, Bombshell Koopa, Chill Bully, Pyro Guy*{: .italic }
+> *[Elemental]*{: .header-font } *e.g. Fire Bro, Frost Piranha, Petal Guy, Thunder Lakitu, Blimp Yoshi, Bombshell Koopa, Chill Bully, Pyro Guy*{: .italic }
 >
 > *Bombshell Koopa & Blimp Yoshi art: **@meineeds.rest**{: .courage-color }*{: .italic .fs-3 }
 >
