@@ -450,7 +450,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > *Stun*{: .alt-grey-line }  
 > >
 > > *Optional*{: .underlined }: Element (Shock) on Counter or Stun Techniques,  
-> > ***or**{: .underlined } Element (Water) on Disorient or Ranged Techniques*{: .mgl }
+> > ***or**{: .underlined } Element (Water) on Disorient or Ranged Techniques*{: .mgl-big }
 >
 > {: .specie-inverted-callout }
 > > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
@@ -523,7 +523,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > *Scaling*{: .alt-grey-line }
 > > 
 > > *Optional*{: .underlined }: Element (Blast) on attacks,  
-> > ***or**{: .underlined } Element (Blast) and Variant (*Athletics*{: .heart-color}) on Indirect attacks.*{: .mgl }
+> > ***or**{: .underlined } Element (Blast) and Variant (*Athletics*{: .heart-color}) on Indirect attacks.*{: .mgl-big }
 >
 > {: .specie-inverted-callout }
 > > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
@@ -894,7 +894,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > *Underfoot*{: .alt-grey-line }  
 > >
 > > *Optional*{: .underlined }: Add a single Split Slot to Flowery Techniques which can't contain Strikes,  
-> > ***or**{: .underlined } Element (Earth) on melee attacks*{: .mgl }  
+> > ***or**{: .underlined } Element (Earth) on melee attacks*{: .mgl-big }  
 >
 > {: .specie-inverted-callout }
 > > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
@@ -1728,8 +1728,8 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > *Variant (**Perform**{: .courage-color })*{: .alt-grey-line }
 > > 
 > > *Optional*{: .underlined }: Add a single Split Slot to Flowery Techniques which can't contain Strikes,  
-> > ***or**{: .underlined } Ranged on Techniques with Variant (**Perform**{: .courage-color }),*{: .mgl }  
-> > ***or**{: .underlined } Element (Earth) on melee attacks.*{: .mgl }  
+> > ***or**{: .underlined } Ranged on Techniques with Variant (**Perform**{: .courage-color }),*{: .mgl-big }  
+> > ***or**{: .underlined } Element (Earth) on melee attacks.*{: .mgl-big }  
 > >
 >
 > {: .specie-inverted-callout }
@@ -3068,7 +3068,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > *Hearty x2*{: .alt-grey-line }  
 > >
 > > *Optional*{: .underlined }: Element (Water) on Indirect or Ranged Techniques  
-> > ***or**{: .underlined } Variant (**Athletics**{: .heart-color }) on Indirect attacks*{: .mgl }  
+> > ***or**{: .underlined } Variant (**Athletics**{: .heart-color }) on Indirect attacks*{: .mgl-big }  
 >
 > {: .specie-inverted-callout }
 > > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
@@ -3444,7 +3444,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > *Terrain (Weather)*{: .alt-grey-line }  
 > >
 > > *Optional*{: .underlined }: Element (Air/Water) on Indirect or Ranged Techniques  
-> > ***or**{: .underlined } Element (Shock) on Stun Techniques*{: .mgl }
+> > ***or**{: .underlined } Element (Shock) on Stun Techniques*{: .mgl-big }
 >
 > {: .specie-inverted-callout }
 > > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
@@ -4854,7 +4854,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > Variant (*Knowhow*{: .spirit-color })  
 > >
 > > *Optional*{: .underlined }: Variant (*Crafts*{: .spirit-color }) on Boost/Weaken Techniques  
-> > ***or**{: .underlined } Variant (**Knowhow**{: .spirit-color }) on Boost/Weaken Techniques*{: .mgl }  
+> > ***or**{: .underlined } Variant (**Knowhow**{: .spirit-color }) on Boost/Weaken Techniques*{: .mgl-big }  
 >
 > {: .specie-inverted-callout }
 > > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
@@ -4985,7 +4985,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > *Secure (Mini-Yux Barrier)*{: .alt-grey-line }  
 > >
 > > *Optional*{: .underlined }: Element (Shock) on Ranged attacks  
-> > ***or**{: .underlined } Variant (**Steady**{: .courage-color }) on Minion and Secure Techniques*{: .mgl }  
+> > ***or**{: .underlined } Variant (**Steady**{: .courage-color }) on Minion and Secure Techniques*{: .mgl-big }  
 >
 > {: .specie-inverted-callout }
 > > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  

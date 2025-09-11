@@ -131,7 +131,7 @@ For some of the rarer Species, or those less inclined to adventure – from Toad
 > > *Scaling*{: .alt-grey-line }
 > > 
 > > *Optional*{: .underlined }: Element (Blast) on attacks,  
-> > ***or**{: .underlined } Element (Blast) and Variant (*Athletics*{: .heart-color}) on Indirect attacks.*{: .mgl }
+> > ***or**{: .underlined } Element (Blast) and Variant (*Athletics*{: .heart-color}) on Indirect attacks.*{: .mgl-big }
 >
 > {: .specie-inverted-callout }
 > > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
@@ -267,8 +267,8 @@ For some of the rarer Species, or those less inclined to adventure – from Toad
 > > *Variant (**Perform**{: .courage-color })*{: .alt-grey-line }
 > > 
 > > *Optional*{: .underlined }: Add a single Split Slot to Flowery Techniques which can't contain Strikes,  
-> > ***or**{: .underlined } Ranged on Techniques with Variant (**Perform**{: .courage-color }),*{: .mgl }  
-> > ***or**{: .underlined } Element (Earth) on melee attacks.*{: .mgl }  
+> > ***or**{: .underlined } Ranged on Techniques with Variant (**Perform**{: .courage-color }),*{: .mgl-big }  
+> > ***or**{: .underlined } Element (Earth) on melee attacks.*{: .mgl-big }  
 > >
 >
 > {: .specie-inverted-callout }
