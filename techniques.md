@@ -922,7 +922,7 @@ The Roulette spinner's world is limitless.* ![](assets/images/icons/tipguy.png)
 {: .content-callout }
 > ### *Blowback*{: .negative-color} *(-4 FP)*{: .spirit-color .normal-font .fs-3 }
 >
-> After finishing this attack, the user loses *HP*{: .heart-color } equal to ½ the Raw Damage thhis attack would deal to a single target; if there's a range of different damage totals, refer to the highest Raw Damage potential possible.  
+> After finishing this attack, the user loses *HP*{: .heart-color } equal to ½ the Raw Damage this attack would deal to a single target; if there's a range of different damage totals, refer to the highest Raw Damage potential possible.  
 >
 > If this attack would affect the target with a Secondary Check, the user is affected as well, though they can resist with *Steady*{: .courage-color } as normal.  
 >

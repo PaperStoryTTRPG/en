@@ -556,7 +556,7 @@ This flexibility brings a lot of added complexity, though. It's extremely import
 >
 > {: .specie-inner-callout }
 > > *Remove*{: .text-gamma .header-font }  
-> > Specialisations from the base species in *Heal*{: .heart-color }, *Magic*{: .notice-color }, *Notice*{: .spirit-color } and *Cheer*{: .courage-color }; remove any remaining specialisations from the final species one at a time until you have at most 3
+> > Specialisations from the base species in *Heal*{: .heart-color }, *Magic*{: .spirit-color }, *Notice*{: .spirit-color } and *Cheer*{: .courage-color }; remove any remaining specialisations from the final species one at a time until you have at most 3
 > > 
 >
 > {: .specie-inner-callout }
