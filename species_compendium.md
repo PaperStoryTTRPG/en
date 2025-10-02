@@ -2650,7 +2650,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > Lakitu are offshoots of Koopas known for their partnership with the clouds.  
 > While they can walk around like a normal Koopa they rarely leave their clouds, preferring to attack from above.
 >
-> ***+2 Spirit***{: .text-gamma .header-font }  
+> ***+2 Spirit***{: .spirit-color .text-gamma .header-font }  
 > *1 Power, 0 Defense*{: .text-gamma .header-font }  
 >
 > {: .specie-pros-callout }
