@@ -4908,7 +4908,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
-> > Weaken (Sleep)  
+> > Weakness (Sleep)  
 > > *The Level and Duration of all Statuses you suffer associated with sleep are doubled.*{: .mgl .fs-3 }
 >
 > {: .specie-inner-callout }
