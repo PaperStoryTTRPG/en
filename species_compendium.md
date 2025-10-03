@@ -1580,7 +1580,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > *Pros*{: .text-gamma .header-font }  
 > > *+ Aim (Spit)*{: .heart-color }  
 > > *+ Knowhow (Commerce)*{: .spirit-color }  
-> > *or **+ Notice (Trasure)**{: .spirit-color }*{: .mgl }  
+> > *or **+ Notice (Treasure)**{: .spirit-color }*{: .mgl }  
 > > *+ Trickery (Camouflage)*{: .spirit-color }  
 > > +½ Starting Coins  
 > > +1 Inventory Slot  
@@ -1589,7 +1589,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
 > > Weakness (Fear)  
-> > *The Level and Duration of all Statusesyou suffer associated with fear are doubled.*{: .mgl .fs-3 }  
+> > *The Level and Duration of all Statuses you suffer associated with fear are doubled.*{: .mgl .fs-3 }  
 > > Handless
 >
 > {: .specie-inner-callout }
