@@ -2127,7 +2127,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > > *Good!*{: .good-color }: 2 Piercing DMG, 1 Piercing DMG  
 > > > *Great!*{: .great-color }: 2 Piercing DMG, 1 Piercing DMG x2  
 > > > Restores *HP*{: .heart-color } equal to half the damage dealt.  
-> > > *Drain, Aerial, Strong, Unwieldy*{: .italic .fs-3 }
+> > > *Drain, Aerial, Piercing, Strong, Unwieldy*{: .italic .fs-3 }
 > > >
 > >
 >
