@@ -523,7 +523,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > *Scaling*{: .alt-grey-line }
 > > 
 > > *Optional*{: .underlined }: Element (Blast) on attacks,  
-> > ***or**{: .underlined } Element (Blast) and Variant (*Athletics*{: .heart-color}) on Indirect attacks.*{: .mgl-big }
+> > ***or**{: .underlined } Element (Blast) and Variant (**Athletics**{: .heart-color}) on Indirect attacks.*{: .mgl-big }
 >
 > {: .specie-inverted-callout }
 > > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
