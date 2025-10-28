@@ -23,12 +23,14 @@ nav_order: 16
 Players can call on the favour of the Stars to get one up on the competition. 
 
 Players can have up to to *10 SP*{: .courage-color } at a time, or more if their maximum *SP*{: .courage-color } increases, but they begin each session with *0*{: .courage-color }.
-Allied players can share their *SP*{: .courage-color } with one another at-will, as long as they're nearby and able to support one another.
+Allied players can help one another out, sharing the blessing of the Stars!
+Whenever you would spend *SP*{: .courage-color }, you can borrow up to *5 SP*{: .courage-color } from each of your nearby allies who are willing and able to help; this *SP*{: .courage-color } isn't added to your pool, and is simply spent immediately.
 
 In addition to fuelling certain rare and powerful artifacts, *SP*{: .courage-color } can be used on the following special abilities:
 
 {: .content-callout }
-> ## Try Again  
+> ## Try Again
+> {: .courage-color }
 >
 > By spending *5 SP*{: .courage-color }, the Stars can smile on you and give you a second chance!  
 >
@@ -39,6 +41,7 @@ In addition to fuelling certain rare and powerful artifacts, *SP*{: .courage-col
 
 {: .content-callout }
 > ## Exceptional Effort  
+> {: .courage-color }
 > 
 > By spending *5 SP*{: .courage-color }, you can give yourself a sudden burst of inspiration with Exceptional Effort!
 >
@@ -47,6 +50,7 @@ In addition to fuelling certain rare and powerful artifacts, *SP*{: .courage-col
 
 {: .content-callout }
 > ## Second Wind  
+> {: .courage-color }
 > 
 > By spending *5 SP or more*{: .courage-color }, you can rally yourself for a Second Wind!
 >
@@ -56,9 +60,10 @@ In addition to fuelling certain rare and powerful artifacts, *SP*{: .courage-col
 > Healing with a Second Wind still doesn't let you recover from a KO'd state, though it can put you in a better position to act once you recover.
 
 {: .content-callout }
-> ## Improvise
+> ## Improvised Techniques
+> {: .courage-color }
 > 
-> By spending *5 SP or more*{: .courage-color }, you can inspire and Improvised Technique!  
+> By spending *5 SP or more*{: .courage-color }, you can inspire an Improvised Technique!  
 > It has to make sense and be something you or your allies could reasonably accomplish, but otherwise, the sky's the limit!
 >
 > You can use this ability at-will to develop a brand new Technique!  
@@ -69,9 +74,9 @@ In addition to fuelling certain rare and powerful artifacts, *SP*{: .courage-col
 > When designing an Improvised Technique, the final effective *FP cost*{: .spirit-color } can't be more than *½ the SP*{: .courage-color } spent.  
 > You can include:  
 >
-> - 1 of your Tech Default sets; as per usual, this doesn't affect the effective *FP cost*{: .spirit-color }.
-> - Any applicable Optional and Required Tech Defaults you have; Required Tech Defaults must be included, as per usual, and neither affect the effective *FP cost*{: .spirit-color }.
-> - Up to one *positive*{: .positive-color .underlined } and up to one *negative*{: .negative-color .underlined } Technique Trait for every *5 SP*{: .courage-color } you spent.  
+> - One Tech Default set from each character that contributed at least *5 SP*{: .courage-color } to this Technique; as per usual, this doesn't affect the effective *FP cost*{: .spirit-color }.
+> - Any applicable Optional and Required Tech Defaults you have; Required Tech Defaults must be included, as per usual, but neither affect the effective *FP cost*{: .spirit-color }.
+> - Up to one *positive*{: .positive-color .underlined } and up to one *negative*{: .negative-color .underlined } Technique Trait for every *5 SP*{: .courage-color } spent.  
 > Each new Trait added has to be distinct and unique; you could include multiple variations on *Boost*{: .positive-color }, but not multiple instances of *Strong*{: .positive-color }.
 > - If any of the included Traits can be taken multiple times, you can add up to one extra copy for every *5 SP*{: .courage-color } spent.
 > - *No matter what*{: .underlined }, the Improvised Technique can't restore *HP*{: .heart-color }, *FP*{: .spirit-color } or *SP*{: .courage-color }.
@@ -87,7 +92,7 @@ In addition to fuelling certain rare and powerful artifacts, *SP*{: .courage-col
 > > 
 > > By spending *10 SP*{: .courage-color }, the Pianta can improvise a truly impressive Technique!  
 > > They include Strong as a Tech Default, then add two additional Traits from their *SP*{: .courage-color } – Ranged, and Strike-Through.  
-> > The end result is a Technique with Strong, Ranged and Strike-Through x2 (which is added twice, because of the *SP*{: .courage-color } spent). This would normally have an effective FP cost of *4 FP*{: .spirit-color }, barely less than the *5 FP*{: .spirit-color } limit they had to work with!  
+> > The end result is a Technique with Strong, Ranged and Strike-Through. This would normally have an effective FP cost of *3 FP*{: .spirit-color }, a little less than the *5 FP*{: .spirit-color } limit they had to work with!  
 > >
 > > With a mighty shotput hurl, they launch the Goomba through as many Lakitus as possible!
 >

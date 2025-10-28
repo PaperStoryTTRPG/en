@@ -126,7 +126,8 @@ Finally, if a Status is mentioned without specifying its Level, assume it's Leve
 > At the start of your turn roll 1d6; if the result is greater than the Status Level, you can keep a cool head and act as normal.  
 > Otherwise, you must make the subject of this Status your primary target, and can't use attacks that affect other targets, use non-damaging Techniques, or take any other action.  
 > If an attack would primarily target them, but have consequences for other characters (such as a *Burst*{: .positive-color }, *Launch*{: .positive-color } or *Strike-Through*{: .positive-color } attack), that can still be used.  
-> If an attack on the target isn't possible, you can act freely, but you're still Provoked; if in the future it's possible to attack the target, you'll have to resist this Status as normal.
+> If you can still see your target but an attack on them isn't possible, you can act freely, but you're still Provoked; if in the future it's possible to attack the target, you'll have to resist this Status as normal.  
+> If your target leaves or is KO'd, this Status ends immediately, allowing you to finally calm down.
 
 {: .content-callout }
 > ![](assets/images/status/secure.png)

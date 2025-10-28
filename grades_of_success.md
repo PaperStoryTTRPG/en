@@ -45,11 +45,13 @@ In the event of a tie, compare the relevant Stat for each tied player and the hi
 
 ## Exceptional Results
 
-High rolls are always worthwhile, as the Stars bestow their blessing on exceptional individuals. Even if you chose to take a lower result, you gerate *SP*{: .courage-color } based on the total Grades of Success you rolled.  
+High rolls are always worthwhile, as the Stars bestow their blessing on exceptional individuals. Even if you chose to take a lower result, you generate *SP*{: .courage-color } based on the total Grades of Success you rolled.  
 
-This *SP*{: .courage-color } can be added to your pool immediately, or spent immediately to fuel [*Exceptional Techniques*{: .courage-color .underlined }]({{ "/exceptional_techniques" | absolute_url }}).
+You can add a maximum of *10 SP*{: .courage-color } that you've generated straight into your pool each round, whether that's generated from your attacks, status effects or defensive reactions.
 
-Be mindful though that if you spend any *SP*{: .courage-color } during the check – such as to [Try Again]({{ "/star_power#try-again" | absolute_url }}) – you can't generate any *SP*{: .courage-color } for your result.
+Alternatively, you can spend *SP*{: .courage-color } generated from your Techniques immediately to fuel [*Exceptional Techniques*{: .courage-color .underlined }]({{ "/exceptional_techniques" | absolute_url }}), even if you've hit your *SP*{: .courage-color } limit for the round!
+
+Be mindful though that if you spend any *SP*{: .courage-color } as part of this action – such as to [Try Again]({{ "/star_power#try-again" | absolute_url }}), use [Exceptional Effort]({{ "/star_power#exceptional-effort" | absolute_url }}) or as part of an *Alt-Cost*{: .positive-color } – you can't generate any *SP*{: .courage-color }, regardless of your result.
 
 Otherwise, as long as your rolled dice for your check, and your action is successful:
 - *Great*{: .great-color } results generate *1 SP*{: .courage-color }!

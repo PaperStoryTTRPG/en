@@ -237,7 +237,7 @@ The Skills mentioned here should be considered the default for their related act
 > > Super Gear costs a whopping 400 Coins, so this is a tall order, but it's well worth the effort.  
 > > They earn a *Wonderful*{: .wonderful-color } result, for an equivalent of 40 Coins; an impressive outcome but only a tenth of the way there.  
 > > They try to push themselves to keep working, and earn a *Great*{: .great-color } result on the second check; this only adds on 10 Coins, for a total of 50.  
-> > They decide to set the project aside before they make a Mistake, but take pride that their new Gear is 1/8 complete.
+> > They decide to set the project aside before they make a Mistake, but take pride that their new Gear is one eighth complete.
 > 
 > Once you've created something or otherwise know how it's made, it becomes easier to craft, with value starting from 10 Coins on a *Nice*{: .nice-color } result.
 >
@@ -351,7 +351,7 @@ The Skills mentioned here should be considered the default for their related act
 > 
 > Whatever kind of spell you cast, you choose beforehand how much of your *Magic*{: .spirit-color } dicepool and *Spirit*{: .spirit-color } dicepool to "unlock"; this includes dice you receive from your Skill and your relevant Specialisations.  
 >
-> Note though that you don't have to pay or unlock situational or temporary bonuses, like the aid you'd get from someone's assistance, a Boost Status, *Magic*{: .spirit-color }-boosting Gear or the extra *Spirit*{: .spirit-color } you get from a Spirit Plus [Badge]({{ "/inventory#badges" | absolute_url }}).
+> Note though that you don't have to pay or unlock situational or temporary bonuses, like the aid you'd get from someone's assistance, a [Boost Status]({{ "/statuses#boosted" | absolute_url }}), *Magic*{: .spirit-color }-boosting [Gear]({{ "/inventory#gear" | absolute_url }}) or the extra *Spirit*{: .spirit-color } you get from a Spirit Plus [Badge]({{ "/inventory#badges" | absolute_url }}).
 >
 > - To unlock up to 1 of your *Magic*{: .spirit-color } dice and up to 2 of your *Spirit*{: .spirit-color } points, pay *3 FP*{: .spirit-color } at a time.
 > - - If you have a relevant Specialisation, you pay *2 FP*{: .spirit-color } at a time instead.
@@ -420,7 +420,7 @@ The Skills mentioned here should be considered the default for their related act
 > > 
 > > *Magic*{: .spirit-color } can be used to temporarily enchant targets with [Personal Traits]({{ "/personal_traits" | absolute_url }}), such as Fly, Invisibility or Mimicry.  
 > > 
-> > Make a *Magic*{: .spirit-color } check and choose a Personal Trait; if you succeed, the target receives the chosen Trait, lasting a number of turns equal to your *Magic*{: .spirit-color } dicepool or *Spirit*{: .spirit-color } statpool (whichever's higher).  
+> > Make a *Magic*{: .spirit-color } check and choose a Personal Trait; if you succeed, the target receives the chosen Trait, lasting a number of turns equal to your *Magic*{: .spirit-color } dicepool or *Spirit*{: .spirit-color } pool (whichever's higher).  
 > > Numerical values of the Trait (e.g. Resist, Contact damage, Status Level) are all set to 1, even if they would normally be higher.  
 > > For each Grade of Success you earn, you can choose one:
 > > - The Enchantment lasts for one more turn.
@@ -433,7 +433,7 @@ The Skills mentioned here should be considered the default for their related act
 > >
 > > You have to specify any particulars of the Trait, such as the elements affected or the exact Contact effect, when you cast the enchantment; these effects should be based on existing Personal Traits, with the GM having final say on what's possible.
 > >
-> > Any *FP*{: .spirit-color } costs associated with the Trait cost *double FP*{: .spirit-color }; however, you can substitute that with whatever *FP*{: .spirit-color } you spent casting the enchantment, for as long as the enchantment lasts.  
+> > Any *FP costs*{: .spirit-color } associated with the Trait cost *double FP*{: .spirit-color }; however, you can substitute that with whatever *FP*{: .spirit-color } you spent casting the enchantment, for as long as the enchantment lasts.  
 > > As an added bonus, any action taken or checks made to initiate the Trait (such as starting to fly or transforming with Mimicry) use the action and *Magic*{: .spirit-color } check of the enchantment instead.  
 > > Trying to take these actions after being enchanted requires the target roll as normal, though.
 > >
@@ -444,7 +444,7 @@ The Skills mentioned here should be considered the default for their related act
 > > >
 > > > They decide to be conservative and pay *6 FP*{: .spirit-color } for two of their *Magic*{: .spirit-color } dice and their full *3 Spirit*{: .spirit-color }.  
 > > > They get a *Good*{: .good-color } result, and choose to give themselves the Invisibility Trait; they also add in the Fly Trait, and make it last an extra turn, for a total of 4 turns. They immediately turn invisible and start flying.  
-> > > Ordinarily it would cost *2 FP*{: .spirit-color } to turn invisible for a turn, and *2 FP*{: .spirit-color } for each turn after that; but because they've already spent *6 FP*{: .spirit-color }, they're already covered for the first three turns!
+> > > Ordinarily it would cost *2 FP*{: .spirit-color } to turn invisible for a turn, and *2 FP*{: .spirit-color } for each turn after that; but because they've already spent *6 FP*{: .spirit-color }, they won't have to pay any more *FP*{: .spirit-color } until the very last turn!
 > > 
 > 
 > {: .content-callout }
@@ -455,7 +455,7 @@ The Skills mentioned here should be considered the default for their related act
 > > Make a *Magic*{: .spirit-color } check and choose a quality the target has (e.g. a Personal Trait, a Status delivered by their attack, or an elemental affinity of their attack); if you succeed, the target suffers a Curse as if it was a Status, temporarily neutralising their ability to use that quality in some fashion.  
 > > They can recover as normal, such as with [Items]({{ "/inventory#items" | absolute_url }}) or [*Steady*{: .underlined .courage-color }]({{ "/skills_in_detail#steady---resisting-effects" | absolute_url }}), and players can make a *Steady*{: .courage-color } check to resist as a reaction, just like any other Status. 
 > >
-> > The Curse lasts a number of turns equal to your *Magic*{: .spirit-color } dicepool or *Spirit*{: .spirit-color } statpool (whichever's higher).  
+> > The Curse lasts a number of turns equal to your *Magic*{: .spirit-color } dicepool or *Spirit*{: .spirit-color } pool (whichever's higher).  
 > > For each Grade of Success you earn, you can choose one:
 > > - The Curse lasts for one more turn.
 > > - The Curse includes another quality.
@@ -483,13 +483,13 @@ The Skills mentioned here should be considered the default for their related act
 > > 
 > > *Magic*{: .spirit-color } can even be used to improvise Techniques on the fly!  
 > >
-> > Instead of making any Technique checks, you make one *Magic*{: .spirit-color } check to conjure up an effect; as long as you succeed, this Technique begins with 1 Grade of Success in any of its Primary or Secondary checks, 1 Power (regardless of your own), and an effective *FP cost*{: .spirit-color } of 0.  
+> > Instead of making any Technique checks, you make one *Magic*{: .spirit-color } check to conjure up an effect; as long as you succeed, this Technique begins with 1 Grade of Success in any of its Primary or Secondary checks, 1 Power (regardless of your own), and an effective *FP cost*{: .spirit-color } of *0 FP*{: .spirit-color }.  
 > > For each Grade of Success you earn, you can choose one:
 > > - Add *3 FP*{: .spirit-color } to the final Technique's effective cost.
 > > - Add a Grade of Success to the outcome of the Technique's Primary and/or Secondary Checks.
 > > - Add +1 Power.
 > >
-> > You can select up to your dicepool or *Spirit*{: .spirit-color } pool (whichever's higher) in positive Traits, and the same amount again in negative Traits, as long as the *FP cost*{: .spirit-color } for the combined Traits doesn't exceed the effective cost.  
+> > You can select up to your dicepool or *Spirit*{: .spirit-color } pool (whichever's higher) in *positive Traits*{: .positive-color }, and the same amount again in *negative Traits*{: .negative-color }, as long as the *FP cost*{: .spirit-color } for the combined Traits doesn't exceed the effective cost.  
 > >
 > > As this isn't an Innate Technique, and you're not directly attacking, it works a bit differently to a normal attack.  
 > > None of your own Tech Defaults are included in the Technique, you don't include your Attack modifier, and since you're not rolling the actual Technique's check you can't benefit from [*Exceptional Techniques*{: .underlined .courage-color }]({{ "/exceptional_techniques" | absolute_url }}).  
@@ -502,13 +502,13 @@ The Skills mentioned here should be considered the default for their related act
 > > > 
 > > > A Dayzee witch wants to cast a hex on their enemies, but doesn't have the right Techniques for the job. Instead, they improvise.  
 > > >
-> > > They spend *8 FP*{: .spirit-color } to use their full 4 dice from *3 Magic*{: .spirit-color } with a Specialisation in Hexes, and earn a *Great*{: .great-color } result.  
+> > > They spend *8 FP*{: .spirit-color } to use their full *3 Spirit*{: .spirit-color } and 4 dice from *3 Magic*{: .spirit-color } with a Specialisation in Hexes, and earn a *Great*{: .great-color } result.  
 > > > They can add up to 4 positive Traits, and up to 4 negative Traits.   
-> > > They want the hex to stop all their enemies in their tracks, so they add Group, Lengthen and Daze x3, giving the hex an effective cost of *8 FP*{: .spirit-color }.  
-> > > They don't need it to deal any damage though, and they're sure it will work without a hitch; so they give it the negative traits Harmless and Commitment, reducing the effective cost to just *3 FP*{: .spirit-color }.  
+> > > They want the hex to stop all their enemies in their tracks, so they add Group and Daze x3, giving the hex an effective cost of *7 FP*{: .spirit-color }.  
+> > > They don't need it to deal any damage though, and they're sure it will work without a hitch; so they give it the negative traits Harmless and Commitment, reducing the effective cost to just *2 FP*{: .spirit-color }.  
 > > > Finally, they take their 3 Grades of Success; 1 is spent increasing the *FP*{: .spirit-color } pool for the Technique to *3*{: .spirit-color }, which is enough to pay the effective cost.  
 > > > The last 2 are spent to give the Technique a *Great*{: .great-color } Grade of Success.  
-> > > The end result is a Technique that Dazes (3) their enemies for 4 turns, giving them plenty of time to act.
+> > > The end result is a Technique that Dazes (3) their enemies for 3 turns, giving them plenty of time to act.
 > >
 >
 
@@ -526,10 +526,10 @@ The Skills mentioned here should be considered the default for their related act
 > {: .example-callout}
 > > *Example: Dodging*{: .header-font }
 > >
-> > A Squeek is attacked by a pair of Hammer Bros, tossing two hammers at a time!
+> > A Squeek is attacked by a pair of Hammer Bros, tossing two hammers at a time for massive damage!
 > > 
-> > They can't handle their powerful hammer throws, and decide to *Dodge*{: .spirit-color } instead.  
-> > They make a *Trickery*{: .spirit-color } check and earn a *Wonderful*{: .wonderful-color } result. They're able to completely dodge two hammer throws, but have to take the two remaining hammers head-on.
+> > They can't handle all 4 powerful hammer throws, and decide to *Dodge*{: .spirit-color } instead.  
+> > They make a *Trickery*{: .spirit-color } check and earn a *Wonderful*{: .wonderful-color } result. They're able to completely dodge two of the thrown hammers, but have no choice but to take the last two head-on!
 > >
 > 
 > ![](assets/images/scenes/12.png)

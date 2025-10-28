@@ -232,7 +232,7 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > *Add*{: .text-gamma .header-font }  
 > > *+ Notice (Dark Places)*{: .spirit-color }  
 > > *+ Trickery (Darkness)*{: .spirit-color }  
-> > *+ Bully (Status)*{: .courage-color }  
+> > *+ Bully (Poison)*{: .courage-color }  
 > > +1 Resist (Poison)  
 > > Weakness (Sudden Light)  
 > > *You are stunned by the light, Dazing (1) you for a turn for each point of damage taken (minimum 1 turn).*{: .mgl .fs-3 }
@@ -503,9 +503,9 @@ Above all else, keep in mind that this is intended to easily put together unique
 > > *Terrain*{: .alt-grey-line }  
 > > *As appropriate to your environment(s); choose during character creation*{: .mgl .fs-3 .alt-grey-line }  
 > >
-> > +1 Custom Sets  
-> > Custom Sets are customisable Tech Defaults defined during character creation.  
-> > For Elementalists, each set can include any Traits totalling no more than *2 FP*{: .spirit-color }, *must*{: .underlined .bold } include Element ("Element") for no additional *FP cost*{: .spirit-color }, and can't include negative Traits.
+> > +1 Custom Set of Traits  
+> > *Custom Sets are customisable Tech Defaults defined during character creation.*{: .fs-3 }  
+> > *For Elementalists, each set can include any Traits totalling no more than **2 FP**{: .spirit-color }, must include Element ("Element") for no additional **FP cost**{: .spirit-color }, and can't include negative Traits.*{: .fs-3 }
 > >
 >
 > {: .specie-inner-callout }
@@ -1013,7 +1013,7 @@ This flexibility brings a lot of added complexity, though. It's extremely import
 > > *You're left Dazed (1) for a number of turns equal to the damage taken.*{: .mgl .fs-3 }  
 > > Devotion (Shadow)  
 > > *Non-Shadow elements are restricted.*{: .mgl .fs-3 }  
-> > Efficient (Shadow)  
+> > Efficient (Illusions, Shadow)  
 > > Hover  
 > > Intangibility  
 > > Invisibility
@@ -1024,7 +1024,8 @@ This flexibility brings a lot of added complexity, though. It's extremely import
 > > *Remove*{: .text-gamma .header-font }  
 > > Specialisations from the base species in *Athletics*{: .heart-color }, *Guard*{: .heart-color } and *Steady*{: .courage-color }; remove any remaining specialisations from the final species one at a time until you have at most 3
 > >
-> > Immunities, Resistances and Weaknesses from the *base*{: .underlined .bold } species
+> > Immunities, Resistances and Weaknesses from the *base*{: .underlined .bold } species  
+> > Immune (Contact)
 > >
 > > *All*{: .underlined .bold } Defense bonuses; the *final*{: .underlined .bold } species' Defense becomes 0  
 > >
@@ -1044,7 +1045,8 @@ This flexibility brings a lot of added complexity, though. It's extremely import
 > > *Drain*{: .alt-grey-line }  
 > > Element (Shadow)  
 > > *+ **Optional**{: .underlined }: Element (Shadow) on Indirect and Ranged Techniques*{: .mgl .fs-3 }  
-> > *Secure (Intangible)*{: .alt-grey-line }  
+> > *Fear x2*{: .alt-grey-line }  
+> > Secure (Intangible)  
 > >
 >
 > {: .specie-inner-callout }
@@ -1088,7 +1090,7 @@ This flexibility brings a lot of added complexity, though. It's extremely import
 > > Immune (Fear, Poison)  
 > > Immune (Shadow)  
 > > *You recover **HP**{: .heart-color } equal to the attack's raw damage (minimum **1 HP**{: .heart-color }).*{: .mgl .fs-3 }  
-> > *If there's any excess **HP**{: .heart-color }, your **Dodge**{: .spirit-color } is Boosted (1) for a number of turns equal to the excess **HP**{: .heart-color }, and you can make **Dodge**{: .spirit-color } checks in addition to **Guarding**{: .heart-color } until the Boost wears off.*{: .mgl .fs-3 }  
+> > *If there's any excess **HP**{: .heart-color }, your **Dodge**{: .spirit-color } is Boosted (1) for a number of turns equal to the excess **HP**{: .heart-color }, and you can attempt to **Dodge**{: .spirit-color } before you **Guard**{: .heart-color } until the Boost wears off.*{: .mgl .fs-3 }  
 > > +2 Resist (Ice)  
 > > Weakness (Life Magic, Sudden Light, Stars)  
 > > *Any **HP**{: .heart-color } you would normally recover is treated as damage instead; then, you take double damage.*{: .mgl .fs-3 }  
@@ -1105,7 +1107,8 @@ This flexibility brings a lot of added complexity, though. It's extremely import
 > > *Remove*{: .text-gamma .header-font }  
 > > Specialisations from the base species in *Athletics*{: .heart-color }, *Guard*{: .heart-color }, *Cheer*{: .courage-color }, *Persuade*{: .courage-color } and *Steady*{: .courage-color }; remove any remaining specialisations from the final species one at a time until you have at most 3
 > >
-> > Immunities, Resistances and Weaknesses from the *base*{: .underlinned .bold } species
+> > Immunities, Resistances and Weaknesses from the *base*{: .underlinned .bold } species  
+> > Immune (Contact)
 > >
 > > *All*{: .underlined .bold } Defense bonuses; the *final*{: .underlined .bold } species' Defense becomes 0
 > >
@@ -1115,7 +1118,7 @@ This flexibility brings a lot of added complexity, though. It's extremely import
 > > Fly  
 > > Resilient  
 > >
-> > Contact traits that deal untyped damage (e.g. from Spiny-) 
+> > Contact Traits that deal non-elemental damage (e.g. from Spiny-) 
 > > 
 >
 > {: .specie-inner-callout }
@@ -1166,6 +1169,9 @@ This flexibility brings a lot of added complexity, though. It's extremely import
 >
 > {: .specie-inner-callout }
 > > *Add*{: .text-gamma .header-font }  
+> > *+ Guard (VS Melee)*{: .heart-color }  
+> > *+ Bully (Needling)*{: .courage-color }  
+> > *+ Steady (Poise)*{: .courage-color }  
 > > Immune (Contact)  
 > > *This Immunity is negated if the attacker uses an Indirect attack or is otherwise unaffected to your spikes.*{: .mgl .fs-3 }  
 > > *Depending on the nature of the attack and the position of your spikes, certain attack may still bypass this immunity.*{: .mgl .fs-3 }  
@@ -1175,6 +1181,8 @@ This flexibility brings a lot of added complexity, though. It's extremely import
 >
 > {: .specie-inner-callout }
 > > *Remove*{: .text-gamma .header-font }  
+> > Specialisations from the base species in *Heal*{: .heart-color }, *Cheer*{: .courage-color } and *Persuade*{: .courage-color }; remove any remaining specialisations from the final species one at a time until you have at most 3
+> > 
 > > Carrier  
 > > Contact
 > > 

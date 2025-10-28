@@ -2349,8 +2349,8 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > Tool  
 > > 
 > > +2 Custom Sets  
-> > Custom Sets are customisable Tech Defaults defined during character creation.  
-> > For Humans, each set can include any Traits totalling no more than *3 FP*{: .spirit-color }, but can't include negative Traits.
+> > *Custom Sets are customisable Tech Defaults defined during character creation.*{. fs-3 }  
+> > *For Humans, each set can include any Traits totalling no more than **3 FP**{: .spirit-color }, but can't include negative Traits.*{: .fs-3 }
 > >
 >
 > {: .specie-inverted-callout }
@@ -2919,7 +2919,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > *You receive the following as a Contact trait, lasting for 1 turn per point of Raw Damage:*{: .mgl .fs-3 }  
 > > *The attacker takes 1 Piercing Shock DMG, and you make a **Steady**{: .courage-color } check; the attacker is Dazed (1) for 1 turn for each Grade of Success.*{: .mgl-big .fs-3 }  
 > > Adapted (Clouds)  
-> > Efficient (Elements, Flight, Weather)
+> > Efficient (Flight, Weather)
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
@@ -3575,9 +3575,9 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > *Tool (Built-In)*{: .alt-grey-line }  
 > > Variant (*Perform*{: .courage-color })  
 > >
-> > +2 Custom Sets  
-> > Custom Sets are customisable Tech Defaults defined during character creation.  
-> > For Puppets, each set can include any Traits totalling no more than *2 FP*{: .spirit-color }, can include Tool (Built-In) for no additional *FP cost*{: .spirit-color }, and can't include negative Traits.
+> > +1 Custom Set  
+> > *Custom Sets are customisable Tech Defaults defined during character creation.*{: .fs-3 }  
+> > *For Puppets, they can include any Traits totalling no more than **2 FP**{: .spirit-color }, can include Tool (Built-In) for no additional **FP cost**{: .spirit-color }, and can't include negative Traits.*{: .fs-3 }
 > >
 >
 > {: .specie-inverted-callout }
@@ -3824,7 +3824,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > *+ Bully ("Element")*{: .courage-color }  
 > > 1 Resist ("Element")  
 > > *Elements besides your own are restricted*{: .mgl .fs-3 }  
-> > Efficient (Curses, De-Buffs, "Element", Illusions)  
+> > Efficient (Curses, "Element")  
 > > Fly  
 > > Hover
 >
@@ -3843,12 +3843,12 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > *Ranged*{: .alt-grey-line }  
 > > Weaken (Any)  
 > >
+> > +1 Custom Set  
+> > *Custom Sets are customisable Tech Defaults defined during character creation.*{: .fs-3 }  
+> > *For Sirens, they can include any Traits totalling no more than **2 FP**{: .spirit-color }, must include Element ("Element") for no additional **FP cost**{: .spirit-color }, and can't include negative Traits.*{: .fs-3 }
+> >
 > > *Optional*{: .underlined }: Element ("Element") on any Technique  
-> >
-> > +1 Custom Sets  
-> > Custom Sets are customisable Tech Defaults defined during character creation.  
-> > For Sirens, each set can include any Traits totalling no more than *2 FP*{: .spirit-color }, *must*{: .underlined .bold } include Element ("Element") for no additional *FP cost*{: .spirit-color }, and can't include negative Traits.
-> >
+> > 
 >
 > {: .specie-inverted-callout }
 > > *Example Techniques*{: .text-gamma .header-font .text-grey-lt-000 }  
@@ -3901,7 +3901,7 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > > *+ Knowhow (Lore)*{: .spirit-color }  
 > > *+ Magic (Buffs)*{: .spirit-color }  
 > > *+ Magic (Fortune Telling)*{: .spirit-color }  
-> > Efficient (Buffs, Enchantments, Fortune Telling)
+> > Efficient (Enchantments, Fortune Telling)
 >
 > {: .specie-cons-callout }
 > > *Cons*{: .text-gamma .header-font }  
@@ -4709,11 +4709,11 @@ While all the Species of the Mushroom Kingdom are wildly different, their advant
 > {: .specie-inner-callout }
 > > *Other Traits*{: .text-gamma .header-font }  
 > > State (Berserk)  
-> > *You can become infuriated at the drop of a hat, giving you significant advantages while Provoked. With a successful **Knowhow**{: .spirit-color } action you can even set yourself off, becoming completely Provoked (6) by the nearest enemy target.*{: .mgl .fs-3 }  
-> > *When you're dealt damage and aren't Berserk, you immediately become Provoked by the attacker, with a Level and Duration equal to the damage taken.*{: .mgl .fs-3 }  
-> > *Going Berserk makes you fearsome in battle, Boosting (1) your **Athletics**{: .heart-color }, **Bully**{: .courage-color }, Attack and Defense, and negating your Weakness (Damage) Trait.*{: .mgl .fs-3 }  
+> > *You can become infuriated at the drop of a hat, causing you to enter this state whenever Provoked. Any time you're dealth damage and aren't already Berserk, you immediately become Provoked by the attacker, with a Level and Duration equal to the damage taken.*{: .mgl .fs-3 }  
+> > *With a successful **Knowhow**{: .spirit-color } action you can even set yourself off, becoming completely Provoked (6) by the nearest enemy target.*{: .mgl .fs-3 }  
+> > *Going Berserk makes you fearsome in battle, Boosting (1) your **Athletics**{: .heart-color }, **Bully**{: .courage-color }, Attack and Defense.*{: .mgl .fs-3 }  
 > > *However, you can't think straight, preventing you from making **Notice**{: .spirit-color }, **Cheer**{: .courage-color } or similar mental checks, and **all**{: .underlined } of your Primary and Secondary Checks receive Unwieldy.*{: .mgl .fs-3 }  
-> > *You can still resist and lower Status ailments with **Steady**{: .courage-color } – including Provocation.*{: .mgl .fs-3 }  
+> > *You can still resist and lower Status ailments with **Steady**{: .courage-color } – including the Provoke Status inflicted by this trait.*{: .mgl .fs-3 }  
 > > ***Good!**{: .good-color }: You become Provoked (6) for 2 turns.*{: .mgl .fs-3 }  
 > > ***Great!**{: .great-color }: You become Provoked (6) for 3 turns, plus 1 more turn for every extra Grade of Success, as a free action.*{: .mgl .fs-3 }  
 >

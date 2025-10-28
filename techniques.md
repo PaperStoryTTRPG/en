@@ -894,7 +894,7 @@ The Roulette spinner's world is limitless.* ![](assets/images/icons/tipguy.png)
 > >
 > > The overall Technique has Element (*+1 FP*{: .spirit-color }); now even if they don't choose a Versatile SLot, their Technique still innately deals Earth damage.  
 > > The cost of each Versatile Slot must also be paid (*+6 FP*{: .spirit-color }), and they choose to add Variant (*+1 FP*{: .spirit-coor }) to rely on their superior *Magic*{: .spirit-color } skill.  
-> > At first level they have access to 3 negative traits to save FP, so they add Unwieldy x2 (*-4 FP*{: .spirit-color }) and Commitment (*-2 FP*{: .spirit-color }), for a base cost of *2 FP*{: .spirit-color }.
+> > At first level they have access to 3 negative traits to save *FP*{: .spirit-color }, so they add Unwieldy x2 (*-4 FP*{: .spirit-color }) and Commitment (*-2 FP*{: .spirit-color }), for a base cost of *2 FP*{: .spirit-color }.
 > > 
 > > In the first Slot they add All (*+3 FP*{: .spirit-color }), Strong x2 (*+4 FP*{: .spirit-color }) and Blowback (*-4 FP*{: .spirit-color }), for a total of *+3 FP*{: .spirit-color } – representing boulders raining down.
 > >
@@ -1008,7 +1008,7 @@ The Roulette spinner's world is limitless.* ![](assets/images/icons/tipguy.png)
 > >
 > > A Hammer Bro swings with a devastating melee attack – but their hammer is so heavy, it has a 1 in 6 chance to Fumble!  
 > >
-> > The Fumble Slot contains Harmless, and 6 instances of Penalty (Disarm (Tool)), which would normally save *-9 FP*{: .spirit-color }.  
+> > The Fumble Slot contains Harmless, and 3 instances of Penalty (Disarm (Tool)), which would normally save *-9 FP*{: .spirit-color }.  
 > > This cost is divided by 3, for *-3 FP*{: .spirit-color }.  
 > > When the Hammer Bro fumbles, they're unable to swing – and worse, they lose their grip on their hammer!
 >

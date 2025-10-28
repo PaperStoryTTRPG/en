@@ -540,7 +540,7 @@ You don't need to make any special checks, though you can get more out of your I
 
 ## Power-Ups
 
-Power-Ups are particularly special kinds of consumable Items which provide ongoing effects for a single willing target, similar to Statuses caused by Booster Items.  
+Power-Ups are particularly special totems which provide ongoing effects for a single willing target; while they aren't technically consumable Items, their effects are similar to the Statuses caused by Booster Items.  
 A character can have one Power-Up active at a time, with new Power-Ups replacing existing Power-Ups immediately.
 
 Power-Ups provide a variety of passive benefits, and can grant modifiers to Innate Techniques or give the user access to entirely new Techniques.  
@@ -2015,7 +2015,7 @@ No matter what, the effect of any Badge can only be added once for each copy of 
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
 > >
 > > Bestows the use of the Tornado Jump (*2 FP*{: .spirit-color }) Technique. If you have multiple Tornado Jump Badges, you can use them together by spending *1 FP*{: .spirit-color } for each additional Badge.  
-> > Treat [X] as the number of additional Tornado Jump Badges used.  
+> > Treat [X] as the *total*{: .underlined } number of Tornado Jump Badges used; beginning at 1 for one Badge.  
 > > *Tornado Jump*{: .mgl .fs-3 .header-font }  
 > > *Stomps on an enemy, then generates a burst of wind around them.*{: .mgl .fs-3 }  
 > > ***Athletics**{: .heart-color }:*{: .mgl .fs-3 }  
@@ -2051,7 +2051,7 @@ No matter what, the effect of any Badge can only be added once for each copy of 
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
 > >
 > > Bestows the use of the Double Dip (*4 FP*{: .spirit-color }) Technique. If you have multiple Double Dip Badges, you can use them together by spending *2 FP*{: .spirit-color } for each additional Badge.  
-> > Treat [X] as 1 + the number of additional Double Dip Badges used.  
+> > Treat [X] as 1 + the *total*{: .underlined } number Double Dip Badges in use; beginning at 2 for one Badge.  
 > > *Double Dip*{: .mgl .fs-3 .header-font }  
 > > *Allows you to act as if Hustled at Status Level [X] this turn, but all your Hustle actions must be to use consumable Items.*{: .mgl .fs-3 }  
 > > *You suffer no penalty on those actions for your Hustled Status.*{: .mgl .fs-3 }  
@@ -2067,7 +2067,7 @@ No matter what, the effect of any Badge can only be added once for each copy of 
 > > ![](assets/images/icons/coin-small.png){: .inline-icon } • 100 Coins
 > >
 > > Bestows the use of the Fire Drive (*5 FP*{: .spirit-color }) Technique. If you have multiple Fire Drive Badges, you can use them together by spending *2 FP*{: .spirit-color } for each additional Badge.  
-> > Treat [X] as the number of additional Fire Drive Badges used.  
+> > Treat [X] as the *total*{: .underlined } number of Fire Drive Badges used; beginning at 1 for one Badge.  
 > > *Fire Drive*{: .mgl .fs-3 .header-font }  
 > > *Flings a fireball at the target at range, then blazes a path past them to affect more grounded targets.*{: .mgl .fs-3 }  
 > > ***Aim**{: .heart-color }, **Coordination**{: .heart-color } or **Magic**{: .spirit-color }:*{: .mgl .fs-3 }  

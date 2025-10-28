@@ -142,7 +142,7 @@ Keep in mind these are rough estimates, as many Star Power Techniques don't fit 
 > > 
 > > *20 SP*{: .courage-color }
 > >
-> > Attempts to freeze all targets outside the user's group in time, Stunning them at Status Level 6.  
+> > Attempts to freeze all targets outside the user's group in time, Stunning them.  
 > > The user makes a *Magic*{: .spirit-color } or *Cheer*{: .courage-color } check; for each Grade of Success, targets are completely Stunned (6) for a turn, to a maximum of 5 turns.  
 > > *All, Lengthen x2, Safe, Stun x3, Harmless*{: .fs-3 .italic }  
 > > *Equivalent: **10 FP**{: .spirit-color }*{: .fs-3 .italic }
