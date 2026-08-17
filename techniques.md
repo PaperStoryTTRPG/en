@@ -672,7 +672,7 @@ The Roulette spinner's world is limitless.* ![](assets/images/icons/tipguy.png)
 > This Trait can only be applied to multi-target attacks. The user and their allies are shielded from the negative consequences of this attack (e.g. damage).
 
 {: .content-callout }
-> ### *Scaling*{: .positive-color} ***(+3 FP)**{: .spirit-color } [X]*{: .normal-font .fs-3 }
+> ### *Scaling*{: .positive-color} *(+3 FP)*{: .spirit-color .normal-font .fs-3 }
 >
 > When resolving this Technique's Primary Check, once the maximum result is earned each *additional*{: .underlined } Grade of Success beyond that point increases its Power by +1.  
 > This additional Power cannot be used to increase the number of Strikes.  
