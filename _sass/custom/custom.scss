@@ -943,3 +943,108 @@ table.last-line-head tr:last-child {
   background-color: $ultra-color !important;
   margin-left: 0 !important;
 }
+
+/*
+** Restoring old Just the Docs callout backgrounds after callout markup changes.
+*/
+
+$callout-selectors-example-callout: "blockquote.example-callout, .example-callout, .callout.example-callout, .callout[data-callout='example-callout']";
+$callout-selectors-tip-callout: "blockquote.tip-callout, .tip-callout, .callout.tip-callout, .callout[data-callout='tip-callout']";
+$callout-selectors-specie-callout: "blockquote.specie-callout, .specie-callout, .callout.specie-callout, .callout[data-callout='specie-callout']";
+$callout-selectors-subspecie-callout: "blockquote.subspecie-callout, .subspecie-callout, .callout.subspecie-callout, .callout[data-callout='subspecie-callout']";
+$callout-selectors-specie-pros-callout: "blockquote.specie-pros-callout, .specie-pros-callout, .callout.specie-pros-callout, .callout[data-callout='specie-pros-callout']";
+$callout-selectors-specie-cons-callout: "blockquote.specie-cons-callout, .specie-cons-callout, .callout.specie-cons-callout, .callout[data-callout='specie-cons-callout']";
+$callout-selectors-specie-inner-callout: "blockquote.specie-inner-callout, .specie-inner-callout, .callout.specie-inner-callout, .callout[data-callout='specie-inner-callout']";
+$callout-selectors-specie-inverted-callout: "blockquote.specie-inverted-callout, .specie-inverted-callout, .callout.specie-inverted-callout, .callout[data-callout='specie-inverted-callout']";
+$callout-selectors-example-play-callout: "blockquote.example-play-callout, .example-play-callout, .callout.example-play-callout, .callout[data-callout='example-play-callout']";
+$callout-selectors-terrain-callout: "blockquote.terrain-callout, .terrain-callout, .callout.terrain-callout, .callout[data-callout='terrain-callout']";
+$callout-selectors-terrain-pros-callout: "blockquote.terrain-pros-callout, .terrain-pros-callout, .callout.terrain-pros-callout, .callout[data-callout='terrain-pros-callout']";
+$callout-selectors-terrain-cons-callout: "blockquote.terrain-cons-callout, .terrain-cons-callout, .callout.terrain-cons-callout, .callout[data-callout='terrain-cons-callout']";
+$callout-selectors-item-callout: "blockquote.item-callout, .item-callout, .callout.item-callout, .callout[data-callout='item-callout']";
+$callout-selectors-item-inner-callout: "blockquote.item-inner-callout, .item-inner-callout, .callout.item-inner-callout, .callout[data-callout='item-inner-callout']";
+$callout-selectors-content-callout: "blockquote.content-callout, .content-callout, .callout.content-callout, .callout[data-callout='content-callout']";
+$callout-selectors-character-heart-callout: "blockquote.character-heart-callout, .character-heart-callout, .callout.character-heart-callout, .callout[data-callout='character-heart-callout']";
+$callout-selectors-character-spirit-callout: "blockquote.character-spirit-callout, .character-spirit-callout, .callout.character-spirit-callout, .callout[data-callout='character-spirit-callout']";
+$callout-selectors-character-courage-callout: "blockquote.character-courage-callout, .character-courage-callout, .callout.character-courage-callout, .callout[data-callout='character-courage-callout']";
+$callout-selectors-specie-inner-pros-callout: "blockquote.specie-inner-pros-callout, .specie-inner-pros-callout, .callout.specie-inner-pros-callout, .callout[data-callout='specie-inner-pros-callout']";
+$callout-selectors-specie-inner-cons-callout: "blockquote.specie-inner-cons-callout, .specie-inner-cons-callout, .callout.specie-inner-cons-callout, .callout[data-callout='specie-inner-cons-callout']";
+
+#{unquote($callout-selectors-example-callout)} {
+  background-color: rgba($brown-000, 1) !important;
+}
+
+#{unquote($callout-selectors-tip-callout)} {
+  background-color: rgba($alt-blue-000, 1) !important;
+}
+
+#{unquote($callout-selectors-specie-callout)} {
+  background-color: rgba($beige-000, 1) !important;
+}
+
+#{unquote($callout-selectors-subspecie-callout)} {
+  background-color: rgba($alt-grey-000, 1) !important;
+}
+
+#{unquote($callout-selectors-specie-pros-callout)} {
+  background-color: rgba($alt-green-000, 1) !important;
+}
+
+#{unquote($callout-selectors-specie-cons-callout)} {
+  background-color: rgba($alt-red-000, 1) !important;
+}
+
+#{unquote($callout-selectors-specie-inner-callout)} {
+  background-color: rgba($grey-lt-000, 1) !important;
+}
+
+#{unquote($callout-selectors-specie-inverted-callout)} {
+  background-color: rgba($black-000, 1) !important;
+}
+
+#{unquote($callout-selectors-example-play-callout)} {
+  background-color: rgba($beige-000, 1) !important;
+}
+
+#{unquote($callout-selectors-terrain-callout)} {
+  background-color: rgba($black-000, 1) !important;
+}
+
+#{unquote($callout-selectors-terrain-pros-callout)} {
+  background-color: rgba($alt-green-000, 0.1) !important;
+}
+
+#{unquote($callout-selectors-terrain-cons-callout)} {
+  background-color: rgba($alt-red-000, 0.1) !important;
+}
+
+#{unquote($callout-selectors-item-callout)} {
+  background-color: rgba($beige-000, 1) !important;
+}
+
+#{unquote($callout-selectors-item-inner-callout)} {
+  background-color: rgba($grey-lt-000, 1) !important;
+}
+
+#{unquote($callout-selectors-content-callout)} {
+  background-color: rgba($grey-lt-000, 0.5) !important;
+}
+
+#{unquote($callout-selectors-character-heart-callout)} {
+  background-color: rgba($alt-red-000, 1) !important;
+}
+
+#{unquote($callout-selectors-character-spirit-callout)} {
+  background-color: rgba($alt-green-000, 1) !important;
+}
+
+#{unquote($callout-selectors-character-courage-callout)} {
+  background-color: rgba($alt-yellow-000, 1) !important;
+}
+
+#{unquote($callout-selectors-specie-inner-pros-callout)} {
+  background-color: rgba($alt-green-000, 1) !important;
+}
+
+#{unquote($callout-selectors-specie-inner-cons-callout)} {
+  background-color: rgba($alt-red-000, 1) !important;
+}
